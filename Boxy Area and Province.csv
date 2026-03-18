@@ -1,0 +1,4534 @@
+id,province_code,province_en_name,province,area_name,area_name_slug
+1,BGD,baghdad,بغداد,الشعب,BGD1
+2,BGD,baghdad,بغداد,الحسينية,BGD2
+3,BGD,baghdad,بغداد,زيونة,BGD3
+4,BGD,baghdad,بغداد,الاعظمية,BGD4
+5,BGD,baghdad,بغداد,الفحامة,BGD5
+6,BGD,baghdad,بغداد,مدينة الصدر,BGD6
+7,BGD,baghdad,بغداد,الجادرية,BGD7
+8,BGD,baghdad,بغداد,حي اور,BGD8
+9,BGD,baghdad,بغداد,باب المعظم,BGD9
+10,BGD,baghdad,بغداد,المستنصرية,BGD10
+11,BGD,baghdad,بغداد,النيل,BGD11
+12,BGD,baghdad,بغداد,المهندسين,BGD12
+13,BGD,baghdad,بغداد,حي 14 تموز,BGD13
+14,BGD,baghdad,بغداد,الادريسي / الكرادة,BGD14
+15,BGD,baghdad,بغداد,الوزيرية,BGD15
+16,BGD,baghdad,بغداد,شارع المغرب,BGD16
+17,BGD,baghdad,بغداد,القاهرة,BGD17
+18,BGD,baghdad,بغداد,الكريعات,BGD18
+19,BGD,baghdad,بغداد,سبع ابكار,BGD19
+20,BGD,baghdad,بغداد,حي البنوك,BGD20
+21,BGD,baghdad,بغداد,الصليخ,BGD21
+22,BGD,baghdad,بغداد,حي تونس,BGD22
+23,BGD,baghdad,بغداد,الحبيبية,BGD23
+24,BGD,baghdad,بغداد,حي 9 نيسان,BGD24
+25,BGD,baghdad,بغداد,الغدير,BGD25
+26,BGD,baghdad,بغداد,شارع فلسطين,BGD26
+27,BGD,baghdad,بغداد,بغداد الجديدة,BGD27
+28,BGD,baghdad,بغداد,البلديات,BGD28
+29,BGD,baghdad,بغداد,المشتل,BGD29
+30,BGD,baghdad,بغداد,الرستمية,BGD30
+31,BGD,baghdad,بغداد,الفضيلية,BGD31
+32,BGD,baghdad,بغداد,الكمالية,BGD32
+33,BGD,baghdad,بغداد,حي البتول,BGD33
+34,BGD,baghdad,بغداد,حي النصر,BGD34
+35,BGD,baghdad,بغداد,المعامل,BGD35
+36,BGD,baghdad,بغداد,شارع الرشيد,BGD36
+37,BGD,baghdad,بغداد,العبيدي,BGD37
+38,BGD,baghdad,بغداد,حي الصدرين  / الكفاح,BGD38
+39,BGD,baghdad,بغداد,حي الرشاد,BGD39
+40,BGD,baghdad,بغداد,الكرادة,BGD40
+41,BGD,baghdad,بغداد,الكرادة داخل,BGD41
+42,BGD,baghdad,بغداد,الكرادة خارج,BGD42
+43,BGD,baghdad,بغداد,العرصات,BGD43
+44,BGD,baghdad,بغداد,كمب سارة,BGD44
+45,BGD,baghdad,بغداد,شارع معسكر الرشيد,BGD45
+46,BGD,baghdad,بغداد,معسكر الرشيد,BGD46
+47,BGD,baghdad,بغداد,الزعفرانية,BGD47
+48,BGD,baghdad,بغداد,شارع الربيعي,BGD48
+49,BGD,baghdad,بغداد,الشواكة,BGD49
+50,BGD,baghdad,بغداد,شارع حيفا,BGD50
+51,BGD,baghdad,بغداد,الشيخ معروف,BGD51
+52,BGD,baghdad,بغداد,الشالجية,BGD52
+53,BGD,baghdad,بغداد,الصالحية,BGD53
+54,BGD,baghdad,بغداد,كرادة مريم,BGD54
+55,BGD,baghdad,بغداد,الحارثية,BGD55
+56,BGD,baghdad,بغداد,متنزه الزوراء,BGD56
+57,BGD,baghdad,بغداد,مطار المثنى,BGD57
+58,BGD,baghdad,بغداد,الكاظمية,BGD58
+59,BGD,baghdad,بغداد,العطيفية,BGD59
+60,BGD,baghdad,بغداد,علي الصالح,BGD60
+61,BGD,baghdad,بغداد,الشعلة,BGD61
+62,BGD,baghdad,بغداد,الحرية,BGD62
+63,BGD,baghdad,بغداد,الحرية الاولى,BGD63
+64,BGD,baghdad,بغداد,الحرية الثانية,BGD64
+65,BGD,baghdad,بغداد,الحرية الثالثة,BGD65
+66,BGD,baghdad,بغداد,دباش,BGD66
+67,BGD,baghdad,بغداد,الدولعي,BGD67
+68,BGD,baghdad,بغداد,المنصور,BGD68
+69,BGD,baghdad,بغداد,القادسية,BGD69
+70,BGD,baghdad,بغداد,الوشاش,BGD70
+71,BGD,baghdad,بغداد,الاسكان,BGD71
+72,BGD,baghdad,بغداد,اليرموك,BGD72
+73,BGD,baghdad,بغداد,مجمع السفارات,BGD73
+74,BGD,baghdad,بغداد,العامرية,BGD74
+75,BGD,baghdad,بغداد,حي الخضراء,BGD75
+76,BGD,baghdad,بغداد,حي الجامعة,BGD76
+77,BGD,baghdad,بغداد,حي العدل,BGD77
+78,BGD,baghdad,بغداد,الغزالية,BGD78
+79,BGD,baghdad,بغداد,مطار بغداد,BGD79
+80,BGD,baghdad,بغداد,ابو غريب,BGD80
+81,BGD,baghdad,بغداد,مصفى الدورة,BGD81
+82,BGD,baghdad,بغداد,الدورة,BGD82
+83,BGD,baghdad,بغداد,السيدية,BGD83
+84,BGD,baghdad,بغداد,السويب,BGD84
+85,BGD,baghdad,بغداد,حي العامل,BGD85
+86,BGD,baghdad,بغداد,حي الجهاد,BGD86
+87,BGD,baghdad,بغداد,البياع,BGD87
+88,BGD,baghdad,بغداد,حي الشرطة,BGD88
+89,BGD,baghdad,بغداد,الفرات,BGD89
+90,BGD,baghdad,بغداد,المواصلات,BGD90
+91,BGD,baghdad,بغداد,المكاسب,BGD91
+92,BGD,baghdad,بغداد,الرسالة,BGD92
+93,BGD,baghdad,بغداد,عويريج,BGD93
+94,BGD,baghdad,بغداد,هور رجب,BGD94
+95,BGD,baghdad,بغداد,ميكانيك واسيا,BGD95
+96,BGD,baghdad,بغداد,البوعيثة,BGD96
+97,BGD,baghdad,بغداد,شهداء السيدية,BGD97
+98,BGD,baghdad,بغداد,الاطباء,BGD98
+99,BGD,baghdad,بغداد,تراث تقاطع درويش,BGD99
+100,BGD,baghdad,بغداد,التاجي,BGD100
+101,BGD,baghdad,بغداد,الطارمية,BGD101
+102,BGD,baghdad,بغداد,الراشدية,BGD102
+103,BGD,baghdad,بغداد,سبع البور,BGD103
+104,BGD,baghdad,بغداد,التاجيات,BGD104
+105,BGD,baghdad,بغداد,الكيارة,BGD105
+106,BGD,baghdad,بغداد,البتاوين,BGD106
+107,BGD,baghdad,بغداد,رحمانية الجعيفر,BGD107
+108,BGD,baghdad,بغداد,الجعيفر,BGD108
+109,BGD,baghdad,بغداد,العلاوي,BGD109
+110,BGD,baghdad,بغداد,البيجية,BGD110
+111,BGD,baghdad,بغداد,الفضل,BGD111
+112,BGD,baghdad,بغداد,ساحة الميدان,BGD112
+113,BGD,baghdad,بغداد,الكولات,BGD113
+114,BGD,baghdad,بغداد,الشورجة,BGD114
+115,BGD,baghdad,بغداد,سوق الغزل,BGD115
+116,BGD,baghdad,بغداد,السنك,BGD116
+117,BGD,baghdad,بغداد,باب الشيخ,BGD117
+118,BGD,baghdad,بغداد,كسرة وعطش / مدينة الصدر,BGD118
+119,BGD,baghdad,بغداد,الصرافية,BGD119
+120,BGD,baghdad,بغداد,الثعالبة,BGD120
+121,BGD,baghdad,بغداد,بوب الشام,BGD121
+122,BGD,baghdad,بغداد,شهداء البياع,BGD122
+123,BGD,baghdad,بغداد,شهداء العبيدي,BGD123
+124,BGD,baghdad,بغداد,ام عظام,BGD124
+125,BGD,baghdad,بغداد,الحماميات,BGD125
+126,BGD,baghdad,بغداد,الصابيات,BGD126
+127,BGD,baghdad,بغداد,السلاميات,BGD127
+128,BGD,baghdad,بغداد,منشأة نصر,BGD128
+129,BGD,baghdad,بغداد,مرور التاجي,BGD129
+130,BGD,baghdad,بغداد,شاطئ التاجي,BGD130
+131,BGD,baghdad,بغداد,جسر الدوار,BGD131
+132,BGD,baghdad,بغداد,المشاهدة,BGD132
+133,BGD,baghdad,بغداد,العبايجي,BGD133
+134,BGD,baghdad,بغداد,النباعي,BGD134
+135,BGD,baghdad,بغداد,الجلاعطة,BGD135
+136,BGD,baghdad,بغداد,الطوبجي,BGD136
+137,BGD,baghdad,بغداد,الشيخ عمر,BGD137
+138,BGD,baghdad,بغداد,منطقة ال600,BGD138
+139,BGD,baghdad,بغداد,الكفاح,BGD139
+140,BGD,baghdad,بغداد,النهضة,BGD140
+141,BGD,baghdad,بغداد,حي الحسين,BGD141
+142,BGD,baghdad,بغداد,شقق السلام,BGD142
+143,BGD,baghdad,بغداد,المخابرات,BGD143
+144,BGD,baghdad,بغداد,الرفاق,BGD144
+145,BGD,baghdad,بغداد,الاساتذة,BGD145
+146,BGD,baghdad,بغداد,الملحانية,BGD146
+147,BGD,baghdad,بغداد,الرسالة الاولى,BGD147
+148,BGD,baghdad,بغداد,الرسالة الثانية,BGD148
+149,BGD,baghdad,بغداد,تقاطع درويش,BGD149
+150,BGD,baghdad,بغداد,الاعلام,BGD150
+151,BGD,baghdad,بغداد,حي الشباب,BGD151
+152,BGD,baghdad,بغداد,المواصلات الرابعة,BGD152
+153,BGD,baghdad,بغداد,الرافدين,BGD153
+154,BGD,baghdad,بغداد,جامع الكبير,BGD154
+155,BGD,baghdad,بغداد,الري,BGD155
+156,BGD,baghdad,بغداد,تراث البياع,BGD156
+157,BGD,baghdad,بغداد,تراث البلديات,BGD157
+158,BGD,baghdad,بغداد,المحمودية,BGD158
+159,BGD,baghdad,بغداد,اليوسفية,BGD159
+160,BGD,baghdad,بغداد,اللطيفية,BGD160
+161,BGD,baghdad,بغداد,علوة الرشيد,BGD161
+162,BGD,baghdad,بغداد,كويريش,BGD162
+163,BGD,baghdad,بغداد,الجسر السابع,BGD163
+164,BGD,baghdad,بغداد,صدر اليوسفية,BGD164
+165,BGD,baghdad,بغداد,بسماية,BGD165
+166,BGD,baghdad,بغداد,النهروان,BGD166
+167,BGD,baghdad,بغداد,سلمان باك,BGD167
+168,BGD,baghdad,بغداد,ناحية الوحدة / المدائن,BGD168
+169,BGD,baghdad,بغداد,حي الوحدة / كرادة,BGD169
+170,BGD,baghdad,بغداد,المدائن,BGD170
+171,BGD,baghdad,بغداد,جسر ديالى القديم,BGD171
+172,BGD,baghdad,بغداد,جسر ديالى الجديد,BGD172
+173,BGD,baghdad,بغداد,الكرغولية,BGD173
+174,BGD,baghdad,بغداد,سبع قصور / الشعب,BGD174
+175,BGD,baghdad,بغداد,الجزيرة السياحية,BGD175
+176,BGD,baghdad,بغداد,حي البساتين,BGD176
+177,BGD,baghdad,بغداد,طريق الانتصار,BGD177
+178,BGD,baghdad,بغداد,كميرة,BGD178
+179,BGD,baghdad,بغداد,رئاسة المعلمين,BGD179
+180,BGD,baghdad,بغداد,حي الرئاسة,BGD180
+181,BGD,baghdad,بغداد,حي المعلمين / المشتل,BGD181
+182,BGD,baghdad,بغداد,شاعورة وجدر,BGD182
+183,BGD,baghdad,بغداد,معامل الحسينية,BGD183
+184,BGD,baghdad,بغداد,معامل الباوية,BGD184
+185,BGD,baghdad,بغداد,العماري,BGD185
+186,BGD,baghdad,بغداد,السعادة والكرامة,BGD186
+187,BGD,baghdad,بغداد,الجوادين,BGD187
+188,BGD,baghdad,بغداد,رحمانية الشعلة,BGD188
+189,BGD,baghdad,بغداد,سريدات,BGD189
+190,BGD,baghdad,بغداد,الخطيب,BGD190
+191,BGD,baghdad,بغداد,نفق الشرطة,BGD191
+192,BGD,baghdad,بغداد,بسكولاتة,BGD192
+193,BGD,baghdad,بغداد,ابو دشير,BGD193
+194,BGD,baghdad,بغداد,عرب جبور,BGD194
+195,BGD,baghdad,بغداد,جميلة,BGD195
+196,BGD,baghdad,بغداد,حي طارق,BGD196
+197,BGD,baghdad,بغداد,باب الشرجي,BGD197
+198,BGD,baghdad,بغداد,الامين الاولى,BGD198
+199,BGD,baghdad,بغداد,الامين الثانية,BGD199
+200,BGD,baghdad,بغداد,النعيرية,BGD200
+201,BGD,baghdad,بغداد,معامل النهروان,BGD201
+202,BGD,baghdad,بغداد,السعدون,BGD202
+203,BGD,baghdad,بغداد,الرضوانية الغربية / ابو غريب,BGD203
+204,BGD,baghdad,بغداد,الرضوانية الشرقية / اليوسفية,BGD204
+205,BGD,baghdad,بغداد,الطالبية,BGD205
+206,BGD,baghdad,بغداد,حي المعالف,BGD206
+207,BGD,baghdad,بغداد,حسينية الراشدية,BGD207
+208,BGD,baghdad,بغداد,الشرطة الخامسة,BGD208
+209,BGD,baghdad,بغداد,المنطقة الخضراء,BGD209
+210,BGD,baghdad,بغداد,الشماعية,BGD210
+211,BGD,baghdad,بغداد,شارع مطار بغداد الدولي,BGD211
+212,BGD,baghdad,بغداد,منطقة العزم,BGD212
+213,BGD,baghdad,بغداد,ام الكبر والغزلان,BGD213
+214,BGD,baghdad,بغداد,جكوك,BGD214
+215,BGD,baghdad,بغداد,ناحية الرشيد,BGD215
+216,BGD,baghdad,بغداد,فلكة النصر,BGD216
+217,BGD,baghdad,بغداد,حي السلام / الطوبجي,BGD217
+218,BGD,baghdad,بغداد,المامون,BGD218
+219,BGD,baghdad,بغداد,منطقة ال 120,BGD219
+220,BGD,baghdad,بغداد,الجامعة المستنصرية,BGD220
+221,BGD,baghdad,بغداد,الشرطة الرابعة,BGD221
+222,BGD,baghdad,بغداد,حي الداخلية / اليرموك,BGD222
+223,BGD,baghdad,بغداد,جسر صدام,BGD223
+224,BGD,baghdad,بغداد,تقاطع الشرطة الرابعة,BGD224
+225,BGD,baghdad,بغداد,حي الكوفة,BGD225
+226,BGD,baghdad,بغداد,الضباط الصحفيين,BGD226
+227,BGD,baghdad,بغداد,حي الامين,BGD227
+228,BGD,baghdad,بغداد,حي الرسالة الثانية,BGD228
+229,BGD,baghdad,بغداد,شقق الطالبية,BGD229
+230,BGD,baghdad,بغداد,ساحة التحرير,BGD230
+231,BGD,baghdad,بغداد,ساحة الطيران,BGD231
+232,BGD,baghdad,بغداد,بوابة الكاظمية,BGD232
+233,BGD,baghdad,بغداد,حي الفرات,BGD233
+234,BGD,baghdad,بغداد,رئاسة العبيدي,BGD234
+235,BGD,baghdad,بغداد,ساحة الوثبة,BGD235
+236,BGD,baghdad,بغداد,ساحة عدن,BGD236
+237,BGD,baghdad,بغداد,ساحة الفردوس,BGD237
+238,BGD,baghdad,بغداد,جسر المثنى,BGD238
+239,BGD,baghdad,بغداد,الزوية,BGD239
+240,BGD,baghdad,بغداد,البكرية,BGD240
+241,BGD,baghdad,بغداد,صدر القناة,BGD241
+242,BGD,baghdad,بغداد,الامين الثالثة,BGD242
+243,BGD,baghdad,بغداد,البعيثه,BGD243
+244,BGD,baghdad,بغداد,الشهداء الثانية,BGD244
+245,BGD,baghdad,بغداد,الكفاءات / العبيدي,BGD245
+246,BGD,baghdad,بغداد,شارع المتنبي,BGD246
+247,BGD,baghdad,بغداد,ساحة ميسلون,BGD247
+248,BGD,baghdad,بغداد,جرف النداف,BGD248
+249,BGD,baghdad,بغداد,حي الرفاق / البلديات,BGD249
+250,BGD,baghdad,بغداد,حي المخابرات,BGD250
+251,BGD,baghdad,بغداد,حي صدام,BGD251
+252,BGD,baghdad,بغداد,حي الرسالة الثالثة,BGD252
+253,BGD,baghdad,بغداد,شارع البدالة / الغزالية,BGD253
+254,BGD,baghdad,بغداد,شهداء العبيدي الثانية,BGD254
+255,BGD,baghdad,بغداد,ابو نؤاس,BGD255
+256,BGD,baghdad,بغداد,بزايز اليوسفية,BGD256
+257,BGD,baghdad,بغداد,ملعب الشعب,BGD257
+258,BGD,baghdad,بغداد,ساحة اللقاء,BGD258
+259,BGD,baghdad,بغداد,رحمانية /العلاوي,BGD259
+260,BGD,baghdad,بغداد,ساحة النسور,BGD260
+261,BGD,baghdad,بغداد,حي الامانة,BGD261
+262,BGD,baghdad,بغداد,شارع الصناعة / الكرادة,BGD262
+263,BGD,baghdad,بغداد,حي سومر,BGD263
+264,BGD,baghdad,بغداد,شارع النضال,BGD264
+265,BGD,baghdad,بغداد,شارع الجمهورية,BGD265
+266,BGD,baghdad,بغداد,حي حطين,BGD266
+267,BGD,baghdad,بغداد,كفاءات / السيدية,BGD267
+268,BGD,baghdad,بغداد,حي عدن / الشعب,BGD268
+269,BGD,baghdad,بغداد,الكيلاني,BGD269
+270,BGD,baghdad,بغداد,الاصلاح,BGD270
+271,BGD,baghdad,بغداد,حي السفير,BGD271
+272,BGD,baghdad,بغداد,ساحة الاندلس,BGD272
+273,BGD,baghdad,بغداد,تقاطع النهروان,BGD273
+274,BGD,baghdad,بغداد,حي التربة,BGD274
+275,BGD,baghdad,بغداد,حي الرسالة الاولى,BGD275
+276,BGD,baghdad,بغداد,حي المعلمين / القاهرة,BGD276
+277,BGD,baghdad,بغداد,حي المعلمين / الدورة,BGD277
+278,BGD,baghdad,بغداد,حي السلام / قرب حي الجهاد,BGD278
+279,BGD,baghdad,بغداد,سبع قصور / الكرادة,BGD279
+280,BGD,baghdad,بغداد,حي الرفاق / حي العامل,BGD280
+281,BGD,baghdad,بغداد,شارع البدالة / الكمالية,BGD281
+282,BGD,baghdad,بغداد,الادريسي / شارع فلسطين,BGD282
+283,BGD,baghdad,بغداد,حي الصدرين / الشعلة,BGD283
+284,BGD,baghdad,بغداد,حي الصدرين / مدينة الصدر,BGD284
+285,BGD,baghdad,بغداد,الأثوريين,BGD285
+286,BGD,baghdad,بغداد,طعمة,BGD286
+287,BGD,baghdad,بغداد,أبو طيارة,BGD287
+288,BGD,baghdad,بغداد,جمعية خير الله,BGD288
+289,BGD,baghdad,بغداد,الهواشة,BGD289
+290,BGD,baghdad,بغداد,غير محدد,other
+291,BGD,baghdad,بغداد,الجملة العصبية,BGD291
+292,BGD,baghdad,بغداد,بوابة العراق,BGD292
+293,BGD,baghdad,بغداد,الطي,BGD293
+294,BGD,baghdad,بغداد,الكسرة,BGD294
+295,BGD,baghdad,بغداد,الفضيلية,BGD295
+296,BGD,baghdad,بغداد,مجمع الايادي,BGD296
+297,BGD,baghdad,بغداد,ابراهيم بن علي,BGD297
+298,BGD,baghdad,بغداد,مدينة الطب,BGD298
+299,BGD,baghdad,بغداد,نواب الضباط,BGD299
+300,BGD,baghdad,بغداد,الحرية نواب الضباط,BGD300
+301,BGD,baghdad,بغداد,ابن البيطار,BGD301
+302,BGD,baghdad,بغداد,المحاسبيين,BGD302
+303,KRB,karbala,كربلاء,ناحية عون,KRB303
+304,KRB,karbala,كربلاء,الحر,KRB304
+305,KRB,karbala,كربلاء,ناحية الحسينية,KRB305
+306,KRB,karbala,كربلاء,عين التمر,KRB306
+307,KRB,karbala,كربلاء,ناحية الرحالية,KRB307
+308,KRB,karbala,كربلاء,طويريج,KRB308
+309,KRB,karbala,كربلاء,الجدول الغربي,KRB309
+310,KRB,karbala,كربلاء,ناحية الخيرات,KRB310
+311,KRB,karbala,كربلاء,حي القادسية,KRB311
+312,KRB,karbala,كربلاء,حي العامل,KRB312
+313,KRB,karbala,كربلاء,حي النواب,KRB313
+314,KRB,karbala,كربلاء,حي الموظفين,KRB314
+315,KRB,karbala,كربلاء,حي الغدير,KRB315
+316,KRB,karbala,كربلاء,حي الاسرة,KRB316
+317,KRB,karbala,كربلاء,حي الحسين,KRB317
+318,KRB,karbala,كربلاء,حي العباس,KRB318
+319,KRB,karbala,كربلاء,حي سيف سعد,KRB319
+320,KRB,karbala,كربلاء,حي الامين,KRB320
+321,KRB,karbala,كربلاء,شارع ميثم التمار,KRB321
+322,KRB,karbala,كربلاء,حي النقيب,KRB322
+323,KRB,karbala,كربلاء,حي البلدية,KRB323
+324,KRB,karbala,كربلاء,حي العسكري,KRB324
+325,KRB,karbala,كربلاء,حي الامن الداخلي,KRB325
+326,KRB,karbala,كربلاء,حي السلام,KRB326
+327,KRB,karbala,كربلاء,حي النصر,KRB327
+328,KRB,karbala,كربلاء,حي الوفاء,KRB328
+329,KRB,karbala,كربلاء,حي المجتبى,KRB329
+330,KRB,karbala,كربلاء,حي الاسكان,KRB330
+331,KRB,karbala,كربلاء,حي الزهراء,KRB331
+332,KRB,karbala,كربلاء,حي الحافظ,KRB332
+333,KRB,karbala,كربلاء,حي الجابر,KRB333
+334,KRB,karbala,كربلاء,حي الزبيلية,KRB334
+335,KRB,karbala,كربلاء,شارع ابو طالب,KRB335
+336,KRB,karbala,كربلاء,حي الرسالة,KRB336
+337,KRB,karbala,كربلاء,حي الملحق,KRB337
+338,KRB,karbala,كربلاء,حي التعاون,KRB338
+339,KRB,karbala,كربلاء,حي الجاهز,KRB339
+340,KRB,karbala,كربلاء,حي البعث,KRB340
+341,KRB,karbala,كربلاء,حي التحدي,KRB341
+342,KRB,karbala,كربلاء,حي المعلجي,KRB342
+343,KRB,karbala,كربلاء,البوبيات,KRB343
+344,KRB,karbala,كربلاء,شارع احمد الوائلي,KRB344
+345,KRB,karbala,كربلاء,حي المحمدية,KRB345
+346,KRB,karbala,كربلاء,حي الاطباء,KRB346
+347,KRB,karbala,كربلاء,حي المعلمين,KRB347
+348,KRB,karbala,كربلاء,حي الفارس,KRB348
+349,KRB,karbala,كربلاء,كنطرة السلام,KRB349
+350,KRB,karbala,كربلاء,باب طويريج,KRB350
+351,KRB,karbala,كربلاء,سيطرة الابراهيمية,KRB351
+352,KRB,karbala,كربلاء,العامرية,KRB352
+353,KRB,karbala,كربلاء,السياحي,KRB353
+354,KRB,karbala,كربلاء,المعهد التقني,KRB354
+355,KRB,karbala,كربلاء,نهر السلام,KRB355
+356,KRB,karbala,كربلاء,شط الله,KRB356
+357,KRB,karbala,كربلاء,العيوج صدور وبزايز,KRB357
+358,KRB,karbala,كربلاء,الرجيبة,KRB358
+359,KRB,karbala,كربلاء,حي العباس / الرجيبة,KRB359
+360,KRB,karbala,كربلاء,حي العسكري / الرجيبة,KRB360
+361,KRB,karbala,كربلاء,الشاطي,KRB361
+362,KRB,karbala,كربلاء,الكويل,KRB362
+363,KRB,karbala,كربلاء,شط ملة,KRB363
+364,KRB,karbala,كربلاء,ال عبد الله,KRB364
+365,KRB,karbala,كربلاء,ال مجلي,KRB365
+366,KRB,karbala,كربلاء,الفيادة,KRB366
+367,KRB,karbala,كربلاء,الكريط,KRB367
+368,KRB,karbala,كربلاء,ابو عويجيلة,KRB368
+369,KRB,karbala,كربلاء,ابو رواية,KRB369
+370,KRB,karbala,كربلاء,حي الجمعية,KRB370
+371,KRB,karbala,كربلاء,حي المثنى,KRB371
+372,KRB,karbala,كربلاء,حي ابو جوعانة,KRB372
+373,KRB,karbala,كربلاء,حي الضباط,KRB373
+374,KRB,karbala,كربلاء,حي ام الهوى,KRB374
+375,KRB,karbala,كربلاء,حي الشهداء,KRB375
+376,KRB,karbala,كربلاء,حي الحسين / طويريج,KRB376
+377,KRB,karbala,كربلاء,شارع الحولي / طويريج,KRB377
+378,KRB,karbala,كربلاء,الطبر,KRB378
+379,KRB,karbala,كربلاء,الرشيدة,KRB379
+380,KRB,karbala,كربلاء,جناجه,KRB380
+381,KRB,karbala,كربلاء,حي الرياض,KRB381
+382,KRB,karbala,كربلاء,حي الشبذين,KRB382
+383,KRB,karbala,كربلاء,حي الزهراء / طويريج,KRB383
+384,KRB,karbala,كربلاء,حي ابليبيج,KRB384
+385,KRB,karbala,كربلاء,شارع الربط,KRB385
+386,KRB,karbala,كربلاء,قرب الامام,KRB386
+387,KRB,karbala,كربلاء,حي الولاء,KRB387
+388,KRB,karbala,كربلاء,عامود 685,KRB388
+389,KRB,karbala,كربلاء,عامود 686,KRB389
+390,KRB,karbala,كربلاء,عامود 687,KRB390
+391,KRB,karbala,كربلاء,عامود 688,KRB391
+392,KRB,karbala,كربلاء,عامود 689,KRB392
+393,KRB,karbala,كربلاء,عامود 690,KRB393
+394,KRB,karbala,كربلاء,عامود 691,KRB394
+395,KRB,karbala,كربلاء,عامود 692,KRB395
+396,KRB,karbala,كربلاء,عامود 693,KRB396
+397,KRB,karbala,كربلاء,عامود 694,KRB397
+398,KRB,karbala,كربلاء,عامود 695,KRB398
+399,KRB,karbala,كربلاء,عامود 696,KRB399
+400,KRB,karbala,كربلاء,عامود 697,KRB400
+401,KRB,karbala,كربلاء,عامود 698,KRB401
+402,KRB,karbala,كربلاء,عامود 699,KRB402
+403,KRB,karbala,كربلاء,عامود 700,KRB403
+404,KRB,karbala,كربلاء,عامود 701,KRB404
+405,KRB,karbala,كربلاء,عامود 702,KRB405
+406,KRB,karbala,كربلاء,عامود 703,KRB406
+407,KRB,karbala,كربلاء,عامود 704,KRB407
+408,KRB,karbala,كربلاء,عامود 705,KRB408
+409,KRB,karbala,كربلاء,عامود 706,KRB409
+410,KRB,karbala,كربلاء,عامود 707,KRB410
+411,KRB,karbala,كربلاء,عامود 708,KRB411
+412,KRB,karbala,كربلاء,عامود 709,KRB412
+413,KRB,karbala,كربلاء,عامود 710,KRB413
+414,KRB,karbala,كربلاء,عامود 711,KRB414
+415,KRB,karbala,كربلاء,عامود 712,KRB415
+416,KRB,karbala,كربلاء,عامود 713,KRB416
+417,KRB,karbala,كربلاء,عامود 714,KRB417
+418,KRB,karbala,كربلاء,عامود 715,KRB418
+419,KRB,karbala,كربلاء,عامود 716,KRB419
+420,KRB,karbala,كربلاء,عامود 717,KRB420
+421,KRB,karbala,كربلاء,عامود 718,KRB421
+422,KRB,karbala,كربلاء,عامود 719,KRB422
+423,KRB,karbala,كربلاء,عامود 720,KRB423
+424,KRB,karbala,كربلاء,عامود 721,KRB424
+425,KRB,karbala,كربلاء,عامود 722,KRB425
+426,KRB,karbala,كربلاء,عامود 723,KRB426
+427,KRB,karbala,كربلاء,عامود 724,KRB427
+428,KRB,karbala,كربلاء,عامود 725,KRB428
+429,KRB,karbala,كربلاء,عامود 726,KRB429
+430,KRB,karbala,كربلاء,عامود 727,KRB430
+431,KRB,karbala,كربلاء,عامود 728,KRB431
+432,KRB,karbala,كربلاء,عامود 729,KRB432
+433,KRB,karbala,كربلاء,عامود 730,KRB433
+434,KRB,karbala,كربلاء,عامود 731,KRB434
+435,KRB,karbala,كربلاء,عامود 732,KRB435
+436,KRB,karbala,كربلاء,عامود 733,KRB436
+437,KRB,karbala,كربلاء,عامود 734,KRB437
+438,KRB,karbala,كربلاء,عامود 735,KRB438
+439,KRB,karbala,كربلاء,عامود 736,KRB439
+440,KRB,karbala,كربلاء,عامود 737,KRB440
+441,KRB,karbala,كربلاء,عامود 738,KRB441
+442,KRB,karbala,كربلاء,عامود 739,KRB442
+443,KRB,karbala,كربلاء,عامود 740,KRB443
+444,KRB,karbala,كربلاء,عامود 741,KRB444
+445,KRB,karbala,كربلاء,عامود 742,KRB445
+446,KRB,karbala,كربلاء,عامود 743,KRB446
+447,KRB,karbala,كربلاء,عامود 744,KRB447
+448,KRB,karbala,كربلاء,عامود 745,KRB448
+449,KRB,karbala,كربلاء,عامود 746,KRB449
+450,KRB,karbala,كربلاء,عامود 747,KRB450
+451,KRB,karbala,كربلاء,عامود 748,KRB451
+452,KRB,karbala,كربلاء,عامود 749,KRB452
+453,KRB,karbala,كربلاء,عامود 750,KRB453
+454,KRB,karbala,كربلاء,عامود 751,KRB454
+455,KRB,karbala,كربلاء,عامود 752,KRB455
+456,KRB,karbala,كربلاء,عامود 753,KRB456
+457,KRB,karbala,كربلاء,عامود 754,KRB457
+458,KRB,karbala,كربلاء,عامود 755,KRB458
+459,KRB,karbala,كربلاء,عامود 756,KRB459
+460,KRB,karbala,كربلاء,عامود 757,KRB460
+461,KRB,karbala,كربلاء,عامود 758,KRB461
+462,KRB,karbala,كربلاء,عامود 759,KRB462
+463,KRB,karbala,كربلاء,عامود 760,KRB463
+464,KRB,karbala,كربلاء,عامود 761,KRB464
+465,KRB,karbala,كربلاء,عامود 762,KRB465
+466,KRB,karbala,كربلاء,عامود 763,KRB466
+467,KRB,karbala,كربلاء,عامود 764,KRB467
+468,KRB,karbala,كربلاء,عامود 765,KRB468
+469,KRB,karbala,كربلاء,عامود 766,KRB469
+470,KRB,karbala,كربلاء,عامود 767,KRB470
+471,KRB,karbala,كربلاء,عامود 768,KRB471
+472,KRB,karbala,كربلاء,عامود 769,KRB472
+473,KRB,karbala,كربلاء,عامود 770,KRB473
+474,KRB,karbala,كربلاء,عامود 771,KRB474
+475,KRB,karbala,كربلاء,عامود 772,KRB475
+476,KRB,karbala,كربلاء,عامود 773,KRB476
+477,KRB,karbala,كربلاء,عامود 774,KRB477
+478,KRB,karbala,كربلاء,عامود 775,KRB478
+479,KRB,karbala,كربلاء,عامود 776,KRB479
+480,KRB,karbala,كربلاء,عامود 777,KRB480
+481,KRB,karbala,كربلاء,عامود 778,KRB481
+482,KRB,karbala,كربلاء,عامود 779,KRB482
+483,KRB,karbala,كربلاء,عامود 780,KRB483
+484,KRB,karbala,كربلاء,عامود 781,KRB484
+485,KRB,karbala,كربلاء,عامود 782,KRB485
+486,KRB,karbala,كربلاء,عامود 783,KRB486
+487,KRB,karbala,كربلاء,عامود 784,KRB487
+488,KRB,karbala,كربلاء,عامود 785,KRB488
+489,KRB,karbala,كربلاء,عامود 786,KRB489
+490,KRB,karbala,كربلاء,عامود 787,KRB490
+491,KRB,karbala,كربلاء,عامود 788,KRB491
+492,KRB,karbala,كربلاء,عامود 789,KRB492
+493,KRB,karbala,كربلاء,عامود 790,KRB493
+494,KRB,karbala,كربلاء,عامود 791,KRB494
+495,KRB,karbala,كربلاء,عامود 792,KRB495
+496,KRB,karbala,كربلاء,عامود 793,KRB496
+497,KRB,karbala,كربلاء,عامود 794,KRB497
+498,KRB,karbala,كربلاء,عامود 795,KRB498
+499,KRB,karbala,كربلاء,عامود 796,KRB499
+500,KRB,karbala,كربلاء,عامود 797,KRB500
+501,KRB,karbala,كربلاء,عامود 798,KRB501
+502,KRB,karbala,كربلاء,عامود 799,KRB502
+503,KRB,karbala,كربلاء,عامود 800,KRB503
+504,KRB,karbala,كربلاء,عامود 801,KRB504
+505,KRB,karbala,كربلاء,عامود 802,KRB505
+506,KRB,karbala,كربلاء,عامود 803,KRB506
+507,KRB,karbala,كربلاء,عامود 804,KRB507
+508,KRB,karbala,كربلاء,عامود 805,KRB508
+509,KRB,karbala,كربلاء,عامود 806,KRB509
+510,KRB,karbala,كربلاء,عامود 807,KRB510
+511,KRB,karbala,كربلاء,عامود 808,KRB511
+512,KRB,karbala,كربلاء,عامود 809,KRB512
+513,KRB,karbala,كربلاء,عامود 810,KRB513
+514,KRB,karbala,كربلاء,عامود 811,KRB514
+515,KRB,karbala,كربلاء,عامود 812,KRB515
+516,KRB,karbala,كربلاء,عامود 813,KRB516
+517,KRB,karbala,كربلاء,عامود 814,KRB517
+518,KRB,karbala,كربلاء,عامود 815,KRB518
+519,KRB,karbala,كربلاء,عامود 816,KRB519
+520,KRB,karbala,كربلاء,عامود 817,KRB520
+521,KRB,karbala,كربلاء,عامود 818,KRB521
+522,KRB,karbala,كربلاء,عامود 819,KRB522
+523,KRB,karbala,كربلاء,عامود 820,KRB523
+524,KRB,karbala,كربلاء,عامود 821,KRB524
+525,KRB,karbala,كربلاء,عامود 822,KRB525
+526,KRB,karbala,كربلاء,عامود 823,KRB526
+527,KRB,karbala,كربلاء,عامود 824,KRB527
+528,KRB,karbala,كربلاء,عامود 825,KRB528
+529,KRB,karbala,كربلاء,عامود 826,KRB529
+530,KRB,karbala,كربلاء,عامود 827,KRB530
+531,KRB,karbala,كربلاء,عامود 828,KRB531
+532,KRB,karbala,كربلاء,عامود 829,KRB532
+533,KRB,karbala,كربلاء,عامود 830,KRB533
+534,KRB,karbala,كربلاء,عامود 831,KRB534
+535,KRB,karbala,كربلاء,عامود 832,KRB535
+536,KRB,karbala,كربلاء,عامود 833,KRB536
+537,KRB,karbala,كربلاء,عامود 834,KRB537
+538,KRB,karbala,كربلاء,عامود 835,KRB538
+539,KRB,karbala,كربلاء,عامود 836,KRB539
+540,KRB,karbala,كربلاء,عامود 837,KRB540
+541,KRB,karbala,كربلاء,عامود 838,KRB541
+542,KRB,karbala,كربلاء,عامود 839,KRB542
+543,KRB,karbala,كربلاء,عامود 840,KRB543
+544,KRB,karbala,كربلاء,عامود 841,KRB544
+545,KRB,karbala,كربلاء,عامود 842,KRB545
+546,KRB,karbala,كربلاء,عامود 843,KRB546
+547,KRB,karbala,كربلاء,عامود 844,KRB547
+548,KRB,karbala,كربلاء,عامود 845,KRB548
+549,KRB,karbala,كربلاء,عامود 846,KRB549
+550,KRB,karbala,كربلاء,عامود 847,KRB550
+551,KRB,karbala,كربلاء,عامود 848,KRB551
+552,KRB,karbala,كربلاء,عامود 849,KRB552
+553,KRB,karbala,كربلاء,عامود 850,KRB553
+554,KRB,karbala,كربلاء,عامود 851,KRB554
+555,KRB,karbala,كربلاء,عامود 852,KRB555
+556,KRB,karbala,كربلاء,عامود 853,KRB556
+557,KRB,karbala,كربلاء,عامود 854,KRB557
+558,KRB,karbala,كربلاء,عامود 855,KRB558
+559,KRB,karbala,كربلاء,عامود 856,KRB559
+560,KRB,karbala,كربلاء,عامود 857,KRB560
+561,KRB,karbala,كربلاء,عامود 858,KRB561
+562,KRB,karbala,كربلاء,عامود 859,KRB562
+563,KRB,karbala,كربلاء,عامود 860,KRB563
+564,KRB,karbala,كربلاء,عامود 861,KRB564
+565,KRB,karbala,كربلاء,عامود 862,KRB565
+566,KRB,karbala,كربلاء,عامود 863,KRB566
+567,KRB,karbala,كربلاء,عامود 864,KRB567
+568,KRB,karbala,كربلاء,عامود 865,KRB568
+569,KRB,karbala,كربلاء,عامود 866,KRB569
+570,KRB,karbala,كربلاء,عامود 867,KRB570
+571,KRB,karbala,كربلاء,عامود 868,KRB571
+572,KRB,karbala,كربلاء,عامود 869,KRB572
+573,KRB,karbala,كربلاء,عامود 870,KRB573
+574,KRB,karbala,كربلاء,عامود 871,KRB574
+575,KRB,karbala,كربلاء,عامود 872,KRB575
+576,KRB,karbala,كربلاء,عامود 873,KRB576
+577,KRB,karbala,كربلاء,عامود 874,KRB577
+578,KRB,karbala,كربلاء,عامود 875,KRB578
+579,KRB,karbala,كربلاء,عامود 876,KRB579
+580,KRB,karbala,كربلاء,عامود 877,KRB580
+581,KRB,karbala,كربلاء,عامود 878,KRB581
+582,KRB,karbala,كربلاء,عامود 879,KRB582
+583,KRB,karbala,كربلاء,عامود 880,KRB583
+584,KRB,karbala,كربلاء,عامود 881,KRB584
+585,KRB,karbala,كربلاء,عامود 882,KRB585
+586,KRB,karbala,كربلاء,عامود 883,KRB586
+587,KRB,karbala,كربلاء,عامود 884,KRB587
+588,KRB,karbala,كربلاء,عامود 885,KRB588
+589,KRB,karbala,كربلاء,عامود 886,KRB589
+590,KRB,karbala,كربلاء,عامود 887,KRB590
+591,KRB,karbala,كربلاء,عامود 888,KRB591
+592,KRB,karbala,كربلاء,عامود 889,KRB592
+593,KRB,karbala,كربلاء,عامود 890,KRB593
+594,KRB,karbala,كربلاء,عامود 891,KRB594
+595,KRB,karbala,كربلاء,عامود 892,KRB595
+596,KRB,karbala,كربلاء,عامود 893,KRB596
+597,KRB,karbala,كربلاء,عامود 894,KRB597
+598,KRB,karbala,كربلاء,عامود 895,KRB598
+599,KRB,karbala,كربلاء,عامود 896,KRB599
+600,KRB,karbala,كربلاء,عامود 897,KRB600
+601,KRB,karbala,كربلاء,عامود 898,KRB601
+602,KRB,karbala,كربلاء,عامود 899,KRB602
+603,KRB,karbala,كربلاء,عامود 900,KRB603
+604,KRB,karbala,كربلاء,عامود 901,KRB604
+605,KRB,karbala,كربلاء,عامود 902,KRB605
+606,KRB,karbala,كربلاء,عامود 903,KRB606
+607,KRB,karbala,كربلاء,عامود 904,KRB607
+608,KRB,karbala,كربلاء,عامود 905,KRB608
+609,KRB,karbala,كربلاء,عامود 906,KRB609
+610,KRB,karbala,كربلاء,عامود 907,KRB610
+611,KRB,karbala,كربلاء,عامود 908,KRB611
+612,KRB,karbala,كربلاء,عامود 909,KRB612
+613,KRB,karbala,كربلاء,عامود 910,KRB613
+614,KRB,karbala,كربلاء,عامود 911,KRB614
+615,KRB,karbala,كربلاء,عامود 912,KRB615
+616,KRB,karbala,كربلاء,عامود 913,KRB616
+617,KRB,karbala,كربلاء,عامود 914,KRB617
+618,KRB,karbala,كربلاء,عامود 915,KRB618
+619,KRB,karbala,كربلاء,عامود 916,KRB619
+620,KRB,karbala,كربلاء,عامود 917,KRB620
+621,KRB,karbala,كربلاء,عامود 918,KRB621
+622,KRB,karbala,كربلاء,عامود 919,KRB622
+623,KRB,karbala,كربلاء,عامود 920,KRB623
+624,KRB,karbala,كربلاء,عامود 921,KRB624
+625,KRB,karbala,كربلاء,عامود 922,KRB625
+626,KRB,karbala,كربلاء,عامود 923,KRB626
+627,KRB,karbala,كربلاء,عامود 924,KRB627
+628,KRB,karbala,كربلاء,عامود 925,KRB628
+629,KRB,karbala,كربلاء,عامود 926,KRB629
+630,KRB,karbala,كربلاء,عامود 927,KRB630
+631,KRB,karbala,كربلاء,عامود 928,KRB631
+632,KRB,karbala,كربلاء,عامود 929,KRB632
+633,KRB,karbala,كربلاء,عامود 930,KRB633
+634,KRB,karbala,كربلاء,عامود 931,KRB634
+635,KRB,karbala,كربلاء,عامود 932,KRB635
+636,KRB,karbala,كربلاء,عامود 933,KRB636
+637,KRB,karbala,كربلاء,عامود 934,KRB637
+638,KRB,karbala,كربلاء,عامود 935,KRB638
+639,KRB,karbala,كربلاء,عامود 936,KRB639
+640,KRB,karbala,كربلاء,عامود 937,KRB640
+641,KRB,karbala,كربلاء,عامود 938,KRB641
+642,KRB,karbala,كربلاء,عامود 939,KRB642
+643,KRB,karbala,كربلاء,عامود 940,KRB643
+644,KRB,karbala,كربلاء,عامود 941,KRB644
+645,KRB,karbala,كربلاء,عامود 942,KRB645
+646,KRB,karbala,كربلاء,عامود 943,KRB646
+647,KRB,karbala,كربلاء,عامود 944,KRB647
+648,KRB,karbala,كربلاء,عامود 945,KRB648
+649,KRB,karbala,كربلاء,عامود 946,KRB649
+650,KRB,karbala,كربلاء,عامود 947,KRB650
+651,KRB,karbala,كربلاء,عامود 948,KRB651
+652,KRB,karbala,كربلاء,عامود 949,KRB652
+653,KRB,karbala,كربلاء,عامود 950,KRB653
+654,KRB,karbala,كربلاء,عامود 951,KRB654
+655,KRB,karbala,كربلاء,عامود 952,KRB655
+656,KRB,karbala,كربلاء,عامود 953,KRB656
+657,KRB,karbala,كربلاء,عامود 954,KRB657
+658,KRB,karbala,كربلاء,عامود 955,KRB658
+659,KRB,karbala,كربلاء,عامود 956,KRB659
+660,KRB,karbala,كربلاء,عامود 957,KRB660
+661,KRB,karbala,كربلاء,عامود 958,KRB661
+662,KRB,karbala,كربلاء,عامود 959,KRB662
+663,KRB,karbala,كربلاء,عامود 960,KRB663
+664,KRB,karbala,كربلاء,عامود 961,KRB664
+665,KRB,karbala,كربلاء,عامود 962,KRB665
+666,KRB,karbala,كربلاء,عامود 963,KRB666
+667,KRB,karbala,كربلاء,عامود 964,KRB667
+668,KRB,karbala,كربلاء,عامود 965,KRB668
+669,KRB,karbala,كربلاء,عامود 966,KRB669
+670,KRB,karbala,كربلاء,عامود 967,KRB670
+671,KRB,karbala,كربلاء,عامود 968,KRB671
+672,KRB,karbala,كربلاء,عامود 969,KRB672
+673,KRB,karbala,كربلاء,عامود 970,KRB673
+674,KRB,karbala,كربلاء,عامود 971,KRB674
+675,KRB,karbala,كربلاء,عامود 972,KRB675
+676,KRB,karbala,كربلاء,عامود 973,KRB676
+677,KRB,karbala,كربلاء,عامود 974,KRB677
+678,KRB,karbala,كربلاء,عامود 975,KRB678
+679,KRB,karbala,كربلاء,عامود 976,KRB679
+680,KRB,karbala,كربلاء,عامود 977,KRB680
+681,KRB,karbala,كربلاء,عامود 978,KRB681
+682,KRB,karbala,كربلاء,عامود 979,KRB682
+683,KRB,karbala,كربلاء,عامود 980,KRB683
+684,KRB,karbala,كربلاء,عامود 981,KRB684
+685,KRB,karbala,كربلاء,عامود 982,KRB685
+686,KRB,karbala,كربلاء,عامود 983,KRB686
+687,KRB,karbala,كربلاء,عامود 984,KRB687
+688,KRB,karbala,كربلاء,عامود 985,KRB688
+689,KRB,karbala,كربلاء,عامود 986,KRB689
+690,KRB,karbala,كربلاء,عامود 987,KRB690
+691,KRB,karbala,كربلاء,عامود 988,KRB691
+692,KRB,karbala,كربلاء,عامود 989,KRB692
+693,KRB,karbala,كربلاء,عامود 990,KRB693
+694,KRB,karbala,كربلاء,عامود 991,KRB694
+695,KRB,karbala,كربلاء,عامود 992,KRB695
+696,KRB,karbala,كربلاء,عامود 993,KRB696
+697,KRB,karbala,كربلاء,عامود 994,KRB697
+698,KRB,karbala,كربلاء,عامود 995,KRB698
+699,KRB,karbala,كربلاء,عامود 996,KRB699
+700,KRB,karbala,كربلاء,عامود 997,KRB700
+701,KRB,karbala,كربلاء,عامود 998,KRB701
+702,KRB,karbala,كربلاء,عامود 999,KRB702
+703,KRB,karbala,كربلاء,عامود 1000,KRB703
+704,KRB,karbala,كربلاء,عامود 1001,KRB704
+705,KRB,karbala,كربلاء,عامود 1002,KRB705
+706,KRB,karbala,كربلاء,عامود 1003,KRB706
+707,KRB,karbala,كربلاء,عامود 1004,KRB707
+708,KRB,karbala,كربلاء,عامود 1005,KRB708
+709,KRB,karbala,كربلاء,عامود 1006,KRB709
+710,KRB,karbala,كربلاء,عامود 1007,KRB710
+711,KRB,karbala,كربلاء,عامود 1008,KRB711
+712,KRB,karbala,كربلاء,عامود 1009,KRB712
+713,KRB,karbala,كربلاء,عامود 1010,KRB713
+714,KRB,karbala,كربلاء,عامود 1011,KRB714
+715,KRB,karbala,كربلاء,عامود 1012,KRB715
+716,KRB,karbala,كربلاء,عامود 1013,KRB716
+717,KRB,karbala,كربلاء,عامود 1014,KRB717
+718,KRB,karbala,كربلاء,عامود 1015,KRB718
+719,KRB,karbala,كربلاء,عامود 1016,KRB719
+720,KRB,karbala,كربلاء,عامود 1017,KRB720
+721,KRB,karbala,كربلاء,عامود 1018,KRB721
+722,KRB,karbala,كربلاء,عامود 1019,KRB722
+723,KRB,karbala,كربلاء,عامود 1020,KRB723
+724,KRB,karbala,كربلاء,عامود 1021,KRB724
+725,KRB,karbala,كربلاء,عامود 1022,KRB725
+726,KRB,karbala,كربلاء,عامود 1023,KRB726
+727,KRB,karbala,كربلاء,عامود 1024,KRB727
+728,KRB,karbala,كربلاء,عامود 1025,KRB728
+729,KRB,karbala,كربلاء,عامود 1026,KRB729
+730,KRB,karbala,كربلاء,عامود 1027,KRB730
+731,KRB,karbala,كربلاء,عامود 1028,KRB731
+732,KRB,karbala,كربلاء,عامود 1029,KRB732
+733,KRB,karbala,كربلاء,عامود 1030,KRB733
+734,KRB,karbala,كربلاء,عامود 1031,KRB734
+735,KRB,karbala,كربلاء,عامود 1032,KRB735
+736,KRB,karbala,كربلاء,عامود 1033,KRB736
+737,KRB,karbala,كربلاء,عامود 1034,KRB737
+738,KRB,karbala,كربلاء,عامود 1035,KRB738
+739,KRB,karbala,كربلاء,عامود 1036,KRB739
+740,KRB,karbala,كربلاء,عامود 1037,KRB740
+741,KRB,karbala,كربلاء,عامود 1038,KRB741
+742,KRB,karbala,كربلاء,عامود 1039,KRB742
+743,KRB,karbala,كربلاء,عامود 1040,KRB743
+744,KRB,karbala,كربلاء,عامود 1041,KRB744
+745,KRB,karbala,كربلاء,عامود 1042,KRB745
+746,KRB,karbala,كربلاء,عامود 1043,KRB746
+747,KRB,karbala,كربلاء,عامود 1044,KRB747
+748,KRB,karbala,كربلاء,عامود 1045,KRB748
+749,KRB,karbala,كربلاء,عامود 1046,KRB749
+750,KRB,karbala,كربلاء,عامود 1047,KRB750
+751,KRB,karbala,كربلاء,عامود 1048,KRB751
+752,KRB,karbala,كربلاء,عامود 1049,KRB752
+753,KRB,karbala,كربلاء,عامود 1050,KRB753
+754,KRB,karbala,كربلاء,عامود 1051,KRB754
+755,KRB,karbala,كربلاء,عامود 1052,KRB755
+756,KRB,karbala,كربلاء,عامود 1053,KRB756
+757,KRB,karbala,كربلاء,عامود 1054,KRB757
+758,KRB,karbala,كربلاء,عامود 1055,KRB758
+759,KRB,karbala,كربلاء,عامود 1056,KRB759
+760,KRB,karbala,كربلاء,عامود 1057,KRB760
+761,KRB,karbala,كربلاء,عامود 1058,KRB761
+762,KRB,karbala,كربلاء,عامود 1059,KRB762
+763,KRB,karbala,كربلاء,عامود 1060,KRB763
+764,KRB,karbala,كربلاء,عامود 1061,KRB764
+765,KRB,karbala,كربلاء,عامود 1062,KRB765
+766,KRB,karbala,كربلاء,عامود 1063,KRB766
+767,KRB,karbala,كربلاء,عامود 1064,KRB767
+768,KRB,karbala,كربلاء,عامود 1065,KRB768
+769,KRB,karbala,كربلاء,عامود 1066,KRB769
+770,KRB,karbala,كربلاء,عامود 1067,KRB770
+771,KRB,karbala,كربلاء,عامود 1068,KRB771
+772,KRB,karbala,كربلاء,عامود 1069,KRB772
+773,KRB,karbala,كربلاء,عامود 1070,KRB773
+774,KRB,karbala,كربلاء,عامود 1071,KRB774
+775,KRB,karbala,كربلاء,عامود 1072,KRB775
+776,KRB,karbala,كربلاء,عامود 1073,KRB776
+777,KRB,karbala,كربلاء,عامود 1074,KRB777
+778,KRB,karbala,كربلاء,عامود 1075,KRB778
+779,KRB,karbala,كربلاء,عامود 1076,KRB779
+780,KRB,karbala,كربلاء,عامود 1077,KRB780
+781,KRB,karbala,كربلاء,عامود 1078,KRB781
+782,KRB,karbala,كربلاء,عامود 1079,KRB782
+783,KRB,karbala,كربلاء,عامود 1080,KRB783
+784,KRB,karbala,كربلاء,عامود 1081,KRB784
+785,KRB,karbala,كربلاء,عامود 1082,KRB785
+786,KRB,karbala,كربلاء,عامود 1083,KRB786
+787,KRB,karbala,كربلاء,عامود 1084,KRB787
+788,KRB,karbala,كربلاء,عامود 1085,KRB788
+789,KRB,karbala,كربلاء,عامود 1086,KRB789
+790,KRB,karbala,كربلاء,عامود 1087,KRB790
+791,KRB,karbala,كربلاء,عامود 1088,KRB791
+792,KRB,karbala,كربلاء,عامود 1089,KRB792
+793,KRB,karbala,كربلاء,عامود 1090,KRB793
+794,KRB,karbala,كربلاء,عامود 1091,KRB794
+795,KRB,karbala,كربلاء,عامود 1092,KRB795
+796,KRB,karbala,كربلاء,عامود 1093,KRB796
+797,KRB,karbala,كربلاء,عامود 1094,KRB797
+798,KRB,karbala,كربلاء,عامود 1095,KRB798
+799,KRB,karbala,كربلاء,عامود 1096,KRB799
+800,KRB,karbala,كربلاء,عامود 1097,KRB800
+801,KRB,karbala,كربلاء,عامود 1098,KRB801
+802,KRB,karbala,كربلاء,عامود 1099,KRB802
+803,KRB,karbala,كربلاء,عامود 1100,KRB803
+804,KRB,karbala,كربلاء,عامود 1101,KRB804
+805,KRB,karbala,كربلاء,عامود 1102,KRB805
+806,KRB,karbala,كربلاء,عامود 1103,KRB806
+807,KRB,karbala,كربلاء,عامود 1104,KRB807
+808,KRB,karbala,كربلاء,عامود 1105,KRB808
+809,KRB,karbala,كربلاء,عامود 1106,KRB809
+810,KRB,karbala,كربلاء,عامود 1107,KRB810
+811,KRB,karbala,كربلاء,عامود 1108,KRB811
+812,KRB,karbala,كربلاء,عامود 1109,KRB812
+813,KRB,karbala,كربلاء,عامود 1110,KRB813
+814,KRB,karbala,كربلاء,عامود 1111,KRB814
+815,KRB,karbala,كربلاء,عامود 1112,KRB815
+816,KRB,karbala,كربلاء,عامود 1113,KRB816
+817,KRB,karbala,كربلاء,عامود 1114,KRB817
+818,KRB,karbala,كربلاء,عامود 1115,KRB818
+819,KRB,karbala,كربلاء,عامود 1116,KRB819
+820,KRB,karbala,كربلاء,عامود 1117,KRB820
+821,KRB,karbala,كربلاء,عامود 1118,KRB821
+822,KRB,karbala,كربلاء,عامود 1119,KRB822
+823,KRB,karbala,كربلاء,عامود 1120,KRB823
+824,KRB,karbala,كربلاء,عامود 1121,KRB824
+825,KRB,karbala,كربلاء,عامود 1122,KRB825
+826,KRB,karbala,كربلاء,عامود 1123,KRB826
+827,KRB,karbala,كربلاء,عامود 1124,KRB827
+828,KRB,karbala,كربلاء,عامود 1125,KRB828
+829,KRB,karbala,كربلاء,عامود 1126,KRB829
+830,KRB,karbala,كربلاء,عامود 1127,KRB830
+831,KRB,karbala,كربلاء,عامود 1128,KRB831
+832,KRB,karbala,كربلاء,عامود 1129,KRB832
+833,KRB,karbala,كربلاء,عامود 1130,KRB833
+834,KRB,karbala,كربلاء,عامود 1131,KRB834
+835,KRB,karbala,كربلاء,عامود 1132,KRB835
+836,KRB,karbala,كربلاء,عامود 1133,KRB836
+837,KRB,karbala,كربلاء,عامود 1134,KRB837
+838,KRB,karbala,كربلاء,عامود 1135,KRB838
+839,KRB,karbala,كربلاء,عامود 1136,KRB839
+840,KRB,karbala,كربلاء,عامود 1137,KRB840
+841,KRB,karbala,كربلاء,عامود 1138,KRB841
+842,KRB,karbala,كربلاء,عامود 1139,KRB842
+843,KRB,karbala,كربلاء,عامود 1140,KRB843
+844,KRB,karbala,كربلاء,عامود 1141,KRB844
+845,KRB,karbala,كربلاء,عامود 1142,KRB845
+846,KRB,karbala,كربلاء,عامود 1143,KRB846
+847,KRB,karbala,كربلاء,عامود 1144,KRB847
+848,KRB,karbala,كربلاء,عامود 1145,KRB848
+849,KRB,karbala,كربلاء,عامود 1146,KRB849
+850,KRB,karbala,كربلاء,عامود 1147,KRB850
+851,KRB,karbala,كربلاء,عامود 1148,KRB851
+852,KRB,karbala,كربلاء,عامود 1149,KRB852
+853,KRB,karbala,كربلاء,عامود 1150,KRB853
+854,KRB,karbala,كربلاء,عامود 1151,KRB854
+855,KRB,karbala,كربلاء,عامود 1152,KRB855
+856,KRB,karbala,كربلاء,عامود 1153,KRB856
+857,KRB,karbala,كربلاء,عامود 1154,KRB857
+858,KRB,karbala,كربلاء,عامود 1155,KRB858
+859,KRB,karbala,كربلاء,عامود 1156,KRB859
+860,KRB,karbala,كربلاء,عامود 1157,KRB860
+861,KRB,karbala,كربلاء,عامود 1158,KRB861
+862,KRB,karbala,كربلاء,عامود 1159,KRB862
+863,KRB,karbala,كربلاء,عامود 1160,KRB863
+864,KRB,karbala,كربلاء,عامود 1161,KRB864
+865,KRB,karbala,كربلاء,عامود 1162,KRB865
+866,KRB,karbala,كربلاء,عامود 1163,KRB866
+867,KRB,karbala,كربلاء,عامود 1164,KRB867
+868,KRB,karbala,كربلاء,عامود 1165,KRB868
+869,KRB,karbala,كربلاء,عامود 1166,KRB869
+870,KRB,karbala,كربلاء,عامود 1167,KRB870
+871,KRB,karbala,كربلاء,عامود 1168,KRB871
+872,KRB,karbala,كربلاء,عامود 1169,KRB872
+873,KRB,karbala,كربلاء,عامود 1170,KRB873
+874,KRB,karbala,كربلاء,عامود 1171,KRB874
+875,KRB,karbala,كربلاء,عامود 1172,KRB875
+876,KRB,karbala,كربلاء,عامود 1173,KRB876
+877,KRB,karbala,كربلاء,عامود 1174,KRB877
+878,KRB,karbala,كربلاء,عامود 1175,KRB878
+879,KRB,karbala,كربلاء,عامود 1176,KRB879
+880,KRB,karbala,كربلاء,عامود 1177,KRB880
+881,KRB,karbala,كربلاء,عامود 1178,KRB881
+882,KRB,karbala,كربلاء,عامود 1179,KRB882
+883,KRB,karbala,كربلاء,عامود 1180,KRB883
+884,KRB,karbala,كربلاء,عامود 1181,KRB884
+885,KRB,karbala,كربلاء,عامود 1182,KRB885
+886,KRB,karbala,كربلاء,عامود 1183,KRB886
+887,KRB,karbala,كربلاء,عامود 1184,KRB887
+888,KRB,karbala,كربلاء,عامود 1185,KRB888
+889,KRB,karbala,كربلاء,عامود 1186,KRB889
+890,KRB,karbala,كربلاء,عامود 1187,KRB890
+891,KRB,karbala,كربلاء,عامود 1188,KRB891
+892,KRB,karbala,كربلاء,عامود 1189,KRB892
+893,KRB,karbala,كربلاء,عامود 1190,KRB893
+894,KRB,karbala,كربلاء,عامود 1191,KRB894
+895,KRB,karbala,كربلاء,عامود 1192,KRB895
+896,KRB,karbala,كربلاء,عامود 1193,KRB896
+897,KRB,karbala,كربلاء,عامود 1194,KRB897
+898,KRB,karbala,كربلاء,عامود 1195,KRB898
+899,KRB,karbala,كربلاء,عامود 1196,KRB899
+900,KRB,karbala,كربلاء,عامود 1197,KRB900
+901,KRB,karbala,كربلاء,عامود 1198,KRB901
+902,KRB,karbala,كربلاء,عامود 1199,KRB902
+903,KRB,karbala,كربلاء,عامود 1200,KRB903
+904,KRB,karbala,كربلاء,عامود 1201,KRB904
+905,KRB,karbala,كربلاء,عامود 1202,KRB905
+906,KRB,karbala,كربلاء,عامود 1203,KRB906
+907,KRB,karbala,كربلاء,عامود 1204,KRB907
+908,KRB,karbala,كربلاء,عامود 1205,KRB908
+909,KRB,karbala,كربلاء,عامود 1206,KRB909
+910,KRB,karbala,كربلاء,عامود 1207,KRB910
+911,KRB,karbala,كربلاء,عامود 1208,KRB911
+912,KRB,karbala,كربلاء,عامود 1209,KRB912
+913,KRB,karbala,كربلاء,عامود 1210,KRB913
+914,KRB,karbala,كربلاء,عامود 1211,KRB914
+915,KRB,karbala,كربلاء,عامود 1212,KRB915
+916,KRB,karbala,كربلاء,عامود 1213,KRB916
+917,KRB,karbala,كربلاء,عامود 1214,KRB917
+918,KRB,karbala,كربلاء,عامود 1215,KRB918
+919,KRB,karbala,كربلاء,عامود 1216,KRB919
+920,KRB,karbala,كربلاء,عامود 1217,KRB920
+921,KRB,karbala,كربلاء,عامود 1218,KRB921
+922,KRB,karbala,كربلاء,عامود 1219,KRB922
+923,KRB,karbala,كربلاء,عامود 1220,KRB923
+924,KRB,karbala,كربلاء,عامود 1221,KRB924
+925,KRB,karbala,كربلاء,عامود 1222,KRB925
+926,KRB,karbala,كربلاء,عامود 1223,KRB926
+927,KRB,karbala,كربلاء,عامود 1224,KRB927
+928,KRB,karbala,كربلاء,عامود 1225,KRB928
+929,KRB,karbala,كربلاء,عامود 1226,KRB929
+930,KRB,karbala,كربلاء,عامود 1227,KRB930
+931,KRB,karbala,كربلاء,عامود 1228,KRB931
+932,KRB,karbala,كربلاء,عامود 1229,KRB932
+933,KRB,karbala,كربلاء,عامود 1230,KRB933
+934,KRB,karbala,كربلاء,عامود 1231,KRB934
+935,KRB,karbala,كربلاء,عامود 1232,KRB935
+936,KRB,karbala,كربلاء,عامود 1233,KRB936
+937,KRB,karbala,كربلاء,عامود 1234,KRB937
+938,KRB,karbala,كربلاء,عامود 1235,KRB938
+939,KRB,karbala,كربلاء,عامود 1236,KRB939
+940,KRB,karbala,كربلاء,عامود 1237,KRB940
+941,KRB,karbala,كربلاء,عامود 1238,KRB941
+942,KRB,karbala,كربلاء,عامود 1239,KRB942
+943,KRB,karbala,كربلاء,عامود 1240,KRB943
+944,KRB,karbala,كربلاء,عامود 1241,KRB944
+945,KRB,karbala,كربلاء,عامود 1242,KRB945
+946,KRB,karbala,كربلاء,عامود 1243,KRB946
+947,KRB,karbala,كربلاء,عامود 1244,KRB947
+948,KRB,karbala,كربلاء,عامود 1245,KRB948
+949,KRB,karbala,كربلاء,عامود 1246,KRB949
+950,KRB,karbala,كربلاء,عامود 1247,KRB950
+951,KRB,karbala,كربلاء,عامود 1248,KRB951
+952,KRB,karbala,كربلاء,عامود 1249,KRB952
+953,KRB,karbala,كربلاء,عامود 1250,KRB953
+954,KRB,karbala,كربلاء,عامود 1251,KRB954
+955,KRB,karbala,كربلاء,عامود 1252,KRB955
+956,KRB,karbala,كربلاء,عامود 1253,KRB956
+957,KRB,karbala,كربلاء,عامود 1254,KRB957
+958,KRB,karbala,كربلاء,عامود 1255,KRB958
+959,KRB,karbala,كربلاء,عامود 1256,KRB959
+960,KRB,karbala,كربلاء,عامود 1257,KRB960
+961,KRB,karbala,كربلاء,عامود 1258,KRB961
+962,KRB,karbala,كربلاء,عامود 1259,KRB962
+963,KRB,karbala,كربلاء,عامود 1260,KRB963
+964,KRB,karbala,كربلاء,عامود 1261,KRB964
+965,KRB,karbala,كربلاء,عامود 1262,KRB965
+966,KRB,karbala,كربلاء,عامود 1263,KRB966
+967,KRB,karbala,كربلاء,عامود 1264,KRB967
+968,KRB,karbala,كربلاء,عامود 1265,KRB968
+969,KRB,karbala,كربلاء,عامود 1266,KRB969
+970,KRB,karbala,كربلاء,عامود 1267,KRB970
+971,KRB,karbala,كربلاء,عامود 1268,KRB971
+972,KRB,karbala,كربلاء,عامود 1269,KRB972
+973,KRB,karbala,كربلاء,عامود 1270,KRB973
+974,KRB,karbala,كربلاء,عامود 1271,KRB974
+975,KRB,karbala,كربلاء,عامود 1272,KRB975
+976,KRB,karbala,كربلاء,عامود 1273,KRB976
+977,KRB,karbala,كربلاء,عامود 1274,KRB977
+978,KRB,karbala,كربلاء,عامود 1275,KRB978
+979,KRB,karbala,كربلاء,عامود 1276,KRB979
+980,KRB,karbala,كربلاء,عامود 1277,KRB980
+981,KRB,karbala,كربلاء,عامود 1278,KRB981
+982,KRB,karbala,كربلاء,عامود 1279,KRB982
+983,KRB,karbala,كربلاء,عامود 1280,KRB983
+984,KRB,karbala,كربلاء,عامود 1281,KRB984
+985,KRB,karbala,كربلاء,عامود 1282,KRB985
+986,KRB,karbala,كربلاء,عامود 1283,KRB986
+987,KRB,karbala,كربلاء,عامود 1284,KRB987
+988,KRB,karbala,كربلاء,عامود 1285,KRB988
+989,KRB,karbala,كربلاء,عامود 1286,KRB989
+990,KRB,karbala,كربلاء,عامود 1287,KRB990
+991,KRB,karbala,كربلاء,عامود 1288,KRB991
+992,KRB,karbala,كربلاء,عامود 1289,KRB992
+993,KRB,karbala,كربلاء,عامود 1290,KRB993
+994,KRB,karbala,كربلاء,عامود 1291,KRB994
+995,KRB,karbala,كربلاء,عامود 1292,KRB995
+996,KRB,karbala,كربلاء,عامود 1293,KRB996
+997,KRB,karbala,كربلاء,عامود 1294,KRB997
+998,KRB,karbala,كربلاء,عامود 1295,KRB998
+999,KRB,karbala,كربلاء,عامود 1296,KRB999
+1000,KRB,karbala,كربلاء,عامود 1297,KRB1000
+1001,KRB,karbala,كربلاء,عامود 1298,KRB1001
+1002,KRB,karbala,كربلاء,عامود 1299,KRB1002
+1003,KRB,karbala,كربلاء,عامود 1300,KRB1003
+1004,KRB,karbala,كربلاء,عامود 1301,KRB1004
+1005,KRB,karbala,كربلاء,عامود 1302,KRB1005
+1006,KRB,karbala,كربلاء,عامود 1303,KRB1006
+1007,KRB,karbala,كربلاء,عامود 1304,KRB1007
+1008,KRB,karbala,كربلاء,عامود 1305,KRB1008
+1009,KRB,karbala,كربلاء,عامود 1306,KRB1009
+1010,KRB,karbala,كربلاء,عامود 1307,KRB1010
+1011,KRB,karbala,كربلاء,عامود 1308,KRB1011
+1012,KRB,karbala,كربلاء,عامود 1309,KRB1012
+1013,KRB,karbala,كربلاء,عامود 1310,KRB1013
+1014,KRB,karbala,كربلاء,عامود 1311,KRB1014
+1015,KRB,karbala,كربلاء,عامود 1312,KRB1015
+1016,KRB,karbala,كربلاء,عامود 1313,KRB1016
+1017,KRB,karbala,كربلاء,عامود 1314,KRB1017
+1018,KRB,karbala,كربلاء,عامود 1315,KRB1018
+1019,KRB,karbala,كربلاء,عامود 1316,KRB1019
+1020,KRB,karbala,كربلاء,عامود 1317,KRB1020
+1021,KRB,karbala,كربلاء,عامود 1318,KRB1021
+1022,KRB,karbala,كربلاء,عامود 1319,KRB1022
+1023,KRB,karbala,كربلاء,عامود 1320,KRB1023
+1024,KRB,karbala,كربلاء,عامود 1321,KRB1024
+1025,KRB,karbala,كربلاء,عامود 1322,KRB1025
+1026,KRB,karbala,كربلاء,عامود 1323,KRB1026
+1027,KRB,karbala,كربلاء,عامود 1324,KRB1027
+1028,KRB,karbala,كربلاء,عامود 1325,KRB1028
+1029,KRB,karbala,كربلاء,عامود 1326,KRB1029
+1030,KRB,karbala,كربلاء,عامود 1327,KRB1030
+1031,KRB,karbala,كربلاء,عامود 1328,KRB1031
+1032,KRB,karbala,كربلاء,عامود 1329,KRB1032
+1033,KRB,karbala,كربلاء,عامود 1330,KRB1033
+1034,KRB,karbala,كربلاء,عامود 1331,KRB1034
+1035,KRB,karbala,كربلاء,عامود 1332,KRB1035
+1036,KRB,karbala,كربلاء,عامود 1333,KRB1036
+1037,KRB,karbala,كربلاء,عامود 1334,KRB1037
+1038,KRB,karbala,كربلاء,عامود 1335,KRB1038
+1039,KRB,karbala,كربلاء,عامود 1336,KRB1039
+1040,KRB,karbala,كربلاء,عامود 1337,KRB1040
+1041,KRB,karbala,كربلاء,عامود 1338,KRB1041
+1042,KRB,karbala,كربلاء,عامود 1339,KRB1042
+1043,KRB,karbala,كربلاء,عامود 1340,KRB1043
+1044,KRB,karbala,كربلاء,عامود 1341,KRB1044
+1045,KRB,karbala,كربلاء,عامود 1342,KRB1045
+1046,KRB,karbala,كربلاء,عامود 1343,KRB1046
+1047,KRB,karbala,كربلاء,عامود 1344,KRB1047
+1048,KRB,karbala,كربلاء,عامود 1345,KRB1048
+1049,KRB,karbala,كربلاء,عامود 1346,KRB1049
+1050,KRB,karbala,كربلاء,عامود 1347,KRB1050
+1051,KRB,karbala,كربلاء,عامود 1348,KRB1051
+1052,KRB,karbala,كربلاء,عامود 1349,KRB1052
+1053,KRB,karbala,كربلاء,عامود 1350,KRB1053
+1054,KRB,karbala,كربلاء,عامود 1351,KRB1054
+1055,KRB,karbala,كربلاء,عامود 1352,KRB1055
+1056,KRB,karbala,كربلاء,عامود 1353,KRB1056
+1057,KRB,karbala,كربلاء,عامود 1354,KRB1057
+1058,KRB,karbala,كربلاء,عامود 1355,KRB1058
+1059,KRB,karbala,كربلاء,عامود 1356,KRB1059
+1060,KRB,karbala,كربلاء,عامود 1357,KRB1060
+1061,KRB,karbala,كربلاء,عامود 1358,KRB1061
+1062,KRB,karbala,كربلاء,عامود 1359,KRB1062
+1063,KRB,karbala,كربلاء,عامود 1360,KRB1063
+1064,KRB,karbala,كربلاء,عامود 1361,KRB1064
+1065,KRB,karbala,كربلاء,عامود 1362,KRB1065
+1066,KRB,karbala,كربلاء,عامود 1363,KRB1066
+1067,KRB,karbala,كربلاء,عامود 1364,KRB1067
+1068,KRB,karbala,كربلاء,عامود 1365,KRB1068
+1069,KRB,karbala,كربلاء,عامود 1366,KRB1069
+1070,KRB,karbala,كربلاء,عامود 1367,KRB1070
+1071,KRB,karbala,كربلاء,عامود 1368,KRB1071
+1072,KRB,karbala,كربلاء,عامود 1369,KRB1072
+1073,KRB,karbala,كربلاء,عامود 1370,KRB1073
+1074,KRB,karbala,كربلاء,عامود 1371,KRB1074
+1075,KRB,karbala,كربلاء,عامود 1372,KRB1075
+1076,KRB,karbala,كربلاء,عامود 1373,KRB1076
+1077,KRB,karbala,كربلاء,عامود 1374,KRB1077
+1078,KRB,karbala,كربلاء,عامود 1375,KRB1078
+1079,KRB,karbala,كربلاء,عامود 1376,KRB1079
+1080,KRB,karbala,كربلاء,عامود 1377,KRB1080
+1081,KRB,karbala,كربلاء,عامود 1378,KRB1081
+1082,KRB,karbala,كربلاء,عامود 1379,KRB1082
+1083,KRB,karbala,كربلاء,عامود 1380,KRB1083
+1084,KRB,karbala,كربلاء,عامود 1381,KRB1084
+1085,KRB,karbala,كربلاء,عامود 1382,KRB1085
+1086,KRB,karbala,كربلاء,عامود 1383,KRB1086
+1087,KRB,karbala,كربلاء,عامود 1384,KRB1087
+1088,KRB,karbala,كربلاء,عامود 1385,KRB1088
+1089,KRB,karbala,كربلاء,عامود 1386,KRB1089
+1090,KRB,karbala,كربلاء,عامود 1387,KRB1090
+1091,KRB,karbala,كربلاء,عامود 1388,KRB1091
+1092,KRB,karbala,كربلاء,عامود 1389,KRB1092
+1093,KRB,karbala,كربلاء,عامود 1390,KRB1093
+1094,KRB,karbala,كربلاء,عامود 1391,KRB1094
+1095,KRB,karbala,كربلاء,عامود 1392,KRB1095
+1096,KRB,karbala,كربلاء,عامود 1393,KRB1096
+1097,KRB,karbala,كربلاء,عامود 1394,KRB1097
+1098,KRB,karbala,كربلاء,عامود 1395,KRB1098
+1099,KRB,karbala,كربلاء,عامود 1396,KRB1099
+1100,KRB,karbala,كربلاء,عامود 1397,KRB1100
+1101,KRB,karbala,كربلاء,عامود 1398,KRB1101
+1102,KRB,karbala,كربلاء,عامود 1399,KRB1102
+1103,KRB,karbala,كربلاء,عامود 1400,KRB1103
+1104,KRB,karbala,كربلاء,الالف دار,KRB1104
+1105,KRB,karbala,كربلاء,الولاية,KRB1105
+1106,KRB,karbala,كربلاء,باب بغداد,KRB1106
+1107,KRB,karbala,كربلاء,مدينة الزائرين,KRB1107
+1108,KRB,karbala,كربلاء,العطيشي,KRB1108
+1109,KRB,karbala,كربلاء,شارع بني تميم,KRB1109
+1110,KRB,karbala,كربلاء,الشبانات,KRB1110
+1111,KRB,karbala,كربلاء,الحسينية,KRB1111
+1112,KRB,karbala,كربلاء,طريق النجف,KRB1112
+1113,KRB,karbala,كربلاء,مفرق العطيشي,KRB1113
+1114,KRB,karbala,كربلاء,العباسية,KRB1114
+1115,KRB,karbala,كربلاء,حي الميلاد,KRB1115
+1116,KRB,karbala,كربلاء,قنطرة السلام,KRB1116
+1117,KRB,karbala,كربلاء,الهندية,KRB1117
+1118,KRB,karbala,كربلاء,سيطرة الوند,KRB1118
+1119,KRB,karbala,كربلاء,الكراج الموحد,KRB1119
+1120,KRB,karbala,كربلاء,جامعة فريحة,KRB1120
+1121,KRB,karbala,كربلاء,شارع العباس,KRB1121
+1122,KRB,karbala,كربلاء,حي شبانات,KRB1122
+1123,KRB,karbala,كربلاء,حي المدراء,KRB1123
+1124,KRB,karbala,كربلاء,حي الصمود,KRB1124
+1125,KRB,karbala,كربلاء,الجابر,KRB1125
+1126,KRB,karbala,كربلاء,الابراهيمية,KRB1126
+1127,KRB,karbala,كربلاء,حي رمضان,KRB1127
+1128,KRB,karbala,كربلاء,حي النضال,KRB1128
+1129,KRB,karbala,كربلاء,سيطرة الشريفات,KRB1129
+1130,KRB,karbala,كربلاء,الامام عون,KRB1130
+1131,KRB,karbala,كربلاء,حي الحر,KRB1131
+1132,KRB,karbala,كربلاء,حي العسكرية,KRB1132
+1133,KRB,karbala,كربلاء,طريق بغداد,KRB1133
+1134,KRB,karbala,كربلاء,حي الامام,KRB1134
+1135,KRB,karbala,كربلاء,قضاء الحسينية,KRB1135
+1136,KRB,karbala,كربلاء,طريق كربلاء بغداد,KRB1136
+1137,KRB,karbala,كربلاء,شهداء الموظفين,KRB1137
+1138,KRB,karbala,كربلاء,شارع النجف,KRB1138
+1139,KRB,karbala,كربلاء,جاير,KRB1139
+1140,KRB,karbala,كربلاء,حصوة السعود,KRB1140
+1141,KRB,karbala,كربلاء,حي الانتفاضة الثالثة,KRB1141
+1142,KRB,karbala,كربلاء,حي الشرطة,KRB1142
+1143,KRB,karbala,كربلاء,البلديات,KRB1143
+1144,KRB,karbala,كربلاء,المركزية,KRB1144
+1145,KRB,karbala,كربلاء,الحر الصغير,KRB1145
+1146,KRB,karbala,كربلاء,باب طارق,KRB1146
+1147,KRB,karbala,كربلاء,باب الطاق,KRB1147
+1148,KRB,karbala,كربلاء,الجمالية,KRB1148
+1149,KRB,karbala,كربلاء,حي الزيتون,KRB1149
+1150,KRB,karbala,كربلاء,حي الامامين,KRB1150
+1151,KRB,karbala,كربلاء,شارع سيد جودة,KRB1151
+1152,KRB,karbala,كربلاء,الروضتين,KRB1152
+1153,KRB,karbala,كربلاء,سوق الحبوبي,KRB1153
+1154,KRB,karbala,كربلاء,الحي الصناعي,KRB1154
+1155,KRB,karbala,كربلاء,حي الجوادين,KRB1155
+1156,KRB,karbala,كربلاء,حي المهندسين,KRB1156
+1157,KRB,karbala,كربلاء,حي الانتفاضة الاولى,KRB1157
+1158,KRB,karbala,كربلاء,العباسية الشرقية الثانية,KRB1158
+1159,KRB,karbala,كربلاء,المحيط,KRB1159
+1160,KRB,karbala,كربلاء,الكمالية,KRB1160
+1161,KRB,karbala,كربلاء,حي القدس,KRB1161
+1162,KRB,karbala,كربلاء,الطريق الحولي,KRB1162
+1163,KRB,karbala,كربلاء,سيدة رقية,KRB1163
+1164,KRB,karbala,كربلاء,حي الامل,KRB1164
+1165,KRB,karbala,كربلاء,حي الايطارات,KRB1165
+1166,KRB,karbala,كربلاء,حي الاساتذة,KRB1166
+1167,KRB,karbala,كربلاء,المخيم,KRB1167
+1168,KRB,karbala,كربلاء,منطقة الطاقة,KRB1168
+1169,KRB,karbala,كربلاء,الانصار,KRB1169
+1170,KRB,karbala,كربلاء,البناء الجاهز,KRB1170
+1171,KRB,karbala,كربلاء,شارع الجمهورية,KRB1171
+1172,KRB,karbala,كربلاء,شهداء سيف سعد,KRB1172
+1173,KRB,karbala,كربلاء,شارع السناتر,KRB1173
+1174,KRB,karbala,كربلاء,حي الجامعة,KRB1174
+1175,KRB,karbala,كربلاء,قرية البوحميد,KRB1175
+1176,KRB,karbala,كربلاء,درة كربلاء,KRB1176
+1177,KRB,karbala,كربلاء,النخيب,KRB1177
+1178,KRB,karbala,كربلاء,مطار كربلاء,KRB1178
+1179,KRB,karbala,كربلاء,الرزازة,KRB1179
+1180,KRB,karbala,كربلاء,الحرية,KRB1180
+1181,KRB,karbala,كربلاء,سيد الاوصياء,KRB1181
+1182,KRB,karbala,كربلاء,الانتفاضة الثانية,KRB1182
+1183,KRB,karbala,كربلاء,البهادلية,KRB1183
+1184,KRB,karbala,كربلاء,حي الاطارات,KRB1184
+1185,KRB,karbala,كربلاء,حي الجاير,KRB1185
+1186,KRB,karbala,كربلاء,حي التربية,KRB1186
+1187,KRB,karbala,كربلاء,فريحة,KRB1187
+1188,KRB,karbala,كربلاء,حي الشهد,KRB1188
+1189,KRB,karbala,كربلاء,مصفى نفط كربلاء,KRB1189
+1190,KRB,karbala,كربلاء,حي الصحفيين,KRB1190
+1191,KRB,karbala,كربلاء,العلوة القديمة,KRB1191
+1192,KRB,karbala,كربلاء,شارع المدرسي,KRB1192
+1193,KRB,karbala,كربلاء,حي الثورة,KRB1193
+1194,KRB,karbala,كربلاء,شارع الحداد,KRB1194
+1195,KRB,karbala,كربلاء,شارع المحافظ القديم,KRB1195
+1196,KRB,karbala,كربلاء,حي الزهور,KRB1196
+1197,KRB,karbala,كربلاء,حي الاصلاح,KRB1197
+1198,KRB,karbala,كربلاء,بدعة اسود,KRB1198
+1199,KRB,karbala,كربلاء,حي اللايح,KRB1199
+1200,KRB,karbala,كربلاء,شارع السدرة,KRB1200
+1201,KRB,karbala,كربلاء,شارع العلقمي,KRB1201
+1202,KRB,karbala,كربلاء,شارع المحافظة,KRB1202
+1203,KRB,karbala,كربلاء,عرعر,KRB1203
+1204,KRB,karbala,كربلاء,مجمع الدرة السكني,KRB1204
+1205,KRB,karbala,كربلاء,البراميه,KRB1205
+1206,KRB,karbala,كربلاء,حي اليرموك,KRB1206
+1207,KRB,karbala,كربلاء,الجرية,KRB1207
+1208,KRB,karbala,كربلاء,حي المعملجي,KRB1208
+1209,KRB,karbala,كربلاء,حي الايمان,KRB1209
+1210,KRB,karbala,كربلاء,كربلاء الجديدة,KRB1210
+1211,KRB,karbala,كربلاء,حي التركمان,KRB1211
+1212,KRB,karbala,كربلاء,حي الكامل,KRB1212
+1213,KRB,karbala,كربلاء,قنطرة البيضاء,KRB1213
+1214,KRB,karbala,كربلاء,خان الربع,KRB1214
+1215,KRB,karbala,كربلاء,السعدية,KRB1215
+1216,KRB,karbala,كربلاء,سيد اسماعيل,KRB1216
+1217,KRB,karbala,كربلاء,حي التعليب,KRB1217
+1218,KRB,karbala,كربلاء,عرب صالح,KRB1218
+1219,KRB,karbala,كربلاء,باب القبلة,KRB1219
+1220,KRB,karbala,كربلاء,باب السلالمة,KRB1220
+1221,KRB,karbala,كربلاء,الاخيضر,KRB1221
+1222,KRB,karbala,كربلاء,خمسينات,KRB1222
+1223,KRB,karbala,كربلاء,الروفة,KRB1223
+1224,KRB,karbala,كربلاء,الحيدرية,KRB1224
+1225,KRB,karbala,كربلاء,سومر,KRB1225
+1226,KRB,karbala,كربلاء,المدينة القديمة,KRB1226
+1227,KRB,karbala,كربلاء,قرية الشريعة,KRB1227
+1228,KRB,karbala,كربلاء,حي الحجة,KRB1228
+1229,KRB,karbala,كربلاء,الاسكان العسكري,KRB1229
+1230,KRB,karbala,كربلاء,غير محدد,other
+1231,KRB,karbala,كربلاء,عمود 540,KRB1231
+1232,KRB,karbala,كربلاء,مستشفى الكفيل,KRB1232
+1233,KRB,karbala,كربلاء,حي الحوراء,KRB1233
+1234,KRB,karbala,كربلاء,جامعه اهل البيت,KRB1234
+1235,KRB,karbala,كربلاء,مستشفى الحسيني,KRB1235
+1236,KRB,karbala,كربلاء,مستشفى الاطفال,KRB1236
+1237,KRB,karbala,كربلاء,البارودي,KRB1237
+1238,KRB,karbala,كربلاء,مجمع الغدير,KRB1238
+1239,KRB,karbala,كربلاء,مجمع الغدير,KRB1239
+1240,KRB,karbala,كربلاء,فندق البارون,KRB1240
+1241,KRB,karbala,كربلاء,الجمعيه سيد الاسعار,KRB1241
+1242,KRB,karbala,كربلاء,الجمعيه,KRB1242
+1243,KRB,karbala,كربلاء,صحاري كربلاء,KRB1243
+1244,BBL,babel,بابل الحلة,الحلة,BBL1244
+1245,BBL,babel,بابل الحلة,المحاويل,BBL1245
+1246,BBL,babel,بابل الحلة,المسيب,BBL1246
+1247,BBL,babel,بابل الحلة,الهاشمية,BBL1247
+1248,BBL,babel,بابل الحلة,الحمزة الغربي,BBL1248
+1249,BBL,babel,بابل الحلة,المدحتية,BBL1249
+1250,BBL,babel,بابل الحلة,القاسم,BBL1250
+1251,BBL,babel,بابل الحلة,جامعة بابل,BBL1251
+1252,BBL,babel,بابل الحلة,الكفل,BBL1252
+1253,BBL,babel,بابل الحلة,الجفل,BBL1253
+1254,BBL,babel,بابل الحلة,معارض النجف,BBL1254
+1255,BBL,babel,بابل الحلة,بني مسلم,BBL1255
+1256,BBL,babel,بابل الحلة,النبي ايوب,BBL1256
+1257,BBL,babel,بابل الحلة,الرارنجية,BBL1257
+1258,BBL,babel,بابل الحلة,الجمعية,BBL1258
+1259,BBL,babel,بابل الحلة,شارع 40,BBL1259
+1260,BBL,babel,بابل الحلة,شارع 60,BBL1260
+1261,BBL,babel,بابل الحلة,المحاربين,BBL1261
+1262,BBL,babel,بابل الحلة,الكرامة,BBL1262
+1263,BBL,babel,بابل الحلة,حي الامام,BBL1263
+1264,BBL,babel,بابل الحلة,شارع 80,BBL1264
+1265,BBL,babel,بابل الحلة,نادر,BBL1265
+1266,BBL,babel,بابل الحلة,التاجية,BBL1266
+1267,BBL,babel,بابل الحلة,حي العسكري / الحلة,BBL1267
+1268,BBL,babel,بابل الحلة,حي العسكري / القاسم,BBL1268
+1269,BBL,babel,بابل الحلة,حي العسكري / المسيب,BBL1269
+1270,BBL,babel,بابل الحلة,حي العسكري / الكفل,BBL1270
+1271,BBL,babel,بابل الحلة,شارع 30,BBL1271
+1272,BBL,babel,بابل الحلة,السادة البو خطة,BBL1272
+1273,BBL,babel,بابل الحلة,حي الشهداء,BBL1273
+1274,BBL,babel,بابل الحلة,مجسر الثورة,BBL1274
+1275,BBL,babel,بابل الحلة,حي الحكام,BBL1275
+1276,BBL,babel,بابل الحلة,حي الطيارة,BBL1276
+1277,BBL,babel,بابل الحلة,مقام رد الشمس,BBL1277
+1278,BBL,babel,بابل الحلة,بابل حسين,BBL1278
+1279,BBL,babel,بابل الحلة,جسر بتة,BBL1279
+1280,BBL,babel,بابل الحلة,حي الصحة,BBL1280
+1281,BBL,babel,بابل الحلة,وردية داخل,BBL1281
+1282,BBL,babel,بابل الحلة,وردية خارج,BBL1282
+1283,BBL,babel,بابل الحلة,شارع الاطباء,BBL1283
+1284,BBL,babel,بابل الحلة,شارع الامام علي,BBL1284
+1285,BBL,babel,بابل الحلة,الشاوي,BBL1285
+1286,BBL,babel,بابل الحلة,حي الزهراء,BBL1286
+1287,BBL,babel,بابل الحلة,السوق الكبير,BBL1287
+1288,BBL,babel,بابل الحلة,البكرلي,BBL1288
+1289,BBL,babel,بابل الحلة,الجزائر,BBL1289
+1290,BBL,babel,بابل الحلة,الخصروية,BBL1290
+1291,BBL,babel,بابل الحلة,باب المشهد,BBL1291
+1292,BBL,babel,بابل الحلة,سيطرة الوزير,BBL1292
+1293,BBL,babel,بابل الحلة,سعد بيجو,BBL1293
+1294,BBL,babel,بابل الحلة,كريطعة,BBL1294
+1295,BBL,babel,بابل الحلة,جسر الهنود,BBL1295
+1296,BBL,babel,بابل الحلة,الجمجمة,BBL1296
+1297,BBL,babel,بابل الحلة,مرانة,BBL1297
+1298,BBL,babel,بابل الحلة,سوير الغربي,BBL1298
+1299,BBL,babel,بابل الحلة,المدهش,BBL1299
+1300,BBL,babel,بابل الحلة,سيف سعد,BBL1300
+1301,BBL,babel,بابل الحلة,الثورة,BBL1301
+1302,BBL,babel,بابل الحلة,ابو خستاوي,BBL1302
+1303,BBL,babel,بابل الحلة,ابو غرق,BBL1303
+1304,BBL,babel,بابل الحلة,المهناوية,BBL1304
+1305,BBL,babel,بابل الحلة,المالح,BBL1305
+1306,BBL,babel,بابل الحلة,الرغيلة,BBL1306
+1307,BBL,babel,بابل الحلة,العنانة,BBL1307
+1308,BBL,babel,بابل الحلة,سنجار,BBL1308
+1309,BBL,babel,بابل الحلة,النخيلة الغربية,BBL1309
+1310,BBL,babel,بابل الحلة,العلوية الشريفة,BBL1310
+1311,BBL,babel,بابل الحلة,عوفي,BBL1311
+1312,BBL,babel,بابل الحلة,بني سالة,BBL1312
+1313,BBL,babel,بابل الحلة,السادة الزركام,BBL1313
+1314,BBL,babel,بابل الحلة,طفيل,BBL1314
+1315,BBL,babel,بابل الحلة,الطهمازية,BBL1315
+1316,BBL,babel,بابل الحلة,المعلمين,BBL1316
+1317,BBL,babel,بابل الحلة,الاكرمية,BBL1317
+1318,BBL,babel,بابل الحلة,الحصوة,BBL1318
+1319,BBL,babel,بابل الحلة,الاسكندرية,BBL1319
+1320,BBL,babel,بابل الحلة,الدائرة,BBL1320
+1321,BBL,babel,بابل الحلة,الميلحة,BBL1321
+1322,BBL,babel,بابل الحلة,طريق كربلاء المسيب,BBL1322
+1323,BBL,babel,بابل الحلة,الصياحية,BBL1323
+1324,BBL,babel,بابل الحلة,برنون,BBL1324
+1325,BBL,babel,بابل الحلة,كوين بارك,BBL1325
+1326,BBL,babel,بابل الحلة,سيطرة الاثار,BBL1326
+1327,BBL,babel,بابل الحلة,الفندية,BBL1327
+1328,BBL,babel,بابل الحلة,الخاتونية,BBL1328
+1329,BBL,babel,بابل الحلة,البو علوان,BBL1329
+1330,BBL,babel,بابل الحلة,ناحية الامام,BBL1330
+1331,BBL,babel,بابل الحلة,الصباغية,BBL1331
+1332,BBL,babel,بابل الحلة,سدة الهندية,BBL1332
+1333,BBL,babel,بابل الحلة,الطاهرية,BBL1333
+1334,BBL,babel,بابل الحلة,جبلة,BBL1334
+1335,BBL,babel,بابل الحلة,الرشايد,BBL1335
+1336,BBL,babel,بابل الحلة,مدينة الامام الباقر,BBL1336
+1337,BBL,babel,بابل الحلة,جسر 11,BBL1337
+1338,BBL,babel,بابل الحلة,جنة الفرات,BBL1338
+1339,BBL,babel,بابل الحلة,محطة العمران,BBL1339
+1340,BBL,babel,بابل الحلة,الشوملي,BBL1340
+1341,BBL,babel,بابل الحلة,الدبلة,BBL1341
+1342,BBL,babel,بابل الحلة,السياحي,BBL1342
+1343,BBL,babel,بابل الحلة,الخميسية,BBL1343
+1344,BBL,babel,بابل الحلة,الخضرية,BBL1344
+1345,BBL,babel,بابل الحلة,شركة الرنا,BBL1345
+1346,BBL,babel,بابل الحلة,حي الجامعة,BBL1346
+1347,BBL,babel,بابل الحلة,الاساتذة,BBL1347
+1348,BBL,babel,بابل الحلة,اليوسفية,BBL1348
+1349,BBL,babel,بابل الحلة,المهندسين,BBL1349
+1350,BBL,babel,بابل الحلة,شارع المكتبات,BBL1350
+1351,BBL,babel,بابل الحلة,الكفاءات,BBL1351
+1352,BBL,babel,بابل الحلة,الطليعة,BBL1352
+1353,BBL,babel,بابل الحلة,الشارع السياحي,BBL1353
+1354,BBL,babel,بابل الحلة,حي العسكري / الاسكندرية,BBL1354
+1355,BBL,babel,بابل الحلة,الاسكان,BBL1355
+1356,BBL,babel,بابل الحلة,حي المعلمين,BBL1356
+1357,BBL,babel,بابل الحلة,ناحية النيل,BBL1357
+1358,BBL,babel,بابل الحلة,الحكانية,BBL1358
+1359,BBL,babel,بابل الحلة,معيميرة,BBL1359
+1360,BBL,babel,بابل الحلة,الطريق السريع,BBL1360
+1361,BBL,babel,بابل الحلة,مجسر شهداء نادر,BBL1361
+1362,BBL,babel,بابل الحلة,حي الامير,BBL1362
+1363,BBL,babel,بابل الحلة,محيزم,BBL1363
+1364,BBL,babel,بابل الحلة,نادر الثالثة,BBL1364
+1365,BBL,babel,بابل الحلة,العتياج,BBL1365
+1366,BBL,babel,بابل الحلة,النزيزة,BBL1366
+1367,BBL,babel,بابل الحلة,حي المعلمين الثالثة,BBL1367
+1368,BBL,babel,بابل الحلة,حي بابل,BBL1368
+1369,BBL,babel,بابل الحلة,نادر الاولى,BBL1369
+1370,BBL,babel,بابل الحلة,نادر الثانية,BBL1370
+1371,BBL,babel,بابل الحلة,القرية العصرية,BBL1371
+1372,BBL,babel,بابل الحلة,باب الحسين,BBL1372
+1373,BBL,babel,بابل الحلة,الاكرمين,BBL1373
+1374,BBL,babel,بابل الحلة,شارع ام البنين,BBL1374
+1375,BBL,babel,بابل الحلة,مويلحه,BBL1375
+1376,BBL,babel,بابل الحلة,قضاء كوثى,BBL1376
+1377,BBL,babel,بابل الحلة,الامين,BBL1377
+1378,BBL,babel,بابل الحلة,شارع 100,BBL1378
+1379,BBL,babel,بابل الحلة,غير محدد,other
+1380,BBL,babel,بابل الحلة,حي الانتصار,BBL1380
+1381,BBL,babel,بابل الحلة,البدع,BBL1381
+1382,BBL,babel,بابل الحلة,حي النسيج,BBL1382
+1383,BBL,babel,بابل الحلة,حي المصطفى,BBL1383
+1384,BBL,babel,بابل الحلة,مصطفى راغب,BBL1384
+1385,BBL,babel,بابل الحلة,الماشطة,BBL1385
+1386,BBL,babel,بابل الحلة,حي الضباط,BBL1386
+1387,BBL,babel,بابل الحلة,مستشفى مرجان,BBL1387
+1388,BBL,babel,بابل الحلة,مستشفى النور,BBL1388
+1389,BBL,babel,بابل الحلة,مستشفى الحلة,BBL1389
+1390,BBL,babel,بابل الحلة,جامعة المستقبل,BBL1390
+1391,BBL,babel,بابل الحلة,جامعة الإمام الكاظم,BBL1391
+1392,BBL,babel,بابل الحلة,كلية الحلة الجامعة,BBL1392
+1393,BBL,babel,بابل الحلة,التعيس,BBL1393
+1394,BBL,babel,بابل الحلة,حي المرتضى,BBL1394
+1395,BBL,babel,بابل الحلة,شارع الري,BBL1395
+1396,BBL,babel,بابل الحلة,مستشفى الفيحاء,BBL1396
+1397,BBL,babel,بابل الحلة,مسشتفى التركي,BBL1397
+1398,BBL,babel,بابل الحلة,حي الصدريين,BBL1398
+1399,BBL,babel,بابل الحلة,شارع الطاقة,BBL1399
+1400,BBL,babel,بابل الحلة,الامام عون,BBL1400
+1401,BBL,babel,بابل الحلة,زوير الغربي,BBL1401
+1402,BBL,babel,بابل الحلة,عنانة,BBL1402
+1403,BBL,babel,بابل الحلة,العتايج,BBL1403
+1404,BBL,babel,بابل الحلة,انوار بابل,BBL1404
+1405,BBL,babel,بابل الحلة,بستان الحلو,BBL1405
+1406,BBL,babel,بابل الحلة,كراج الموحد,BBL1406
+1407,DWN,diwania,الديوانية,الشامية,DWN1407
+1408,DWN,diwania,الديوانية,السنية,DWN1408
+1409,DWN,diwania,الديوانية,الشافعية,DWN1409
+1410,DWN,diwania,الديوانية,الدغارة,DWN1410
+1411,DWN,diwania,الديوانية,غماس,DWN1411
+1412,DWN,diwania,الديوانية,الصلاحية,DWN1412
+1413,DWN,diwania,الديوانية,عفك,DWN1413
+1414,DWN,diwania,الديوانية,البدير,DWN1414
+1415,DWN,diwania,الديوانية,سومر,DWN1415
+1416,DWN,diwania,الديوانية,نفرر,DWN1416
+1417,DWN,diwania,الديوانية,الحمزة الشرقي,DWN1417
+1418,DWN,diwania,الديوانية,السدير,DWN1418
+1419,DWN,diwania,الديوانية,الشنافية,DWN1419
+1420,DWN,diwania,الديوانية,المهناوية,DWN1420
+1421,DWN,diwania,الديوانية,حي رمضان,DWN1421
+1422,DWN,diwania,الديوانية,حي الميكانيك,DWN1422
+1423,DWN,diwania,الديوانية,حي الجزائر,DWN1423
+1424,DWN,diwania,الديوانية,ام الخيل,DWN1424
+1425,DWN,diwania,الديوانية,العروبة,DWN1425
+1426,DWN,diwania,الديوانية,الحضارة,DWN1426
+1427,DWN,diwania,الديوانية,حي العسكري,DWN1427
+1428,DWN,diwania,الديوانية,حي التقية,DWN1428
+1429,DWN,diwania,الديوانية,حي الجمعية الاولى,DWN1429
+1430,DWN,diwania,الديوانية,حي الجمعية الثانية,DWN1430
+1431,DWN,diwania,الديوانية,حي الجمهوري,DWN1431
+1432,DWN,diwania,الديوانية,الاسكان,DWN1432
+1433,DWN,diwania,الديوانية,الاسكان القديم,DWN1433
+1434,DWN,diwania,الديوانية,حي رفعت,DWN1434
+1435,DWN,diwania,الديوانية,الخصيمة,DWN1435
+1436,DWN,diwania,الديوانية,حي الغدير,DWN1436
+1437,DWN,diwania,الديوانية,حي خيري,DWN1437
+1438,DWN,diwania,الديوانية,حي الشرطة,DWN1438
+1439,DWN,diwania,الديوانية,حي الفرات,DWN1439
+1440,DWN,diwania,الديوانية,حي الزيتون,DWN1440
+1441,DWN,diwania,الديوانية,حي ال حمد,DWN1441
+1442,DWN,diwania,الديوانية,حي الوحدة,DWN1442
+1443,DWN,diwania,الديوانية,شارع العلاوي,DWN1443
+1444,DWN,diwania,الديوانية,حي النهضة,DWN1444
+1445,DWN,diwania,الديوانية,حي الصدر الرابع,DWN1445
+1446,DWN,diwania,الديوانية,حي الضباط,DWN1446
+1447,DWN,diwania,الديوانية,حي الامام الصادق,DWN1447
+1448,DWN,diwania,الديوانية,حي المتقاعدين,DWN1448
+1449,DWN,diwania,الديوانية,حي الجامعة,DWN1449
+1450,DWN,diwania,الديوانية,شارع الضباط,DWN1450
+1451,DWN,diwania,الديوانية,مجمع الزيتون,DWN1451
+1452,DWN,diwania,الديوانية,شارع معمل الغاز,DWN1452
+1453,DWN,diwania,الديوانية,حي الحكيم,DWN1453
+1454,DWN,diwania,الديوانية,شارع الاطارات,DWN1454
+1455,DWN,diwania,الديوانية,شارع 60,DWN1455
+1456,DWN,diwania,الديوانية,حي الزهراء,DWN1456
+1457,DWN,diwania,الديوانية,شارع سالم,DWN1457
+1458,DWN,diwania,الديوانية,حي العصري,DWN1458
+1459,DWN,diwania,الديوانية,جسر النجف,DWN1459
+1460,DWN,diwania,الديوانية,الجلبية,DWN1460
+1461,DWN,diwania,الديوانية,حي المعلمين,DWN1461
+1462,DWN,diwania,الديوانية,سوق ابو جمبغ,DWN1462
+1463,DWN,diwania,الديوانية,شارع الاورزدي القديم,DWN1463
+1464,DWN,diwania,الديوانية,الدير,DWN1464
+1465,DWN,diwania,الديوانية,الحولي,DWN1465
+1466,DWN,diwania,الديوانية,سوق المكتبات,DWN1466
+1467,DWN,diwania,الديوانية,الصدر الاول,DWN1467
+1468,DWN,diwania,الديوانية,الجمهورية,DWN1468
+1469,DWN,diwania,الديوانية,حي الثقلين,DWN1469
+1470,DWN,diwania,الديوانية,الصوب الصغير,DWN1470
+1471,DWN,diwania,الديوانية,الصدر الثالثة,DWN1471
+1472,DWN,diwania,الديوانية,شارع الثورة,DWN1472
+1473,DWN,diwania,الديوانية,طريق السينية,DWN1473
+1474,DWN,diwania,الديوانية,طريق الحمزة السياحي,DWN1474
+1475,DWN,diwania,الديوانية,العروبة الثالثة,DWN1475
+1476,DWN,diwania,الديوانية,دور النسيج,DWN1476
+1477,DWN,diwania,الديوانية,حي الامين,DWN1477
+1478,DWN,diwania,الديوانية,الجمعية,DWN1478
+1479,DWN,diwania,الديوانية,حي النهضة الثالثة,DWN1479
+1480,DWN,diwania,الديوانية,العروبة الاولى,DWN1480
+1481,DWN,diwania,الديوانية,قرية العطاء,DWN1481
+1482,DWN,diwania,الديوانية,ناحية عبدالله,DWN1482
+1483,DWN,diwania,الديوانية,الفاضلية,DWN1483
+1484,DWN,diwania,الديوانية,حي الصدر الثانية,DWN1484
+1485,DWN,diwania,الديوانية,شارع المواكب,DWN1485
+1486,DWN,diwania,الديوانية,الناذرية,DWN1486
+1487,DWN,diwania,الديوانية,الحمد,DWN1487
+1488,DWN,diwania,الديوانية,شارع المطاط,DWN1488
+1489,DWN,diwania,الديوانية,حي الضباط الثانية,DWN1489
+1490,DWN,diwania,الديوانية,العروبة الثانية,DWN1490
+1491,DWN,diwania,الديوانية,التقية الثالثة,DWN1491
+1492,DWN,diwania,الديوانية,الصناعي,DWN1492
+1493,DWN,diwania,الديوانية,التحدي,DWN1493
+1494,DWN,diwania,الديوانية,دور المهجرين,DWN1494
+1495,DWN,diwania,الديوانية,ام الخيل الرابعة,DWN1495
+1496,DWN,diwania,الديوانية,حي الاحتفالات,DWN1496
+1497,DWN,diwania,الديوانية,شارع الوكفة,DWN1497
+1498,DWN,diwania,الديوانية,دور السيد محمد,DWN1498
+1499,DWN,diwania,الديوانية,التأميم,DWN1499
+1500,DWN,diwania,الديوانية,اهل الشط,DWN1500
+1501,DWN,diwania,الديوانية,الجديدة,DWN1501
+1502,DWN,diwania,الديوانية,سوق التجار,DWN1502
+1503,DWN,diwania,الديوانية,شارع الاطباء,DWN1503
+1504,DWN,diwania,الديوانية,الجته,DWN1504
+1505,DWN,diwania,الديوانية,حي الحسين,DWN1505
+1506,DWN,diwania,الديوانية,شارع المصورين,DWN1506
+1507,DWN,diwania,الديوانية,الصوب الكبير,DWN1507
+1508,DWN,diwania,الديوانية,حي العامل,DWN1508
+1509,DWN,diwania,الديوانية,حي الابرار,DWN1509
+1510,DWN,diwania,الديوانية,التقنية الثالثة,DWN1510
+1511,DWN,diwania,الديوانية,ناحية النصر,DWN1511
+1512,DWN,diwania,الديوانية,نصيفة,DWN1512
+1513,DWN,diwania,الديوانية,شارع 30,DWN1513
+1514,DWN,diwania,الديوانية,طريق بغداد,DWN1514
+1515,DWN,diwania,الديوانية,الحمران,DWN1515
+1516,DWN,diwania,الديوانية,حي الاساتذة,DWN1516
+1517,DWN,diwania,الديوانية,التسفيرات,DWN1517
+1518,DWN,diwania,الديوانية,السراي,DWN1518
+1519,DWN,diwania,الديوانية,حي التقاعد,DWN1519
+1520,DWN,diwania,الديوانية,الاكاديمية,DWN1520
+1521,DWN,diwania,الديوانية,التقية الثانية,DWN1521
+1522,DWN,diwania,الديوانية,الجامعة الاسلامية,DWN1522
+1523,DWN,diwania,الديوانية,الشموس,DWN1523
+1524,DWN,diwania,الديوانية,الفلكة الجدارية,DWN1524
+1525,DWN,diwania,الديوانية,جامع الحكيم,DWN1525
+1526,DWN,diwania,الديوانية,جامعة الامام الكاضم,DWN1526
+1527,DWN,diwania,الديوانية,جامعة القادسية,DWN1527
+1528,DWN,diwania,الديوانية,حولي الجامعة,DWN1528
+1529,DWN,diwania,الديوانية,حي الانصار,DWN1529
+1530,DWN,diwania,الديوانية,دور الضباط,DWN1530
+1531,DWN,diwania,الديوانية,سوق هرج,DWN1531
+1532,DWN,diwania,الديوانية,سيد محيل,DWN1532
+1533,DWN,diwania,الديوانية,شارع البستان,DWN1533
+1534,DWN,diwania,الديوانية,شارع الكوام,DWN1534
+1535,DWN,diwania,الديوانية,شارع ام حميد,DWN1535
+1536,DWN,diwania,الديوانية,طريق الدغارة,DWN1536
+1537,DWN,diwania,الديوانية,عبدالله ابو نجم,DWN1537
+1538,DWN,diwania,الديوانية,فلكة الساعة,DWN1538
+1539,DWN,diwania,الديوانية,فلكة العلماء,DWN1539
+1540,DWN,diwania,الديوانية,قرية سيد علي,DWN1540
+1541,DWN,diwania,الديوانية,كلية الطب,DWN1541
+1542,DWN,diwania,الديوانية,مستشفى الاطفال,DWN1542
+1543,DWN,diwania,الديوانية,مستشفى الحروق,DWN1543
+1544,DWN,diwania,الديوانية,مستشفى العام,DWN1544
+1545,DWN,diwania,الديوانية,ملعب الاتفاق,DWN1545
+1546,DWN,diwania,الديوانية,مول الطاهر,DWN1546
+1547,DWN,diwania,الديوانية,نزلت الشيخ سامي,DWN1547
+1548,DWN,diwania,الديوانية,غير محدد,other
+1549,DWN,diwania,الديوانية,حي السراي,DWN1549
+1550,DWN,diwania,الديوانية,الدغارة,DWN1550
+1551,DWN,diwania,الديوانية,سومر,DWN1551
+1552,DWN,diwania,الديوانية,عفك,DWN1552
+1553,NJF,najaf,النجف,الحيدرية,NJF1553
+1554,NJF,najaf,النجف,الشبكة,NJF1554
+1555,NJF,najaf,النجف,الرضوية,NJF1555
+1556,NJF,najaf,النجف,بانيقيا,NJF1556
+1557,NJF,najaf,النجف,الكوفة,NJF1557
+1558,NJF,najaf,النجف,العباسية,NJF1558
+1559,NJF,najaf,النجف,الحرية,NJF1559
+1560,NJF,najaf,النجف,المناذرة,NJF1560
+1561,NJF,najaf,النجف,الحيرة,NJF1561
+1562,NJF,najaf,النجف,القادسية,NJF1562
+1563,NJF,najaf,النجف,المشخاب,NJF1563
+1564,NJF,najaf,النجف,حي كندا,NJF1564
+1565,NJF,najaf,النجف,حي المتني,NJF1565
+1566,NJF,najaf,النجف,سهلة,NJF1566
+1567,NJF,najaf,النجف,17 تموز,NJF1567
+1568,NJF,najaf,النجف,حي الرحمة,NJF1568
+1569,NJF,najaf,النجف,حي ابو طالب,NJF1569
+1570,NJF,najaf,النجف,حي المهندسين,NJF1570
+1571,NJF,najaf,النجف,حي النصر,NJF1571
+1572,NJF,najaf,النجف,حي الميلاد,NJF1572
+1573,NJF,najaf,النجف,خان النص,NJF1573
+1574,NJF,najaf,النجف,الندى,NJF1574
+1575,NJF,najaf,النجف,الحولي,NJF1575
+1576,NJF,najaf,النجف,قرية الغدير,NJF1576
+1577,NJF,najaf,النجف,حي العسكري,NJF1577
+1578,NJF,najaf,النجف,حي المكرمة,NJF1578
+1579,NJF,najaf,النجف,الانصار,NJF1579
+1580,NJF,najaf,النجف,القدس,NJF1580
+1581,NJF,najaf,النجف,شارع المثنى,NJF1581
+1582,NJF,najaf,النجف,حي السعد,NJF1582
+1583,NJF,najaf,النجف,حي عدن,NJF1583
+1584,NJF,najaf,النجف,حي الشرطة,NJF1584
+1585,NJF,najaf,النجف,مجمعات حي النداء,NJF1585
+1586,NJF,najaf,النجف,حولي خان النص,NJF1586
+1587,NJF,najaf,النجف,شارع المدينة,NJF1587
+1588,NJF,najaf,النجف,حنون,NJF1588
+1589,NJF,najaf,النجف,ثورة العشرين,NJF1589
+1590,NJF,najaf,النجف,جديدات الولاية,NJF1590
+1591,NJF,najaf,النجف,حي الجزيرة,NJF1591
+1592,NJF,najaf,النجف,وفاء هندية,NJF1592
+1593,NJF,najaf,النجف,الهندية,NJF1593
+1594,NJF,najaf,النجف,حي العدالة,NJF1594
+1595,NJF,najaf,النجف,حي الفرات,NJF1595
+1596,NJF,najaf,النجف,حي الغدير,NJF1596
+1597,NJF,najaf,النجف,حي الجامعة,NJF1597
+1598,NJF,najaf,النجف,حي السلام,NJF1598
+1599,NJF,najaf,النجف,الحنانة,NJF1599
+1600,NJF,najaf,النجف,حي النفط,NJF1600
+1601,NJF,najaf,النجف,حي الحسين,NJF1601
+1602,NJF,najaf,النجف,حي المرحلين,NJF1602
+1603,NJF,najaf,النجف,التلال,NJF1603
+1604,NJF,najaf,النجف,ابو صخير,NJF1604
+1605,NJF,najaf,النجف,شارع المعمل,NJF1605
+1606,NJF,najaf,النجف,العيسا,NJF1606
+1607,NJF,najaf,النجف,صوب الصغير,NJF1607
+1608,NJF,najaf,النجف,معمل البيبسي,NJF1608
+1609,NJF,najaf,النجف,البو حداري,NJF1609
+1610,NJF,najaf,النجف,عامود 213,NJF1610
+1611,NJF,najaf,النجف,البراكية,NJF1611
+1612,NJF,najaf,النجف,حي الشهداء,NJF1612
+1613,NJF,najaf,النجف,حي ميسان,NJF1613
+1614,NJF,najaf,النجف,الاسكان,NJF1614
+1615,NJF,najaf,النجف,عامود 1,NJF1615
+1616,NJF,najaf,النجف,عامود 2,NJF1616
+1617,NJF,najaf,النجف,عامود 3,NJF1617
+1618,NJF,najaf,النجف,عامود 4,NJF1618
+1619,NJF,najaf,النجف,عامود 5,NJF1619
+1620,NJF,najaf,النجف,عامود 6,NJF1620
+1621,NJF,najaf,النجف,عامود 7,NJF1621
+1622,NJF,najaf,النجف,عامود 8,NJF1622
+1623,NJF,najaf,النجف,عامود 9,NJF1623
+1624,NJF,najaf,النجف,عامود 10,NJF1624
+1625,NJF,najaf,النجف,عامود 11,NJF1625
+1626,NJF,najaf,النجف,عامود 12,NJF1626
+1627,NJF,najaf,النجف,عامود 13,NJF1627
+1628,NJF,najaf,النجف,عامود 14,NJF1628
+1629,NJF,najaf,النجف,عامود 15,NJF1629
+1630,NJF,najaf,النجف,عامود 16,NJF1630
+1631,NJF,najaf,النجف,عامود 17,NJF1631
+1632,NJF,najaf,النجف,عامود 18,NJF1632
+1633,NJF,najaf,النجف,عامود 19,NJF1633
+1634,NJF,najaf,النجف,عامود 20,NJF1634
+1635,NJF,najaf,النجف,عامود 21,NJF1635
+1636,NJF,najaf,النجف,عامود 22,NJF1636
+1637,NJF,najaf,النجف,عامود 23,NJF1637
+1638,NJF,najaf,النجف,عامود 24,NJF1638
+1639,NJF,najaf,النجف,عامود 25,NJF1639
+1640,NJF,najaf,النجف,عامود 26,NJF1640
+1641,NJF,najaf,النجف,عامود 27,NJF1641
+1642,NJF,najaf,النجف,عامود 28,NJF1642
+1643,NJF,najaf,النجف,عامود 29,NJF1643
+1644,NJF,najaf,النجف,عامود 30,NJF1644
+1645,NJF,najaf,النجف,عامود 31,NJF1645
+1646,NJF,najaf,النجف,عامود 32,NJF1646
+1647,NJF,najaf,النجف,عامود 33,NJF1647
+1648,NJF,najaf,النجف,عامود 34,NJF1648
+1649,NJF,najaf,النجف,عامود 35,NJF1649
+1650,NJF,najaf,النجف,عامود 36,NJF1650
+1651,NJF,najaf,النجف,عامود 37,NJF1651
+1652,NJF,najaf,النجف,عامود 38,NJF1652
+1653,NJF,najaf,النجف,عامود 39,NJF1653
+1654,NJF,najaf,النجف,عامود 40,NJF1654
+1655,NJF,najaf,النجف,عامود 41,NJF1655
+1656,NJF,najaf,النجف,عامود 42,NJF1656
+1657,NJF,najaf,النجف,عامود 43,NJF1657
+1658,NJF,najaf,النجف,عامود 44,NJF1658
+1659,NJF,najaf,النجف,عامود 45,NJF1659
+1660,NJF,najaf,النجف,عامود 46,NJF1660
+1661,NJF,najaf,النجف,عامود 47,NJF1661
+1662,NJF,najaf,النجف,عامود 48,NJF1662
+1663,NJF,najaf,النجف,عامود 49,NJF1663
+1664,NJF,najaf,النجف,عامود 50,NJF1664
+1665,NJF,najaf,النجف,عامود 51,NJF1665
+1666,NJF,najaf,النجف,عامود 52,NJF1666
+1667,NJF,najaf,النجف,عامود 53,NJF1667
+1668,NJF,najaf,النجف,عامود 54,NJF1668
+1669,NJF,najaf,النجف,عامود 55,NJF1669
+1670,NJF,najaf,النجف,عامود 56,NJF1670
+1671,NJF,najaf,النجف,عامود 57,NJF1671
+1672,NJF,najaf,النجف,عامود 58,NJF1672
+1673,NJF,najaf,النجف,عامود 59,NJF1673
+1674,NJF,najaf,النجف,عامود 60,NJF1674
+1675,NJF,najaf,النجف,عامود 61,NJF1675
+1676,NJF,najaf,النجف,عامود 62,NJF1676
+1677,NJF,najaf,النجف,عامود 63,NJF1677
+1678,NJF,najaf,النجف,عامود 64,NJF1678
+1679,NJF,najaf,النجف,عامود 65,NJF1679
+1680,NJF,najaf,النجف,عامود 66,NJF1680
+1681,NJF,najaf,النجف,عامود 67,NJF1681
+1682,NJF,najaf,النجف,عامود 68,NJF1682
+1683,NJF,najaf,النجف,عامود 69,NJF1683
+1684,NJF,najaf,النجف,عامود 70,NJF1684
+1685,NJF,najaf,النجف,عامود 71,NJF1685
+1686,NJF,najaf,النجف,عامود 72,NJF1686
+1687,NJF,najaf,النجف,عامود 73,NJF1687
+1688,NJF,najaf,النجف,عامود 74,NJF1688
+1689,NJF,najaf,النجف,عامود 75,NJF1689
+1690,NJF,najaf,النجف,عامود 76,NJF1690
+1691,NJF,najaf,النجف,عامود 77,NJF1691
+1692,NJF,najaf,النجف,عامود 78,NJF1692
+1693,NJF,najaf,النجف,عامود 79,NJF1693
+1694,NJF,najaf,النجف,عامود 80,NJF1694
+1695,NJF,najaf,النجف,عامود 81,NJF1695
+1696,NJF,najaf,النجف,عامود 82,NJF1696
+1697,NJF,najaf,النجف,عامود 83,NJF1697
+1698,NJF,najaf,النجف,عامود 84,NJF1698
+1699,NJF,najaf,النجف,عامود 85,NJF1699
+1700,NJF,najaf,النجف,عامود 86,NJF1700
+1701,NJF,najaf,النجف,عامود 87,NJF1701
+1702,NJF,najaf,النجف,عامود 88,NJF1702
+1703,NJF,najaf,النجف,عامود 89,NJF1703
+1704,NJF,najaf,النجف,عامود 90,NJF1704
+1705,NJF,najaf,النجف,عامود 91,NJF1705
+1706,NJF,najaf,النجف,عامود 92,NJF1706
+1707,NJF,najaf,النجف,عامود 93,NJF1707
+1708,NJF,najaf,النجف,عامود 94,NJF1708
+1709,NJF,najaf,النجف,عامود 95,NJF1709
+1710,NJF,najaf,النجف,عامود 96,NJF1710
+1711,NJF,najaf,النجف,عامود 97,NJF1711
+1712,NJF,najaf,النجف,عامود 98,NJF1712
+1713,NJF,najaf,النجف,عامود 99,NJF1713
+1714,NJF,najaf,النجف,عامود 100,NJF1714
+1715,NJF,najaf,النجف,عامود 101,NJF1715
+1716,NJF,najaf,النجف,عامود 102,NJF1716
+1717,NJF,najaf,النجف,عامود 103,NJF1717
+1718,NJF,najaf,النجف,عامود 104,NJF1718
+1719,NJF,najaf,النجف,عامود 105,NJF1719
+1720,NJF,najaf,النجف,عامود 106,NJF1720
+1721,NJF,najaf,النجف,عامود 107,NJF1721
+1722,NJF,najaf,النجف,عامود 108,NJF1722
+1723,NJF,najaf,النجف,عامود 109,NJF1723
+1724,NJF,najaf,النجف,عامود 110,NJF1724
+1725,NJF,najaf,النجف,عامود 111,NJF1725
+1726,NJF,najaf,النجف,عامود 112,NJF1726
+1727,NJF,najaf,النجف,عامود 113,NJF1727
+1728,NJF,najaf,النجف,عامود 114,NJF1728
+1729,NJF,najaf,النجف,عامود 115,NJF1729
+1730,NJF,najaf,النجف,عامود 116,NJF1730
+1731,NJF,najaf,النجف,عامود 117,NJF1731
+1732,NJF,najaf,النجف,عامود 118,NJF1732
+1733,NJF,najaf,النجف,عامود 119,NJF1733
+1734,NJF,najaf,النجف,عامود 120,NJF1734
+1735,NJF,najaf,النجف,عامود 121,NJF1735
+1736,NJF,najaf,النجف,عامود 122,NJF1736
+1737,NJF,najaf,النجف,عامود 123,NJF1737
+1738,NJF,najaf,النجف,عامود 124,NJF1738
+1739,NJF,najaf,النجف,عامود 125,NJF1739
+1740,NJF,najaf,النجف,عامود 126,NJF1740
+1741,NJF,najaf,النجف,عامود 127,NJF1741
+1742,NJF,najaf,النجف,عامود 128,NJF1742
+1743,NJF,najaf,النجف,عامود 129,NJF1743
+1744,NJF,najaf,النجف,عامود 130,NJF1744
+1745,NJF,najaf,النجف,عامود 131,NJF1745
+1746,NJF,najaf,النجف,عامود 132,NJF1746
+1747,NJF,najaf,النجف,عامود 133,NJF1747
+1748,NJF,najaf,النجف,عامود 134,NJF1748
+1749,NJF,najaf,النجف,عامود 135,NJF1749
+1750,NJF,najaf,النجف,عامود 136,NJF1750
+1751,NJF,najaf,النجف,عامود 137,NJF1751
+1752,NJF,najaf,النجف,عامود 138,NJF1752
+1753,NJF,najaf,النجف,عامود 139,NJF1753
+1754,NJF,najaf,النجف,عامود 140,NJF1754
+1755,NJF,najaf,النجف,عامود 141,NJF1755
+1756,NJF,najaf,النجف,عامود 142,NJF1756
+1757,NJF,najaf,النجف,عامود 143,NJF1757
+1758,NJF,najaf,النجف,عامود 144,NJF1758
+1759,NJF,najaf,النجف,عامود 145,NJF1759
+1760,NJF,najaf,النجف,عامود 146,NJF1760
+1761,NJF,najaf,النجف,عامود 147,NJF1761
+1762,NJF,najaf,النجف,عامود 148,NJF1762
+1763,NJF,najaf,النجف,عامود 149,NJF1763
+1764,NJF,najaf,النجف,عامود 150,NJF1764
+1765,NJF,najaf,النجف,عامود 151,NJF1765
+1766,NJF,najaf,النجف,عامود 152,NJF1766
+1767,NJF,najaf,النجف,عامود 153,NJF1767
+1768,NJF,najaf,النجف,عامود 154,NJF1768
+1769,NJF,najaf,النجف,عامود 155,NJF1769
+1770,NJF,najaf,النجف,عامود 156,NJF1770
+1771,NJF,najaf,النجف,عامود 157,NJF1771
+1772,NJF,najaf,النجف,عامود 158,NJF1772
+1773,NJF,najaf,النجف,عامود 159,NJF1773
+1774,NJF,najaf,النجف,عامود 160,NJF1774
+1775,NJF,najaf,النجف,عامود 161,NJF1775
+1776,NJF,najaf,النجف,عامود 162,NJF1776
+1777,NJF,najaf,النجف,عامود 163,NJF1777
+1778,NJF,najaf,النجف,عامود 164,NJF1778
+1779,NJF,najaf,النجف,عامود 165,NJF1779
+1780,NJF,najaf,النجف,عامود 166,NJF1780
+1781,NJF,najaf,النجف,عامود 167,NJF1781
+1782,NJF,najaf,النجف,عامود 168,NJF1782
+1783,NJF,najaf,النجف,عامود 169,NJF1783
+1784,NJF,najaf,النجف,عامود 170,NJF1784
+1785,NJF,najaf,النجف,عامود 171,NJF1785
+1786,NJF,najaf,النجف,عامود 172,NJF1786
+1787,NJF,najaf,النجف,عامود 173,NJF1787
+1788,NJF,najaf,النجف,عامود 174,NJF1788
+1789,NJF,najaf,النجف,عامود 175,NJF1789
+1790,NJF,najaf,النجف,عامود 176,NJF1790
+1791,NJF,najaf,النجف,عامود 177,NJF1791
+1792,NJF,najaf,النجف,عامود 178,NJF1792
+1793,NJF,najaf,النجف,عامود 179,NJF1793
+1794,NJF,najaf,النجف,عامود 180,NJF1794
+1795,NJF,najaf,النجف,عامود 181,NJF1795
+1796,NJF,najaf,النجف,عامود 182,NJF1796
+1797,NJF,najaf,النجف,عامود 183,NJF1797
+1798,NJF,najaf,النجف,عامود 184,NJF1798
+1799,NJF,najaf,النجف,عامود 185,NJF1799
+1800,NJF,najaf,النجف,عامود 186,NJF1800
+1801,NJF,najaf,النجف,عامود 187,NJF1801
+1802,NJF,najaf,النجف,عامود 188,NJF1802
+1803,NJF,najaf,النجف,عامود 189,NJF1803
+1804,NJF,najaf,النجف,عامود 190,NJF1804
+1805,NJF,najaf,النجف,عامود 191,NJF1805
+1806,NJF,najaf,النجف,عامود 192,NJF1806
+1807,NJF,najaf,النجف,عامود 193,NJF1807
+1808,NJF,najaf,النجف,عامود 194,NJF1808
+1809,NJF,najaf,النجف,عامود 195,NJF1809
+1810,NJF,najaf,النجف,عامود 196,NJF1810
+1811,NJF,najaf,النجف,عامود 197,NJF1811
+1812,NJF,najaf,النجف,عامود 198,NJF1812
+1813,NJF,najaf,النجف,عامود 199,NJF1813
+1814,NJF,najaf,النجف,عامود 200,NJF1814
+1815,NJF,najaf,النجف,عامود 201,NJF1815
+1816,NJF,najaf,النجف,عامود 202,NJF1816
+1817,NJF,najaf,النجف,عامود 203,NJF1817
+1818,NJF,najaf,النجف,عامود 204,NJF1818
+1819,NJF,najaf,النجف,عامود 205,NJF1819
+1820,NJF,najaf,النجف,عامود 206,NJF1820
+1821,NJF,najaf,النجف,عامود 207,NJF1821
+1822,NJF,najaf,النجف,عامود 208,NJF1822
+1823,NJF,najaf,النجف,عامود 209,NJF1823
+1824,NJF,najaf,النجف,عامود 210,NJF1824
+1825,NJF,najaf,النجف,عامود 211,NJF1825
+1826,NJF,najaf,النجف,عامود 212,NJF1826
+1827,NJF,najaf,النجف,عامود 214,NJF1827
+1828,NJF,najaf,النجف,عامود 215,NJF1828
+1829,NJF,najaf,النجف,عامود 216,NJF1829
+1830,NJF,najaf,النجف,عامود 217,NJF1830
+1831,NJF,najaf,النجف,عامود 218,NJF1831
+1832,NJF,najaf,النجف,عامود 219,NJF1832
+1833,NJF,najaf,النجف,عامود 220,NJF1833
+1834,NJF,najaf,النجف,عامود 221,NJF1834
+1835,NJF,najaf,النجف,عامود 222,NJF1835
+1836,NJF,najaf,النجف,عامود 223,NJF1836
+1837,NJF,najaf,النجف,عامود 224,NJF1837
+1838,NJF,najaf,النجف,عامود 225,NJF1838
+1839,NJF,najaf,النجف,عامود 226,NJF1839
+1840,NJF,najaf,النجف,عامود 227,NJF1840
+1841,NJF,najaf,النجف,عامود 228,NJF1841
+1842,NJF,najaf,النجف,عامود 229,NJF1842
+1843,NJF,najaf,النجف,عامود 230,NJF1843
+1844,NJF,najaf,النجف,عامود 231,NJF1844
+1845,NJF,najaf,النجف,عامود 232,NJF1845
+1846,NJF,najaf,النجف,عامود 233,NJF1846
+1847,NJF,najaf,النجف,عامود 234,NJF1847
+1848,NJF,najaf,النجف,عامود 235,NJF1848
+1849,NJF,najaf,النجف,عامود 236,NJF1849
+1850,NJF,najaf,النجف,عامود 237,NJF1850
+1851,NJF,najaf,النجف,عامود 238,NJF1851
+1852,NJF,najaf,النجف,عامود 239,NJF1852
+1853,NJF,najaf,النجف,عامود 240,NJF1853
+1854,NJF,najaf,النجف,عامود 241,NJF1854
+1855,NJF,najaf,النجف,عامود 242,NJF1855
+1856,NJF,najaf,النجف,عامود 243,NJF1856
+1857,NJF,najaf,النجف,عامود 244,NJF1857
+1858,NJF,najaf,النجف,عامود 245,NJF1858
+1859,NJF,najaf,النجف,عامود 246,NJF1859
+1860,NJF,najaf,النجف,عامود 247,NJF1860
+1861,NJF,najaf,النجف,عامود 248,NJF1861
+1862,NJF,najaf,النجف,عامود 249,NJF1862
+1863,NJF,najaf,النجف,عامود 250,NJF1863
+1864,NJF,najaf,النجف,عامود 251,NJF1864
+1865,NJF,najaf,النجف,عامود 252,NJF1865
+1866,NJF,najaf,النجف,عامود 253,NJF1866
+1867,NJF,najaf,النجف,عامود 254,NJF1867
+1868,NJF,najaf,النجف,عامود 255,NJF1868
+1869,NJF,najaf,النجف,عامود 256,NJF1869
+1870,NJF,najaf,النجف,عامود 257,NJF1870
+1871,NJF,najaf,النجف,عامود 258,NJF1871
+1872,NJF,najaf,النجف,عامود 259,NJF1872
+1873,NJF,najaf,النجف,عامود 260,NJF1873
+1874,NJF,najaf,النجف,عامود 261,NJF1874
+1875,NJF,najaf,النجف,عامود 262,NJF1875
+1876,NJF,najaf,النجف,عامود 263,NJF1876
+1877,NJF,najaf,النجف,عامود 264,NJF1877
+1878,NJF,najaf,النجف,عامود 265,NJF1878
+1879,NJF,najaf,النجف,عامود 266,NJF1879
+1880,NJF,najaf,النجف,عامود 267,NJF1880
+1881,NJF,najaf,النجف,عامود 268,NJF1881
+1882,NJF,najaf,النجف,عامود 269,NJF1882
+1883,NJF,najaf,النجف,عامود 270,NJF1883
+1884,NJF,najaf,النجف,عامود 271,NJF1884
+1885,NJF,najaf,النجف,عامود 272,NJF1885
+1886,NJF,najaf,النجف,عامود 273,NJF1886
+1887,NJF,najaf,النجف,عامود 274,NJF1887
+1888,NJF,najaf,النجف,عامود 275,NJF1888
+1889,NJF,najaf,النجف,عامود 276,NJF1889
+1890,NJF,najaf,النجف,عامود 277,NJF1890
+1891,NJF,najaf,النجف,عامود 278,NJF1891
+1892,NJF,najaf,النجف,عامود 279,NJF1892
+1893,NJF,najaf,النجف,عامود 280,NJF1893
+1894,NJF,najaf,النجف,عامود 281,NJF1894
+1895,NJF,najaf,النجف,عامود 282,NJF1895
+1896,NJF,najaf,النجف,عامود 283,NJF1896
+1897,NJF,najaf,النجف,عامود 284,NJF1897
+1898,NJF,najaf,النجف,عامود 285,NJF1898
+1899,NJF,najaf,النجف,عامود 286,NJF1899
+1900,NJF,najaf,النجف,عامود 287,NJF1900
+1901,NJF,najaf,النجف,عامود 288,NJF1901
+1902,NJF,najaf,النجف,عامود 289,NJF1902
+1903,NJF,najaf,النجف,عامود 290,NJF1903
+1904,NJF,najaf,النجف,عامود 291,NJF1904
+1905,NJF,najaf,النجف,عامود 292,NJF1905
+1906,NJF,najaf,النجف,عامود 293,NJF1906
+1907,NJF,najaf,النجف,عامود 294,NJF1907
+1908,NJF,najaf,النجف,عامود 295,NJF1908
+1909,NJF,najaf,النجف,عامود 296,NJF1909
+1910,NJF,najaf,النجف,عامود 297,NJF1910
+1911,NJF,najaf,النجف,عامود 298,NJF1911
+1912,NJF,najaf,النجف,عامود 299,NJF1912
+1913,NJF,najaf,النجف,عامود 300,NJF1913
+1914,NJF,najaf,النجف,عامود 301,NJF1914
+1915,NJF,najaf,النجف,عامود 302,NJF1915
+1916,NJF,najaf,النجف,عامود 303,NJF1916
+1917,NJF,najaf,النجف,عامود 304,NJF1917
+1918,NJF,najaf,النجف,عامود 305,NJF1918
+1919,NJF,najaf,النجف,عامود 306,NJF1919
+1920,NJF,najaf,النجف,عامود 307,NJF1920
+1921,NJF,najaf,النجف,عامود 308,NJF1921
+1922,NJF,najaf,النجف,عامود 309,NJF1922
+1923,NJF,najaf,النجف,عامود 310,NJF1923
+1924,NJF,najaf,النجف,عامود 311,NJF1924
+1925,NJF,najaf,النجف,عامود 312,NJF1925
+1926,NJF,najaf,النجف,عامود 313,NJF1926
+1927,NJF,najaf,النجف,عامود 314,NJF1927
+1928,NJF,najaf,النجف,عامود 315,NJF1928
+1929,NJF,najaf,النجف,عامود 316,NJF1929
+1930,NJF,najaf,النجف,عامود 317,NJF1930
+1931,NJF,najaf,النجف,عامود 318,NJF1931
+1932,NJF,najaf,النجف,عامود 319,NJF1932
+1933,NJF,najaf,النجف,عامود 320,NJF1933
+1934,NJF,najaf,النجف,عامود 321,NJF1934
+1935,NJF,najaf,النجف,عامود 322,NJF1935
+1936,NJF,najaf,النجف,عامود 323,NJF1936
+1937,NJF,najaf,النجف,عامود 324,NJF1937
+1938,NJF,najaf,النجف,عامود 325,NJF1938
+1939,NJF,najaf,النجف,عامود 326,NJF1939
+1940,NJF,najaf,النجف,عامود 327,NJF1940
+1941,NJF,najaf,النجف,عامود 328,NJF1941
+1942,NJF,najaf,النجف,عامود 329,NJF1942
+1943,NJF,najaf,النجف,عامود 330,NJF1943
+1944,NJF,najaf,النجف,عامود 331,NJF1944
+1945,NJF,najaf,النجف,عامود 332,NJF1945
+1946,NJF,najaf,النجف,عامود 333,NJF1946
+1947,NJF,najaf,النجف,عامود 334,NJF1947
+1948,NJF,najaf,النجف,عامود 335,NJF1948
+1949,NJF,najaf,النجف,عامود 336,NJF1949
+1950,NJF,najaf,النجف,عامود 337,NJF1950
+1951,NJF,najaf,النجف,عامود 338,NJF1951
+1952,NJF,najaf,النجف,عامود 339,NJF1952
+1953,NJF,najaf,النجف,عامود 340,NJF1953
+1954,NJF,najaf,النجف,عامود 341,NJF1954
+1955,NJF,najaf,النجف,عامود 342,NJF1955
+1956,NJF,najaf,النجف,عامود 343,NJF1956
+1957,NJF,najaf,النجف,عامود 344,NJF1957
+1958,NJF,najaf,النجف,عامود 345,NJF1958
+1959,NJF,najaf,النجف,عامود 346,NJF1959
+1960,NJF,najaf,النجف,عامود 347,NJF1960
+1961,NJF,najaf,النجف,عامود 348,NJF1961
+1962,NJF,najaf,النجف,عامود 349,NJF1962
+1963,NJF,najaf,النجف,عامود 350,NJF1963
+1964,NJF,najaf,النجف,عامود 351,NJF1964
+1965,NJF,najaf,النجف,عامود 352,NJF1965
+1966,NJF,najaf,النجف,عامود 353,NJF1966
+1967,NJF,najaf,النجف,عامود 354,NJF1967
+1968,NJF,najaf,النجف,عامود 355,NJF1968
+1969,NJF,najaf,النجف,عامود 356,NJF1969
+1970,NJF,najaf,النجف,عامود 357,NJF1970
+1971,NJF,najaf,النجف,عامود 358,NJF1971
+1972,NJF,najaf,النجف,عامود 359,NJF1972
+1973,NJF,najaf,النجف,عامود 360,NJF1973
+1974,NJF,najaf,النجف,عامود 361,NJF1974
+1975,NJF,najaf,النجف,عامود 362,NJF1975
+1976,NJF,najaf,النجف,عامود 363,NJF1976
+1977,NJF,najaf,النجف,عامود 364,NJF1977
+1978,NJF,najaf,النجف,عامود 365,NJF1978
+1979,NJF,najaf,النجف,عامود 366,NJF1979
+1980,NJF,najaf,النجف,عامود 367,NJF1980
+1981,NJF,najaf,النجف,عامود 368,NJF1981
+1982,NJF,najaf,النجف,عامود 369,NJF1982
+1983,NJF,najaf,النجف,عامود 370,NJF1983
+1984,NJF,najaf,النجف,عامود 371,NJF1984
+1985,NJF,najaf,النجف,عامود 372,NJF1985
+1986,NJF,najaf,النجف,عامود 373,NJF1986
+1987,NJF,najaf,النجف,عامود 374,NJF1987
+1988,NJF,najaf,النجف,عامود 375,NJF1988
+1989,NJF,najaf,النجف,عامود 376,NJF1989
+1990,NJF,najaf,النجف,عامود 377,NJF1990
+1991,NJF,najaf,النجف,عامود 378,NJF1991
+1992,NJF,najaf,النجف,عامود 379,NJF1992
+1993,NJF,najaf,النجف,عامود 380,NJF1993
+1994,NJF,najaf,النجف,عامود 381,NJF1994
+1995,NJF,najaf,النجف,عامود 382,NJF1995
+1996,NJF,najaf,النجف,عامود 383,NJF1996
+1997,NJF,najaf,النجف,عامود 384,NJF1997
+1998,NJF,najaf,النجف,عامود 385,NJF1998
+1999,NJF,najaf,النجف,عامود 386,NJF1999
+2000,NJF,najaf,النجف,عامود 387,NJF2000
+2001,NJF,najaf,النجف,عامود 388,NJF2001
+2002,NJF,najaf,النجف,عامود 389,NJF2002
+2003,NJF,najaf,النجف,عامود 390,NJF2003
+2004,NJF,najaf,النجف,عامود 391,NJF2004
+2005,NJF,najaf,النجف,عامود 392,NJF2005
+2006,NJF,najaf,النجف,عامود 393,NJF2006
+2007,NJF,najaf,النجف,عامود 394,NJF2007
+2008,NJF,najaf,النجف,عامود 395,NJF2008
+2009,NJF,najaf,النجف,عامود 396,NJF2009
+2010,NJF,najaf,النجف,عامود 397,NJF2010
+2011,NJF,najaf,النجف,عامود 398,NJF2011
+2012,NJF,najaf,النجف,عامود 399,NJF2012
+2013,NJF,najaf,النجف,عامود 400,NJF2013
+2014,NJF,najaf,النجف,عامود 401,NJF2014
+2015,NJF,najaf,النجف,عامود 402,NJF2015
+2016,NJF,najaf,النجف,عامود 403,NJF2016
+2017,NJF,najaf,النجف,عامود 404,NJF2017
+2018,NJF,najaf,النجف,عامود 405,NJF2018
+2019,NJF,najaf,النجف,عامود 406,NJF2019
+2020,NJF,najaf,النجف,عامود 407,NJF2020
+2021,NJF,najaf,النجف,عامود 408,NJF2021
+2022,NJF,najaf,النجف,عامود 409,NJF2022
+2023,NJF,najaf,النجف,عامود 410,NJF2023
+2024,NJF,najaf,النجف,عامود 411,NJF2024
+2025,NJF,najaf,النجف,عامود 412,NJF2025
+2026,NJF,najaf,النجف,عامود 413,NJF2026
+2027,NJF,najaf,النجف,عامود 414,NJF2027
+2028,NJF,najaf,النجف,عامود 415,NJF2028
+2029,NJF,najaf,النجف,عامود 416,NJF2029
+2030,NJF,najaf,النجف,عامود 417,NJF2030
+2031,NJF,najaf,النجف,عامود 418,NJF2031
+2032,NJF,najaf,النجف,عامود 419,NJF2032
+2033,NJF,najaf,النجف,عامود 420,NJF2033
+2034,NJF,najaf,النجف,عامود 421,NJF2034
+2035,NJF,najaf,النجف,عامود 422,NJF2035
+2036,NJF,najaf,النجف,عامود 423,NJF2036
+2037,NJF,najaf,النجف,عامود 424,NJF2037
+2038,NJF,najaf,النجف,عامود 425,NJF2038
+2039,NJF,najaf,النجف,عامود 426,NJF2039
+2040,NJF,najaf,النجف,عامود 427,NJF2040
+2041,NJF,najaf,النجف,عامود 428,NJF2041
+2042,NJF,najaf,النجف,عامود 429,NJF2042
+2043,NJF,najaf,النجف,عامود 430,NJF2043
+2044,NJF,najaf,النجف,عامود 431,NJF2044
+2045,NJF,najaf,النجف,عامود 432,NJF2045
+2046,NJF,najaf,النجف,عامود 433,NJF2046
+2047,NJF,najaf,النجف,عامود 434,NJF2047
+2048,NJF,najaf,النجف,عامود 435,NJF2048
+2049,NJF,najaf,النجف,عامود 436,NJF2049
+2050,NJF,najaf,النجف,عامود 437,NJF2050
+2051,NJF,najaf,النجف,عامود 438,NJF2051
+2052,NJF,najaf,النجف,عامود 439,NJF2052
+2053,NJF,najaf,النجف,عامود 440,NJF2053
+2054,NJF,najaf,النجف,عامود 441,NJF2054
+2055,NJF,najaf,النجف,عامود 442,NJF2055
+2056,NJF,najaf,النجف,عامود 443,NJF2056
+2057,NJF,najaf,النجف,عامود 444,NJF2057
+2058,NJF,najaf,النجف,عامود 445,NJF2058
+2059,NJF,najaf,النجف,عامود 446,NJF2059
+2060,NJF,najaf,النجف,عامود 447,NJF2060
+2061,NJF,najaf,النجف,عامود 448,NJF2061
+2062,NJF,najaf,النجف,عامود 449,NJF2062
+2063,NJF,najaf,النجف,عامود 450,NJF2063
+2064,NJF,najaf,النجف,عامود 451,NJF2064
+2065,NJF,najaf,النجف,عامود 452,NJF2065
+2066,NJF,najaf,النجف,عامود 453,NJF2066
+2067,NJF,najaf,النجف,عامود 454,NJF2067
+2068,NJF,najaf,النجف,عامود 455,NJF2068
+2069,NJF,najaf,النجف,عامود 456,NJF2069
+2070,NJF,najaf,النجف,عامود 457,NJF2070
+2071,NJF,najaf,النجف,عامود 458,NJF2071
+2072,NJF,najaf,النجف,عامود 459,NJF2072
+2073,NJF,najaf,النجف,عامود 460,NJF2073
+2074,NJF,najaf,النجف,عامود 461,NJF2074
+2075,NJF,najaf,النجف,عامود 462,NJF2075
+2076,NJF,najaf,النجف,عامود 463,NJF2076
+2077,NJF,najaf,النجف,عامود 464,NJF2077
+2078,NJF,najaf,النجف,عامود 465,NJF2078
+2079,NJF,najaf,النجف,عامود 466,NJF2079
+2080,NJF,najaf,النجف,عامود 467,NJF2080
+2081,NJF,najaf,النجف,عامود 468,NJF2081
+2082,NJF,najaf,النجف,عامود 469,NJF2082
+2083,NJF,najaf,النجف,عامود 470,NJF2083
+2084,NJF,najaf,النجف,عامود 471,NJF2084
+2085,NJF,najaf,النجف,عامود 472,NJF2085
+2086,NJF,najaf,النجف,عامود 473,NJF2086
+2087,NJF,najaf,النجف,عامود 474,NJF2087
+2088,NJF,najaf,النجف,عامود 475,NJF2088
+2089,NJF,najaf,النجف,عامود 476,NJF2089
+2090,NJF,najaf,النجف,عامود 477,NJF2090
+2091,NJF,najaf,النجف,عامود 478,NJF2091
+2092,NJF,najaf,النجف,عامود 479,NJF2092
+2093,NJF,najaf,النجف,عامود 480,NJF2093
+2094,NJF,najaf,النجف,عامود 481,NJF2094
+2095,NJF,najaf,النجف,عامود 482,NJF2095
+2096,NJF,najaf,النجف,عامود 483,NJF2096
+2097,NJF,najaf,النجف,عامود 484,NJF2097
+2098,NJF,najaf,النجف,عامود 485,NJF2098
+2099,NJF,najaf,النجف,عامود 486,NJF2099
+2100,NJF,najaf,النجف,عامود 487,NJF2100
+2101,NJF,najaf,النجف,عامود 488,NJF2101
+2102,NJF,najaf,النجف,عامود 489,NJF2102
+2103,NJF,najaf,النجف,عامود 490,NJF2103
+2104,NJF,najaf,النجف,عامود 491,NJF2104
+2105,NJF,najaf,النجف,عامود 492,NJF2105
+2106,NJF,najaf,النجف,عامود 493,NJF2106
+2107,NJF,najaf,النجف,عامود 494,NJF2107
+2108,NJF,najaf,النجف,عامود 495,NJF2108
+2109,NJF,najaf,النجف,عامود 496,NJF2109
+2110,NJF,najaf,النجف,عامود 497,NJF2110
+2111,NJF,najaf,النجف,عامود 498,NJF2111
+2112,NJF,najaf,النجف,عامود 499,NJF2112
+2113,NJF,najaf,النجف,عامود 500,NJF2113
+2114,NJF,najaf,النجف,عامود 501,NJF2114
+2115,NJF,najaf,النجف,عامود 502,NJF2115
+2116,NJF,najaf,النجف,عامود 503,NJF2116
+2117,NJF,najaf,النجف,عامود 504,NJF2117
+2118,NJF,najaf,النجف,عامود 505,NJF2118
+2119,NJF,najaf,النجف,عامود 506,NJF2119
+2120,NJF,najaf,النجف,عامود 507,NJF2120
+2121,NJF,najaf,النجف,عامود 508,NJF2121
+2122,NJF,najaf,النجف,عامود 509,NJF2122
+2123,NJF,najaf,النجف,عامود 510,NJF2123
+2124,NJF,najaf,النجف,عامود 511,NJF2124
+2125,NJF,najaf,النجف,عامود 512,NJF2125
+2126,NJF,najaf,النجف,عامود 513,NJF2126
+2127,NJF,najaf,النجف,عامود 514,NJF2127
+2128,NJF,najaf,النجف,عامود 515,NJF2128
+2129,NJF,najaf,النجف,عامود 516,NJF2129
+2130,NJF,najaf,النجف,عامود 517,NJF2130
+2131,NJF,najaf,النجف,عامود 518,NJF2131
+2132,NJF,najaf,النجف,عامود 519,NJF2132
+2133,NJF,najaf,النجف,عامود 520,NJF2133
+2134,NJF,najaf,النجف,عامود 521,NJF2134
+2135,NJF,najaf,النجف,عامود 522,NJF2135
+2136,NJF,najaf,النجف,عامود 523,NJF2136
+2137,NJF,najaf,النجف,عامود 524,NJF2137
+2138,NJF,najaf,النجف,عامود 525,NJF2138
+2139,NJF,najaf,النجف,عامود 526,NJF2139
+2140,NJF,najaf,النجف,عامود 527,NJF2140
+2141,NJF,najaf,النجف,عامود 528,NJF2141
+2142,NJF,najaf,النجف,عامود 529,NJF2142
+2143,NJF,najaf,النجف,عامود 530,NJF2143
+2144,NJF,najaf,النجف,عامود 531,NJF2144
+2145,NJF,najaf,النجف,عامود 532,NJF2145
+2146,NJF,najaf,النجف,عامود 533,NJF2146
+2147,NJF,najaf,النجف,عامود 534,NJF2147
+2148,NJF,najaf,النجف,عامود 535,NJF2148
+2149,NJF,najaf,النجف,عامود 536,NJF2149
+2150,NJF,najaf,النجف,عامود 537,NJF2150
+2151,NJF,najaf,النجف,عامود 538,NJF2151
+2152,NJF,najaf,النجف,عامود 539,NJF2152
+2153,NJF,najaf,النجف,عامود 540,NJF2153
+2154,NJF,najaf,النجف,عامود 541,NJF2154
+2155,NJF,najaf,النجف,عامود 542,NJF2155
+2156,NJF,najaf,النجف,عامود 543,NJF2156
+2157,NJF,najaf,النجف,عامود 544,NJF2157
+2158,NJF,najaf,النجف,عامود 545,NJF2158
+2159,NJF,najaf,النجف,عامود 546,NJF2159
+2160,NJF,najaf,النجف,عامود 547,NJF2160
+2161,NJF,najaf,النجف,عامود 548,NJF2161
+2162,NJF,najaf,النجف,عامود 549,NJF2162
+2163,NJF,najaf,النجف,عامود 550,NJF2163
+2164,NJF,najaf,النجف,عامود 551,NJF2164
+2165,NJF,najaf,النجف,عامود 552,NJF2165
+2166,NJF,najaf,النجف,عامود 553,NJF2166
+2167,NJF,najaf,النجف,عامود 554,NJF2167
+2168,NJF,najaf,النجف,عامود 555,NJF2168
+2169,NJF,najaf,النجف,عامود 556,NJF2169
+2170,NJF,najaf,النجف,عامود 557,NJF2170
+2171,NJF,najaf,النجف,عامود 558,NJF2171
+2172,NJF,najaf,النجف,عامود 559,NJF2172
+2173,NJF,najaf,النجف,عامود 560,NJF2173
+2174,NJF,najaf,النجف,عامود 561,NJF2174
+2175,NJF,najaf,النجف,عامود 562,NJF2175
+2176,NJF,najaf,النجف,عامود 563,NJF2176
+2177,NJF,najaf,النجف,عامود 564,NJF2177
+2178,NJF,najaf,النجف,عامود 565,NJF2178
+2179,NJF,najaf,النجف,عامود 566,NJF2179
+2180,NJF,najaf,النجف,عامود 567,NJF2180
+2181,NJF,najaf,النجف,عامود 568,NJF2181
+2182,NJF,najaf,النجف,عامود 569,NJF2182
+2183,NJF,najaf,النجف,عامود 570,NJF2183
+2184,NJF,najaf,النجف,عامود 571,NJF2184
+2185,NJF,najaf,النجف,عامود 572,NJF2185
+2186,NJF,najaf,النجف,عامود 573,NJF2186
+2187,NJF,najaf,النجف,عامود 574,NJF2187
+2188,NJF,najaf,النجف,عامود 575,NJF2188
+2189,NJF,najaf,النجف,عامود 576,NJF2189
+2190,NJF,najaf,النجف,عامود 577,NJF2190
+2191,NJF,najaf,النجف,عامود 578,NJF2191
+2192,NJF,najaf,النجف,عامود 579,NJF2192
+2193,NJF,najaf,النجف,عامود 580,NJF2193
+2194,NJF,najaf,النجف,عامود 581,NJF2194
+2195,NJF,najaf,النجف,عامود 582,NJF2195
+2196,NJF,najaf,النجف,عامود 583,NJF2196
+2197,NJF,najaf,النجف,عامود 584,NJF2197
+2198,NJF,najaf,النجف,عامود 585,NJF2198
+2199,NJF,najaf,النجف,عامود 586,NJF2199
+2200,NJF,najaf,النجف,عامود 587,NJF2200
+2201,NJF,najaf,النجف,عامود 588,NJF2201
+2202,NJF,najaf,النجف,عامود 589,NJF2202
+2203,NJF,najaf,النجف,عامود 590,NJF2203
+2204,NJF,najaf,النجف,عامود 591,NJF2204
+2205,NJF,najaf,النجف,عامود 592,NJF2205
+2206,NJF,najaf,النجف,عامود 593,NJF2206
+2207,NJF,najaf,النجف,عامود 594,NJF2207
+2208,NJF,najaf,النجف,عامود 595,NJF2208
+2209,NJF,najaf,النجف,عامود 596,NJF2209
+2210,NJF,najaf,النجف,عامود 597,NJF2210
+2211,NJF,najaf,النجف,عامود 598,NJF2211
+2212,NJF,najaf,النجف,عامود 599,NJF2212
+2213,NJF,najaf,النجف,عامود 600,NJF2213
+2214,NJF,najaf,النجف,عامود 601,NJF2214
+2215,NJF,najaf,النجف,عامود 602,NJF2215
+2216,NJF,najaf,النجف,عامود 603,NJF2216
+2217,NJF,najaf,النجف,عامود 604,NJF2217
+2218,NJF,najaf,النجف,عامود 605,NJF2218
+2219,NJF,najaf,النجف,عامود 606,NJF2219
+2220,NJF,najaf,النجف,عامود 607,NJF2220
+2221,NJF,najaf,النجف,عامود 608,NJF2221
+2222,NJF,najaf,النجف,عامود 609,NJF2222
+2223,NJF,najaf,النجف,عامود 610,NJF2223
+2224,NJF,najaf,النجف,عامود 611,NJF2224
+2225,NJF,najaf,النجف,عامود 612,NJF2225
+2226,NJF,najaf,النجف,عامود 613,NJF2226
+2227,NJF,najaf,النجف,عامود 614,NJF2227
+2228,NJF,najaf,النجف,عامود 615,NJF2228
+2229,NJF,najaf,النجف,عامود 616,NJF2229
+2230,NJF,najaf,النجف,عامود 617,NJF2230
+2231,NJF,najaf,النجف,عامود 618,NJF2231
+2232,NJF,najaf,النجف,عامود 619,NJF2232
+2233,NJF,najaf,النجف,عامود 620,NJF2233
+2234,NJF,najaf,النجف,عامود 621,NJF2234
+2235,NJF,najaf,النجف,عامود 622,NJF2235
+2236,NJF,najaf,النجف,عامود 623,NJF2236
+2237,NJF,najaf,النجف,عامود 624,NJF2237
+2238,NJF,najaf,النجف,عامود 625,NJF2238
+2239,NJF,najaf,النجف,عامود 626,NJF2239
+2240,NJF,najaf,النجف,عامود 627,NJF2240
+2241,NJF,najaf,النجف,عامود 628,NJF2241
+2242,NJF,najaf,النجف,عامود 629,NJF2242
+2243,NJF,najaf,النجف,عامود 630,NJF2243
+2244,NJF,najaf,النجف,عامود 631,NJF2244
+2245,NJF,najaf,النجف,عامود 632,NJF2245
+2246,NJF,najaf,النجف,عامود 633,NJF2246
+2247,NJF,najaf,النجف,عامود 634,NJF2247
+2248,NJF,najaf,النجف,عامود 635,NJF2248
+2249,NJF,najaf,النجف,عامود 636,NJF2249
+2250,NJF,najaf,النجف,عامود 637,NJF2250
+2251,NJF,najaf,النجف,عامود 638,NJF2251
+2252,NJF,najaf,النجف,عامود 639,NJF2252
+2253,NJF,najaf,النجف,عامود 640,NJF2253
+2254,NJF,najaf,النجف,عامود 641,NJF2254
+2255,NJF,najaf,النجف,عامود 642,NJF2255
+2256,NJF,najaf,النجف,عامود 643,NJF2256
+2257,NJF,najaf,النجف,عامود 644,NJF2257
+2258,NJF,najaf,النجف,عامود 645,NJF2258
+2259,NJF,najaf,النجف,عامود 646,NJF2259
+2260,NJF,najaf,النجف,عامود 647,NJF2260
+2261,NJF,najaf,النجف,عامود 648,NJF2261
+2262,NJF,najaf,النجف,عامود 649,NJF2262
+2263,NJF,najaf,النجف,عامود 650,NJF2263
+2264,NJF,najaf,النجف,عامود 651,NJF2264
+2265,NJF,najaf,النجف,عامود 652,NJF2265
+2266,NJF,najaf,النجف,عامود 653,NJF2266
+2267,NJF,najaf,النجف,عامود 654,NJF2267
+2268,NJF,najaf,النجف,عامود 655,NJF2268
+2269,NJF,najaf,النجف,عامود 656,NJF2269
+2270,NJF,najaf,النجف,عامود 657,NJF2270
+2271,NJF,najaf,النجف,عامود 658,NJF2271
+2272,NJF,najaf,النجف,عامود 659,NJF2272
+2273,NJF,najaf,النجف,عامود 660,NJF2273
+2274,NJF,najaf,النجف,عامود 661,NJF2274
+2275,NJF,najaf,النجف,عامود 662,NJF2275
+2276,NJF,najaf,النجف,عامود 663,NJF2276
+2277,NJF,najaf,النجف,عامود 664,NJF2277
+2278,NJF,najaf,النجف,عامود 665,NJF2278
+2279,NJF,najaf,النجف,عامود 666,NJF2279
+2280,NJF,najaf,النجف,عامود 667,NJF2280
+2281,NJF,najaf,النجف,عامود 668,NJF2281
+2282,NJF,najaf,النجف,عامود 669,NJF2282
+2283,NJF,najaf,النجف,عامود 670,NJF2283
+2284,NJF,najaf,النجف,عامود 671,NJF2284
+2285,NJF,najaf,النجف,عامود 672,NJF2285
+2286,NJF,najaf,النجف,عامود 673,NJF2286
+2287,NJF,najaf,النجف,عامود 674,NJF2287
+2288,NJF,najaf,النجف,عامود 675,NJF2288
+2289,NJF,najaf,النجف,عامود 676,NJF2289
+2290,NJF,najaf,النجف,عامود 677,NJF2290
+2291,NJF,najaf,النجف,عامود 678,NJF2291
+2292,NJF,najaf,النجف,عامود 679,NJF2292
+2293,NJF,najaf,النجف,عامود 680,NJF2293
+2294,NJF,najaf,النجف,عامود 681,NJF2294
+2295,NJF,najaf,النجف,عامود 682,NJF2295
+2296,NJF,najaf,النجف,عامود 683,NJF2296
+2297,NJF,najaf,النجف,عامود 684,NJF2297
+2298,NJF,najaf,النجف,شارع المطار الجديد,NJF2298
+2299,NJF,najaf,النجف,حي الصناعة,NJF2299
+2300,NJF,najaf,النجف,حي الكرامة,NJF2300
+2301,NJF,najaf,النجف,النداء,NJF2301
+2302,NJF,najaf,النجف,الجديدة الرابعة,NJF2302
+2303,NJF,najaf,النجف,سوق الحديقة,NJF2303
+2304,NJF,najaf,النجف,الفلقة,NJF2304
+2305,NJF,najaf,النجف,مظلوم,NJF2305
+2306,NJF,najaf,النجف,نيسان,NJF2306
+2307,NJF,najaf,النجف,شارع زين العابدين,NJF2307
+2308,NJF,najaf,النجف,شارع الرسول,NJF2308
+2309,NJF,najaf,النجف,حي الشعراء,NJF2309
+2310,NJF,najaf,النجف,حي الوفاء,NJF2310
+2311,NJF,najaf,النجف,شارع المطار القديم,NJF2311
+2312,NJF,najaf,النجف,شارع جامعة السلام,NJF2312
+2313,NJF,najaf,النجف,المدينة القديمة,NJF2313
+2314,NJF,najaf,النجف,شارع الروان,NJF2314
+2315,NJF,najaf,النجف,حي الحوراء,NJF2315
+2316,NJF,najaf,النجف,شارع حنون,NJF2316
+2317,NJF,najaf,النجف,شارع ابو صخير,NJF2317
+2318,NJF,najaf,النجف,حي الاشتراكي,NJF2318
+2319,NJF,najaf,النجف,حي السواق,NJF2319
+2320,NJF,najaf,النجف,حي نيسان,NJF2320
+2321,NJF,najaf,النجف,ملعب النجف الدولي,NJF2321
+2322,NJF,najaf,النجف,حي الحرفيين,NJF2322
+2323,NJF,najaf,النجف,خان المخضر,NJF2323
+2324,NJF,najaf,النجف,شارع القطعة,NJF2324
+2325,NJF,najaf,النجف,شارع 20,NJF2325
+2326,NJF,najaf,النجف,شارع السبيس,NJF2326
+2327,NJF,najaf,النجف,ملعب النجف الاولمبي,NJF2327
+2328,NJF,najaf,النجف,نفق نيسان,NJF2328
+2329,NJF,najaf,النجف,حي المعلمين,NJF2329
+2330,NJF,najaf,النجف,شارع السلام,NJF2330
+2331,NJF,najaf,النجف,شارع البريد,NJF2331
+2332,NJF,najaf,النجف,شارع الهاتف,NJF2332
+2333,NJF,najaf,النجف,المجمع السكني,NJF2333
+2334,NJF,najaf,النجف,سيد حمزة,NJF2334
+2335,NJF,najaf,النجف,حي الثورة,NJF2335
+2336,NJF,najaf,النجف,حي الامير,NJF2336
+2337,NJF,najaf,النجف,حي الغري,NJF2337
+2338,NJF,najaf,النجف,حي الزهراء,NJF2338
+2339,NJF,najaf,النجف,مجمع قنبر,NJF2339
+2340,NJF,najaf,النجف,شارع جامع الكيلدار,NJF2340
+2341,NJF,najaf,النجف,المقبرة,NJF2341
+2342,NJF,najaf,النجف,حي الجمعية,NJF2342
+2343,NJF,najaf,النجف,القزوينية,NJF2343
+2344,NJF,najaf,النجف,حي الاطباء,NJF2344
+2345,NJF,najaf,النجف,حي الامام المهدي,NJF2345
+2346,NJF,najaf,النجف,الولاية,NJF2346
+2347,NJF,najaf,النجف,دور الاساتذة,NJF2347
+2348,NJF,najaf,النجف,مطار النجف,NJF2348
+2349,NJF,najaf,النجف,حي النور,NJF2349
+2350,NJF,najaf,النجف,حي العروبة,NJF2350
+2351,NJF,najaf,النجف,حي الجمهورية الثالثة,NJF2351
+2352,NJF,najaf,النجف,السوق الكبير,NJF2352
+2353,NJF,najaf,النجف,حي النداء,NJF2353
+2354,NJF,najaf,النجف,مجمع السلام,NJF2354
+2355,NJF,najaf,النجف,الحواتم,NJF2355
+2356,NJF,najaf,النجف,حي الامل,NJF2356
+2357,NJF,najaf,النجف,حي العلماء,NJF2357
+2358,NJF,najaf,النجف,شارع الوائلي,NJF2358
+2359,NJF,najaf,النجف,حي الصحة,NJF2359
+2360,NJF,najaf,النجف,الجديدة,NJF2360
+2361,NJF,najaf,النجف,الكرمة,NJF2361
+2362,NJF,najaf,النجف,الزركة,NJF2362
+2363,NJF,najaf,النجف,ميثم / التمار,NJF2363
+2364,NJF,najaf,النجف,شارع النصر ميلاد,NJF2364
+2365,NJF,najaf,النجف,بنات الحسن,NJF2365
+2366,NJF,najaf,النجف,شارع الطوسي,NJF2366
+2367,NJF,najaf,النجف,ام عباسيات,NJF2367
+2368,NJF,najaf,النجف,بحر النجف,NJF2368
+2369,NJF,najaf,النجف,حي جمعة,NJF2369
+2370,NJF,najaf,النجف,حي الضباط,NJF2370
+2371,NJF,najaf,النجف,حي العدل,NJF2371
+2372,NJF,najaf,النجف,حي الرسالة,NJF2372
+2373,NJF,najaf,النجف,مجمع الاميرات,NJF2373
+2374,NJF,najaf,النجف,حي الجوادين,NJF2374
+2375,NJF,najaf,النجف,السور,NJF2375
+2376,NJF,najaf,النجف,شارع كميل,NJF2376
+2377,NJF,najaf,النجف,جريويه,NJF2377
+2378,NJF,najaf,النجف,الجراويه,NJF2378
+2379,NJF,najaf,النجف,المثنى,NJF2379
+2380,NJF,najaf,النجف,غير محدد,other
+2381,NJF,najaf,النجف,مستشفى الصدر,NJF2381
+2382,NJF,najaf,النجف,جسر الامام علي,NJF2382
+2383,NJF,najaf,النجف,مستشفى الحكيم,NJF2383
+2384,NJF,najaf,النجف,معمل دبس,NJF2384
+2385,NJF,najaf,النجف,قرية الغدير 2,NJF2385
+2386,NJF,najaf,النجف,حي ميثم تمار,NJF2386
+2387,NJF,najaf,النجف,السكه,NJF2387
+2388,NJF,najaf,النجف,الجمهوريه كوفه,NJF2388
+2389,NJF,najaf,النجف,الجماعه,NJF2389
+2390,NJF,najaf,النجف,السراي,NJF2390
+2391,NJF,najaf,النجف,معلمين كوفه,NJF2391
+2392,NJF,najaf,النجف,مركز النجف,NJF2392
+2393,BAS,basra,البصرة,شط العرب,BAS2393
+2394,BAS,basra,البصرة,القرنة,BAS2394
+2395,BAS,basra,البصرة,المدينة,BAS2395
+2396,BAS,basra,البصرة,ابو الخصيب,BAS2396
+2397,BAS,basra,البصرة,الفاو,BAS2397
+2398,BAS,basra,البصرة,الزبير,BAS2398
+2399,BAS,basra,البصرة,السيبة,BAS2399
+2400,BAS,basra,البصرة,سيحان,BAS2400
+2401,BAS,basra,البصرة,اليحار,BAS2401
+2402,BAS,basra,البصرة,الدويب,BAS2402
+2403,BAS,basra,البصرة,سفوان,BAS2403
+2404,BAS,basra,البصرة,الغاز,BAS2404
+2405,BAS,basra,البصرة,الدواجن,BAS2405
+2406,BAS,basra,البصرة,سيطرة بحرية,BAS2406
+2407,BAS,basra,البصرة,شارع 17,BAS2407
+2408,BAS,basra,البصرة,الشعيبة,BAS2408
+2409,BAS,basra,البصرة,البرجسية,BAS2409
+2410,BAS,basra,البصرة,محطة قطار,BAS2410
+2411,BAS,basra,البصرة,حي المرتضى,BAS2411
+2412,BAS,basra,البصرة,الشرش,BAS2412
+2413,BAS,basra,البصرة,الهوير,BAS2413
+2414,BAS,basra,البصرة,بني منصور,BAS2414
+2415,BAS,basra,البصرة,باهلة,BAS2415
+2416,BAS,basra,البصرة,ام السويج,BAS2416
+2417,BAS,basra,البصرة,المعقل,BAS2417
+2418,BAS,basra,البصرة,الحكيمية,BAS2418
+2419,BAS,basra,البصرة,طويسة,BAS2419
+2420,BAS,basra,البصرة,ابله,BAS2420
+2421,BAS,basra,البصرة,جبيلة,BAS2421
+2422,BAS,basra,البصرة,جنينة,BAS2422
+2423,BAS,basra,البصرة,الشارع التجاري,BAS2423
+2424,BAS,basra,البصرة,ساعي,BAS2424
+2425,BAS,basra,البصرة,التحسينية,BAS2425
+2426,BAS,basra,البصرة,كوت الحجاج,BAS2426
+2427,BAS,basra,البصرة,معهد النفط,BAS2427
+2428,BAS,basra,البصرة,شمشومية,BAS2428
+2429,BAS,basra,البصرة,الكورنيش,BAS2429
+2430,BAS,basra,البصرة,شارع استقلال,BAS2430
+2431,BAS,basra,البصرة,شارع الوفود,BAS2431
+2432,BAS,basra,البصرة,شارع السعدي,BAS2432
+2433,BAS,basra,البصرة,شارع المقاولين,BAS2433
+2434,BAS,basra,البصرة,يريهه,BAS2434
+2435,BAS,basra,البصرة,ام النعاج,BAS2435
+2436,BAS,basra,البصرة,سكة عون,BAS2436
+2437,BAS,basra,البصرة,السندية,BAS2437
+2438,BAS,basra,البصرة,شركة اسياسيل,BAS2438
+2439,BAS,basra,البصرة,دويد,BAS2439
+2440,BAS,basra,البصرة,الخليلية,BAS2440
+2441,BAS,basra,البصرة,العباسية,BAS2441
+2442,BAS,basra,البصرة,الزيتون,BAS2442
+2443,BAS,basra,البصرة,مناوي باشا,BAS2443
+2444,BAS,basra,البصرة,مناوي لجم,BAS2444
+2445,BAS,basra,البصرة,شارع 14 تموز,BAS2445
+2446,BAS,basra,البصرة,البراضعية,BAS2446
+2447,BAS,basra,البصرة,الجزيرة,BAS2447
+2448,BAS,basra,البصرة,التنومة,BAS2448
+2449,BAS,basra,البصرة,باب الهوى,BAS2449
+2450,BAS,basra,البصرة,الفيروزية,BAS2450
+2451,BAS,basra,البصرة,الفيحاء,BAS2451
+2452,BAS,basra,البصرة,الصقر,BAS2452
+2453,BAS,basra,البصرة,الجسر الايطالي,BAS2453
+2454,BAS,basra,البصرة,اليوبه,BAS2454
+2455,BAS,basra,البصرة,الجياسي,BAS2455
+2456,BAS,basra,البصرة,نهر حسن,BAS2456
+2457,BAS,basra,البصرة,الحوطة,BAS2457
+2458,BAS,basra,البصرة,الهارثة,BAS2458
+2459,BAS,basra,البصرة,الكرمة,BAS2459
+2460,BAS,basra,البصرة,معمل الورق,BAS2460
+2461,BAS,basra,البصرة,الزريجي,BAS2461
+2462,BAS,basra,البصرة,الدير,BAS2462
+2463,BAS,basra,البصرة,النشوة الماجدية,BAS2463
+2464,BAS,basra,البصرة,جسر الحشد,BAS2464
+2465,BAS,basra,البصرة,جامعة الكرمة,BAS2465
+2466,BAS,basra,البصرة,ابو صخير,BAS2466
+2467,BAS,basra,البصرة,الشافي,BAS2467
+2468,BAS,basra,البصرة,طوبة ونخيلة,BAS2468
+2469,BAS,basra,البصرة,ياسين خريبط,BAS2469
+2470,BAS,basra,البصرة,حي الاصدقاء,BAS2470
+2471,BAS,basra,البصرة,كزيزة,BAS2471
+2472,BAS,basra,البصرة,خمسة ميل,BAS2472
+2473,BAS,basra,البصرة,اربع شوارع,BAS2473
+2474,BAS,basra,البصرة,البيضان,BAS2474
+2475,BAS,basra,البصرة,نواب الضباط,BAS2475
+2476,BAS,basra,البصرة,دور الضباط,BAS2476
+2477,BAS,basra,البصرة,دور النفط,BAS2477
+2478,BAS,basra,البصرة,الجسر العسكري,BAS2478
+2479,BAS,basra,البصرة,مستشفى العسكري,BAS2479
+2480,BAS,basra,البصرة,الجمعيات,BAS2480
+2481,BAS,basra,البصرة,ساحة سعد,BAS2481
+2482,BAS,basra,البصرة,شارع التربية,BAS2482
+2483,BAS,basra,البصرة,شارع بغداد,BAS2483
+2484,BAS,basra,البصرة,حمدان,BAS2484
+2485,BAS,basra,البصرة,صناعية حمدان,BAS2485
+2486,BAS,basra,البصرة,مهيجران,BAS2486
+2487,BAS,basra,البصرة,نهر خوز,BAS2487
+2488,BAS,basra,البصرة,حي بغداد,BAS2488
+2489,BAS,basra,البصرة,علوة حمدان,BAS2489
+2490,BAS,basra,البصرة,القبلة,BAS2490
+2491,BAS,basra,البصرة,حي المهندسين,BAS2491
+2492,BAS,basra,البصرة,المشراك,BAS2492
+2493,BAS,basra,البصرة,الامن الداخلي,BAS2493
+2494,BAS,basra,البصرة,المدينة الرياضية,BAS2494
+2495,BAS,basra,البصرة,مدينة الامل,BAS2495
+2496,BAS,basra,البصرة,شارع الجنابي,BAS2496
+2497,BAS,basra,البصرة,البصرة القديمة,BAS2497
+2498,BAS,basra,البصرة,نضران,BAS2498
+2499,BAS,basra,البصرة,السيمر,BAS2499
+2500,BAS,basra,البصرة,حي الرسالة,BAS2500
+2501,BAS,basra,البصرة,حي الكفاءات,BAS2501
+2502,BAS,basra,البصرة,خور الزبير,BAS2502
+2503,BAS,basra,البصرة,معمل الاسمدة,BAS2503
+2504,BAS,basra,البصرة,طريق ام قصر,BAS2504
+2505,BAS,basra,البصرة,ام قصر,BAS2505
+2506,BAS,basra,البصرة,خويسات,BAS2506
+2507,BAS,basra,البصرة,البترو,BAS2507
+2508,BAS,basra,البصرة,ميناء الخور,BAS2508
+2509,BAS,basra,البصرة,ميناء ام قصر,BAS2509
+2510,BAS,basra,البصرة,الرميلة الشمالية,BAS2510
+2511,BAS,basra,البصرة,الجمهورية,BAS2511
+2512,BAS,basra,البصرة,الحيانية,BAS2512
+2513,BAS,basra,البصرة,التاميم,BAS2513
+2514,BAS,basra,البصرة,اول لاين,BAS2514
+2515,BAS,basra,البصرة,القسم,BAS2515
+2516,BAS,basra,البصرة,الموفقية,BAS2516
+2517,BAS,basra,البصرة,العالية,BAS2517
+2518,BAS,basra,البصرة,صبخة العرب,BAS2518
+2519,BAS,basra,البصرة,الاصمعي,BAS2519
+2520,BAS,basra,البصرة,دور المحاربين,BAS2520
+2521,BAS,basra,البصرة,الطاك,BAS2521
+2522,BAS,basra,البصرة,شقق الفاو,BAS2522
+2523,BAS,basra,البصرة,شارع المكاتب,BAS2523
+2524,BAS,basra,البصرة,حي الرافدين,BAS2524
+2525,BAS,basra,البصرة,العشار,BAS2525
+2526,BAS,basra,البصرة,الالبان,BAS2526
+2527,BAS,basra,البصرة,الداكير,BAS2527
+2528,BAS,basra,البصرة,شارع الوطن,BAS2528
+2529,BAS,basra,البصرة,حي الشهداء,BAS2529
+2530,BAS,basra,البصرة,حي الخضراء,BAS2530
+2531,BAS,basra,البصرة,الجزائر,BAS2531
+2532,BAS,basra,البصرة,الصالحية,BAS2532
+2533,BAS,basra,البصرة,حي الجامعة,BAS2533
+2534,BAS,basra,البصرة,شارع 60,BAS2534
+2535,BAS,basra,البصرة,حي الشرطة,BAS2535
+2536,BAS,basra,البصرة,المطيحة,BAS2536
+2537,BAS,basra,البصرة,كرمة علي,BAS2537
+2538,BAS,basra,البصرة,حي الحسين,BAS2538
+2539,BAS,basra,البصرة,حي الجهاد,BAS2539
+2540,BAS,basra,البصرة,دور الشرطة,BAS2540
+2541,BAS,basra,البصرة,النهران,BAS2541
+2542,BAS,basra,البصرة,البهادرية,BAS2542
+2543,BAS,basra,البصرة,الرميلة,BAS2543
+2544,BAS,basra,البصرة,حي البتول,BAS2544
+2545,BAS,basra,البصرة,العينة,BAS2545
+2546,BAS,basra,البصرة,حي الاحرار,BAS2546
+2547,BAS,basra,البصرة,الكرامة الماجدة,BAS2547
+2548,BAS,basra,البصرة,البدير,BAS2548
+2549,BAS,basra,البصرة,المشراق,BAS2549
+2550,BAS,basra,البصرة,شارع السايلو,BAS2550
+2551,BAS,basra,البصرة,دور الصحة,BAS2551
+2552,BAS,basra,البصرة,حي الزيتون,BAS2552
+2553,BAS,basra,البصرة,النجيبية,BAS2553
+2554,BAS,basra,البصرة,الحي الصناعي,BAS2554
+2555,BAS,basra,البصرة,صناعية الزبير,BAS2555
+2556,BAS,basra,البصرة,بوابة الكرمة,BAS2556
+2557,BAS,basra,البصرة,نظران كازينة,BAS2557
+2558,BAS,basra,البصرة,ناحية عزالدين سليم,BAS2558
+2559,BAS,basra,البصرة,بريهة,BAS2559
+2560,BAS,basra,البصرة,شارع حي الطليعة,BAS2560
+2561,BAS,basra,البصرة,جمعية اسكان الموانئ,BAS2561
+2562,BAS,basra,البصرة,الجبلية,BAS2562
+2563,BAS,basra,البصرة,الطويسة,BAS2563
+2564,BAS,basra,البصرة,حي الحسين المستطيل,BAS2564
+2565,BAS,basra,البصرة,شارع الكويت,BAS2565
+2566,BAS,basra,البصرة,صفوان,BAS2566
+2567,BAS,basra,البصرة,سفان,BAS2567
+2568,BAS,basra,البصرة,جسر كزيزه,BAS2568
+2569,BAS,basra,البصرة,الحميميه,BAS2569
+2570,BAS,basra,البصرة,المشراق القديم,BAS2570
+2571,BAS,basra,البصرة,حي الزهراء,BAS2571
+2572,BAS,basra,البصرة,الخمسة ميل,BAS2572
+2573,BAS,basra,البصرة,حي طارق,BAS2573
+2574,BAS,basra,البصرة,جسر خالد,BAS2574
+2575,BAS,basra,البصرة,التميمية,BAS2575
+2576,BAS,basra,البصرة,حي العباس,BAS2576
+2577,BAS,basra,البصرة,شارع البيضان,BAS2577
+2578,BAS,basra,البصرة,مطار البصرة,BAS2578
+2579,BAS,basra,البصرة,حي الخليج العربي,BAS2579
+2580,BAS,basra,البصرة,السراجي,BAS2580
+2581,BAS,basra,البصرة,الشعلة,BAS2581
+2582,BAS,basra,البصرة,حي الانتصار,BAS2582
+2583,BAS,basra,البصرة,عويسيان,BAS2583
+2584,BAS,basra,البصرة,حي الاندلس,BAS2584
+2585,BAS,basra,البصرة,النشوة,BAS2585
+2586,BAS,basra,البصرة,الجنينة,BAS2586
+2587,BAS,basra,البصرة,الضويهرات,BAS2587
+2588,BAS,basra,البصرة,شارع الميثاق,BAS2588
+2589,BAS,basra,البصرة,شارع الشلامجة,BAS2589
+2590,BAS,basra,البصرة,المشراق الجديد,BAS2590
+2591,BAS,basra,البصرة,حي المعلمين,BAS2591
+2592,BAS,basra,البصرة,الرباط,BAS2592
+2593,BAS,basra,البصرة,ناحية الامام الصادق,BAS2593
+2594,BAS,basra,البصرة,كازينو لبنان,BAS2594
+2595,BAS,basra,البصرة,الاصمعي الجديد,BAS2595
+2596,BAS,basra,البصرة,حي الغدير,BAS2596
+2597,BAS,basra,البصرة,القصور الرئاسية,BAS2597
+2598,BAS,basra,البصرة,حي الامام الحسن,BAS2598
+2599,BAS,basra,البصرة,الطوبة والنخيلة,BAS2599
+2600,BAS,basra,البصرة,قضاء خاص خميسة,BAS2600
+2601,BAS,basra,البصرة,المربد الجديد,BAS2601
+2602,BAS,basra,البصرة,حي القائم,BAS2602
+2603,BAS,basra,البصرة,حي السيمر,BAS2603
+2604,BAS,basra,البصرة,الشمشومية,BAS2604
+2605,BAS,basra,البصرة,حي المدراء,BAS2605
+2606,BAS,basra,البصرة,المربد القديمة,BAS2606
+2607,BAS,basra,البصرة,حي القدس,BAS2607
+2608,BAS,basra,البصرة,حي الرضا,BAS2608
+2609,BAS,basra,البصرة,الهندية,BAS2609
+2610,BAS,basra,البصرة,دور المطار,BAS2610
+2611,BAS,basra,البصرة,حي العدل,BAS2611
+2612,BAS,basra,البصرة,حي العسكري,BAS2612
+2613,BAS,basra,البصرة,النجمي,BAS2613
+2614,BAS,basra,البصرة,ناحية الثغر,BAS2614
+2615,BAS,basra,البصرة,الرحمانية,BAS2615
+2616,BAS,basra,البصرة,حي السلام,BAS2616
+2617,BAS,basra,البصرة,حي الاساتذة,BAS2617
+2618,BAS,basra,البصرة,الداوودية,BAS2618
+2619,BAS,basra,البصرة,الصريفه,BAS2619
+2620,BAS,basra,البصرة,الاديبية,BAS2620
+2621,BAS,basra,البصرة,دور الشؤون,BAS2621
+2622,BAS,basra,البصرة,الاصمعي القديم,BAS2622
+2623,BAS,basra,البصرة,الخيسات,BAS2623
+2624,BAS,basra,البصرة,غير محدد,other
+2625,BAS,basra,البصرة,مول شنشل,BAS2625
+2626,BAS,basra,البصرة,جامعة البصرة,BAS2626
+2627,BAS,basra,البصرة,ساحة الطيران,BAS2627
+2628,BAS,basra,البصرة,خربطلية,BAS2628
+2629,BAS,basra,البصرة,اللجنة الاولمبية,BAS2629
+2630,BAS,basra,البصرة,حي الاطباء,BAS2630
+2631,BAS,basra,البصرة,شارع الاستقلال,BAS2631
+2632,BAS,basra,البصرة,شارع الجنابي,BAS2632
+2633,AMA,maysan,العمارة ميسان,العمارة,AMA2633
+2634,AMA,maysan,العمارة ميسان,كميت,AMA2634
+2635,AMA,maysan,العمارة ميسان,الكحلاء,AMA2635
+2636,AMA,maysan,العمارة ميسان,المشرح,AMA2636
+2637,AMA,maysan,العمارة ميسان,بني هاشم,AMA2637
+2638,AMA,maysan,العمارة ميسان,علي الغربي,AMA2638
+2639,AMA,maysan,العمارة ميسان,علي الشرقي,AMA2639
+2640,AMA,maysan,العمارة ميسان,المجر,AMA2640
+2641,AMA,maysan,العمارة ميسان,الخير,AMA2641
+2642,AMA,maysan,العمارة ميسان,المجر الكبير,AMA2642
+2643,AMA,maysan,العمارة ميسان,ناحية العدل,AMA2643
+2644,AMA,maysan,العمارة ميسان,قلعة صالح,AMA2644
+2645,AMA,maysan,العمارة ميسان,العزير,AMA2645
+2646,AMA,maysan,العمارة ميسان,الميمونة,AMA2646
+2647,AMA,maysan,العمارة ميسان,ناحية السلام,AMA2647
+2648,AMA,maysan,العمارة ميسان,ناحية سيد احمد الرفاعي,AMA2648
+2649,AMA,maysan,العمارة ميسان,حي المصطفى,AMA2649
+2650,AMA,maysan,العمارة ميسان,الجمعيات,AMA2650
+2651,AMA,maysan,العمارة ميسان,نهاوند,AMA2651
+2652,AMA,maysan,العمارة ميسان,حي الشهداء,AMA2652
+2653,AMA,maysan,العمارة ميسان,حي المعلمين جديد,AMA2653
+2654,AMA,maysan,العمارة ميسان,مغربة,AMA2654
+2655,AMA,maysan,العمارة ميسان,حي الصحفيين,AMA2655
+2656,AMA,maysan,العمارة ميسان,العرضات,AMA2656
+2657,AMA,maysan,العمارة ميسان,حي الربيع,AMA2657
+2658,AMA,maysan,العمارة ميسان,دبيسات,AMA2658
+2659,AMA,maysan,العمارة ميسان,حي الرفاق,AMA2659
+2660,AMA,maysan,العمارة ميسان,القادسية,AMA2660
+2661,AMA,maysan,العمارة ميسان,المجبس,AMA2661
+2662,AMA,maysan,العمارة ميسان,الماجدية,AMA2662
+2663,AMA,maysan,العمارة ميسان,سيد عاشور,AMA2663
+2664,AMA,maysan,العمارة ميسان,سيد جميل,AMA2664
+2665,AMA,maysan,العمارة ميسان,حي المتنزه,AMA2665
+2666,AMA,maysan,العمارة ميسان,حي الحسين القديم,AMA2666
+2667,AMA,maysan,العمارة ميسان,ساحة الطلاب,AMA2667
+2668,AMA,maysan,العمارة ميسان,السوق الكبير,AMA2668
+2669,AMA,maysan,العمارة ميسان,شارع بغداد,AMA2669
+2670,AMA,maysan,العمارة ميسان,الكورنيش الجديد,AMA2670
+2671,AMA,maysan,العمارة ميسان,الجديدة,AMA2671
+2672,AMA,maysan,العمارة ميسان,السرية,AMA2672
+2673,AMA,maysan,العمارة ميسان,السراي,AMA2673
+2674,AMA,maysan,العمارة ميسان,شارع دجلة,AMA2674
+2675,AMA,maysan,العمارة ميسان,حي الحسين الجديد,AMA2675
+2676,AMA,maysan,العمارة ميسان,حي الحسن العسكري,AMA2676
+2677,AMA,maysan,العمارة ميسان,حي الجامعة,AMA2677
+2678,AMA,maysan,العمارة ميسان,شقق المعهد,AMA2678
+2679,AMA,maysan,العمارة ميسان,المدثرة,AMA2679
+2680,AMA,maysan,العمارة ميسان,دور النفط,AMA2680
+2681,AMA,maysan,العمارة ميسان,منطقة الزهراء,AMA2681
+2682,AMA,maysan,العمارة ميسان,منطقة الحرية,AMA2682
+2683,AMA,maysan,العمارة ميسان,سدة دور النفط,AMA2683
+2684,AMA,maysan,العمارة ميسان,عواشة,AMA2684
+2685,AMA,maysan,العمارة ميسان,شبانة,AMA2685
+2686,AMA,maysan,العمارة ميسان,حي القاهرة الاولى,AMA2686
+2687,AMA,maysan,العمارة ميسان,حي القاهرة الثانية,AMA2687
+2688,AMA,maysan,العمارة ميسان,حميات,AMA2688
+2689,AMA,maysan,العمارة ميسان,منطقة زيوت,AMA2689
+2690,AMA,maysan,العمارة ميسان,الاسكان,AMA2690
+2691,AMA,maysan,العمارة ميسان,حي المعلمين القديم,AMA2691
+2692,AMA,maysan,العمارة ميسان,حي الرسالة,AMA2692
+2693,AMA,maysan,العمارة ميسان,الوحدة الميكانيكية,AMA2693
+2694,AMA,maysan,العمارة ميسان,ابو رمانة,AMA2694
+2695,AMA,maysan,العمارة ميسان,الحولي الالف دار,AMA2695
+2696,AMA,maysan,العمارة ميسان,دور مجلس المحافظة,AMA2696
+2697,AMA,maysan,العمارة ميسان,حي النداء,AMA2697
+2698,AMA,maysan,العمارة ميسان,منطقة الدفاس,AMA2698
+2699,AMA,maysan,العمارة ميسان,حي الفاطمية,AMA2699
+2700,AMA,maysan,العمارة ميسان,حي الشرطة,AMA2700
+2701,AMA,maysan,العمارة ميسان,العمارات الجدد,AMA2701
+2702,AMA,maysan,العمارة ميسان,العمارات الملح,AMA2702
+2703,AMA,maysan,العمارة ميسان,تقاطع الساعة,AMA2703
+2704,AMA,maysan,العمارة ميسان,حي الخضراء,AMA2704
+2705,AMA,maysan,العمارة ميسان,قطاع 30,AMA2705
+2706,AMA,maysan,العمارة ميسان,قطاع 28,AMA2706
+2707,AMA,maysan,العمارة ميسان,الكفاءات,AMA2707
+2708,AMA,maysan,العمارة ميسان,منطقة حجي عبد,AMA2708
+2709,AMA,maysan,العمارة ميسان,البتيرة,AMA2709
+2710,AMA,maysan,العمارة ميسان,المزبانية,AMA2710
+2711,AMA,maysan,العمارة ميسان,نهر سعد,AMA2711
+2712,AMA,maysan,العمارة ميسان,شارع اربع سايدات,AMA2712
+2713,AMA,maysan,العمارة ميسان,حي الامام موسى الكاظم,AMA2713
+2714,AMA,maysan,العمارة ميسان,حي العسكري,AMA2714
+2715,AMA,maysan,العمارة ميسان,ناحية نبي الله العزيز,AMA2715
+2716,AMA,maysan,العمارة ميسان,حي العامل,AMA2716
+2717,AMA,maysan,العمارة ميسان,الشبانة,AMA2717
+2718,AMA,maysan,العمارة ميسان,حي الجوادين,AMA2718
+2719,AMA,maysan,العمارة ميسان,حي القطاع,AMA2719
+2720,AMA,maysan,العمارة ميسان,حي الثورة,AMA2720
+2721,AMA,maysan,العمارة ميسان,حي الغدير,AMA2721
+2722,AMA,maysan,العمارة ميسان,حي الصادق,AMA2722
+2723,AMA,maysan,العمارة ميسان,حي 15 شعبان,AMA2723
+2724,AMA,maysan,العمارة ميسان,الوحدة,AMA2724
+2725,AMA,maysan,العمارة ميسان,حي الجهاد,AMA2725
+2726,AMA,maysan,العمارة ميسان,حي السجاد,AMA2726
+2727,AMA,maysan,العمارة ميسان,كصيبه,AMA2727
+2728,AMA,maysan,العمارة ميسان,حي الاساتذة,AMA2728
+2729,AMA,maysan,العمارة ميسان,حي المحمودية,AMA2729
+2730,AMA,maysan,العمارة ميسان,ابو شطيب,AMA2730
+2731,AMA,maysan,العمارة ميسان,الشيشان,AMA2731
+2732,AMA,maysan,العمارة ميسان,حي الصدر,AMA2732
+2733,AMA,maysan,العمارة ميسان,العوفية,AMA2733
+2734,AMA,maysan,العمارة ميسان,حي الامام الصادق,AMA2734
+2735,AMA,maysan,العمارة ميسان,حي الكرامة,AMA2735
+2736,AMA,maysan,العمارة ميسان,حي الرحمة,AMA2736
+2737,AMA,maysan,العمارة ميسان,حي السياسين,AMA2737
+2738,AMA,maysan,العمارة ميسان,حي الخليج,AMA2738
+2739,AMA,maysan,العمارة ميسان,ام غربة,AMA2739
+2740,AMA,maysan,العمارة ميسان,ابو سبع,AMA2740
+2741,AMA,maysan,العمارة ميسان,الطبر,AMA2741
+2742,AMA,maysan,العمارة ميسان,سوق زبيد,AMA2742
+2743,AMA,maysan,العمارة ميسان,العبجيه,AMA2743
+2744,AMA,maysan,العمارة ميسان,الروابه,AMA2744
+2745,AMA,maysan,العمارة ميسان,الحي السكني,AMA2745
+2746,AMA,maysan,العمارة ميسان,غير محدد,other
+2747,AMA,maysan,العمارة ميسان,كلية التربية الاساسية,AMA2747
+2748,AMA,maysan,العمارة ميسان,مؤسسة السجناء,AMA2748
+2749,SAH,saladin,صلاح الدين,تكريت,SAH2749
+2750,SAH,saladin,صلاح الدين,سامراء,SAH2750
+2751,SAH,saladin,صلاح الدين,الطيوب,SAH2751
+2752,SAH,saladin,صلاح الدين,الجالسية,SAH2752
+2753,SAH,saladin,صلاح الدين,الاسحاقي,SAH2753
+2754,SAH,saladin,صلاح الدين,قلعة مفرق سامراء,SAH2754
+2755,SAH,saladin,صلاح الدين,بلد,SAH2755
+2756,SAH,saladin,صلاح الدين,الضلوعية,SAH2756
+2757,SAH,saladin,صلاح الدين,الحردانية,SAH2757
+2758,SAH,saladin,صلاح الدين,المعتصم,SAH2758
+2759,SAH,saladin,صلاح الدين,الدجيل,SAH2759
+2760,SAH,saladin,صلاح الدين,دور قاعدة البكر,SAH2760
+2761,SAH,saladin,صلاح الدين,مجمع الدور السكني,SAH2761
+2762,SAH,saladin,صلاح الدين,الحاتمية,SAH2762
+2763,SAH,saladin,صلاح الدين,البو عجيل,SAH2763
+2764,SAH,saladin,صلاح الدين,الدور,SAH2764
+2765,SAH,saladin,صلاح الدين,الدبسة,SAH2765
+2766,SAH,saladin,صلاح الدين,العلم,SAH2766
+2767,SAH,saladin,صلاح الدين,سمرة,SAH2767
+2768,SAH,saladin,صلاح الدين,مكحول,SAH2768
+2769,SAH,saladin,صلاح الدين,مسحك,SAH2769
+2770,SAH,saladin,صلاح الدين,الزوية,SAH2770
+2771,SAH,saladin,صلاح الدين,الشرقاط,SAH2771
+2772,SAH,saladin,صلاح الدين,مصفى بيجي,SAH2772
+2773,SAH,saladin,صلاح الدين,بيجي,SAH2773
+2774,SAH,saladin,صلاح الدين,الجامعة,SAH2774
+2775,SAH,saladin,صلاح الدين,الحجاج,SAH2775
+2776,SAH,saladin,صلاح الدين,البو طعمة,SAH2776
+2777,SAH,saladin,صلاح الدين,طريق بيجي,SAH2777
+2778,SAH,saladin,صلاح الدين,الناعمة,SAH2778
+2779,SAH,saladin,صلاح الدين,حي الزهور,SAH2779
+2780,SAH,saladin,صلاح الدين,طريق بيجي تكريت,SAH2780
+2781,SAH,saladin,صلاح الدين,حي المعلمين,SAH2781
+2782,SAH,saladin,صلاح الدين,الحويش,SAH2782
+2783,SAH,saladin,صلاح الدين,قرية الشيخ علي,SAH2783
+2784,SAH,saladin,صلاح الدين,الخضرانية,SAH2784
+2785,SAH,saladin,صلاح الدين,ناحية حمرين,SAH2785
+2786,SAH,saladin,صلاح الدين,ناحية الصينية,SAH2786
+2787,SAH,saladin,صلاح الدين,ناحية يثرب,SAH2787
+2788,SAH,saladin,صلاح الدين,مكيشيفه,SAH2788
+2789,SAH,saladin,صلاح الدين,قاعدة سبايكر,SAH2789
+2790,SAH,saladin,صلاح الدين,البو هيازع,SAH2790
+2791,SAH,saladin,صلاح الدين,الزلاية,SAH2791
+2792,SAH,saladin,صلاح الدين,العوجه,SAH2792
+2793,SAH,saladin,صلاح الدين,عوينات,SAH2793
+2794,SAH,saladin,صلاح الدين,غير محدد,other
+2795,SAH,saladin,صلاح الدين,مستشفى العسكري,SAH2795
+2796,SAH,saladin,صلاح الدين,القادسية,SAH2796
+2797,ANB,anbar,الانبار رمادي,ناحية الفرات,ANB2797
+2798,ANB,anbar,الانبار رمادي,المحمدي,ANB2798
+2799,ANB,anbar,الانبار رمادي,كبيسة,ANB2799
+2800,ANB,anbar,الانبار رمادي,هيت,ANB2800
+2801,ANB,anbar,الانبار رمادي,البغدادي,ANB2801
+2802,ANB,anbar,الانبار رمادي,حديثة,ANB2802
+2803,ANB,anbar,الانبار رمادي,بروانة,ANB2803
+2804,ANB,anbar,الانبار رمادي,الحقلانية,ANB2804
+2805,ANB,anbar,الانبار رمادي,ابو طيبان,ANB2805
+2806,ANB,anbar,الانبار رمادي,الدولاب,ANB2806
+2807,ANB,anbar,الانبار رمادي,الفلوجة,ANB2807
+2808,ANB,anbar,الانبار رمادي,الصقلاوية,ANB2808
+2809,ANB,anbar,الانبار رمادي,عامرية الفلوجة,ANB2809
+2810,ANB,anbar,الانبار رمادي,النساف,ANB2810
+2811,ANB,anbar,الانبار رمادي,الفلاحات,ANB2811
+2812,ANB,anbar,الانبار رمادي,الحلابسة,ANB2812
+2813,ANB,anbar,الانبار رمادي,الصوفية,ANB2813
+2814,ANB,anbar,الانبار رمادي,جزيرة الرمادي,ANB2814
+2815,ANB,anbar,الانبار رمادي,القادسية الاولى,ANB2815
+2816,ANB,anbar,الانبار رمادي,القادسية الثانية,ANB2816
+2817,ANB,anbar,الانبار رمادي,5 كيلو,ANB2817
+2818,ANB,anbar,الانبار رمادي,7 كيلو,ANB2818
+2819,ANB,anbar,الانبار رمادي,حي الاندلس,ANB2819
+2820,ANB,anbar,الانبار رمادي,القطانة,ANB2820
+2821,ANB,anbar,الانبار رمادي,حي العادي,ANB2821
+2822,ANB,anbar,الانبار رمادي,الشركة,ANB2822
+2823,ANB,anbar,الانبار رمادي,الثيلة,ANB2823
+2824,ANB,anbar,الانبار رمادي,حي الضباط,ANB2824
+2825,ANB,anbar,الانبار رمادي,الزراعة,ANB2825
+2826,ANB,anbar,الانبار رمادي,عنة,ANB2826
+2827,ANB,anbar,الانبار رمادي,راوة,ANB2827
+2828,ANB,anbar,الانبار رمادي,القائم,ANB2828
+2829,ANB,anbar,الانبار رمادي,الرطبة,ANB2829
+2830,ANB,anbar,الانبار رمادي,الزوية,ANB2830
+2831,ANB,anbar,الانبار رمادي,الكرمة,ANB2831
+2832,ANB,anbar,الانبار رمادي,التاميم,ANB2832
+2833,ANB,anbar,الانبار رمادي,الجمعية,ANB2833
+2834,ANB,anbar,الانبار رمادي,شارع 40,ANB2834
+2835,ANB,anbar,الانبار رمادي,شارع 17,ANB2835
+2836,ANB,anbar,الانبار رمادي,حي المعلمين,ANB2836
+2837,ANB,anbar,الانبار رمادي,الاسكان,ANB2837
+2838,ANB,anbar,الانبار رمادي,شارع 60,ANB2838
+2839,ANB,anbar,الانبار رمادي,سيطرة الصقور,ANB2839
+2840,ANB,anbar,الانبار رمادي,البو عساف,ANB2840
+2841,ANB,anbar,الانبار رمادي,جويبة,ANB2841
+2842,ANB,anbar,الانبار رمادي,الحبانية,ANB2842
+2843,ANB,anbar,الانبار رمادي,الرمادي,ANB2843
+2844,ANB,anbar,الانبار رمادي,ناحية العبيدي,ANB2844
+2845,ANB,anbar,الانبار رمادي,عانة,ANB2845
+2846,ANB,anbar,الانبار رمادي,شارع 30,ANB2846
+2847,ANB,anbar,الانبار رمادي,نغماتي,ANB2847
+2848,ANB,anbar,الانبار رمادي,الخالدية,ANB2848
+2849,ANB,anbar,الانبار رمادي,35 كيلو,ANB2849
+2850,ANB,anbar,الانبار رمادي,حصيبة الشرقية,ANB2850
+2851,ANB,anbar,الانبار رمادي,ناحية الوليد,ANB2851
+2852,ANB,anbar,الانبار رمادي,طريق المدينة السياحية,ANB2852
+2853,ANB,anbar,الانبار رمادي,زنكورة,ANB2853
+2854,ANB,anbar,الانبار رمادي,الحامضية,ANB2854
+2855,ANB,anbar,الانبار رمادي,الملعب,ANB2855
+2856,ANB,anbar,الانبار رمادي,قرية الصكار - شرق الرطبة -,ANB2856
+2857,ANB,anbar,الانبار رمادي,الحصيوات / الرمادي,ANB2857
+2858,ANB,anbar,الانبار رمادي,النخيب,ANB2858
+2859,ANB,anbar,الانبار رمادي,القرية العصرية,ANB2859
+2860,ANB,anbar,الانبار رمادي,الشيخ عامر,ANB2860
+2861,ANB,anbar,الانبار رمادي,حصيبة الغربية,ANB2861
+2862,ANB,anbar,الانبار رمادي,الثرثار,ANB2862
+2863,ANB,anbar,الانبار رمادي,بزيبز,ANB2863
+2864,ANB,anbar,الانبار رمادي,غير محدد,other
+2865,ANB,anbar,الانبار رمادي,جامعة الانبار,ANB2865
+2866,ANB,anbar,الانبار رمادي,حي الجمهوري,ANB2866
+2867,ANB,anbar,الانبار رمادي,الورار,ANB2867
+2868,ANB,anbar,الانبار رمادي,شارع البريد,ANB2868
+2869,ANB,anbar,الانبار رمادي,سجارية,ANB2869
+2870,ANB,anbar,الانبار رمادي,جزيرة الخالدية,ANB2870
+2871,NAS,zeeqar,الناصرية ذي قار,الرفاعي,NAS2871
+2872,NAS,zeeqar,الناصرية ذي قار,قلعة سكر,NAS2872
+2873,NAS,zeeqar,الناصرية ذي قار,نصر,NAS2873
+2874,NAS,zeeqar,الناصرية ذي قار,الفجر,NAS2874
+2875,NAS,zeeqar,الناصرية ذي قار,الشطرة,NAS2875
+2876,NAS,zeeqar,الناصرية ذي قار,دواية,NAS2876
+2877,NAS,zeeqar,الناصرية ذي قار,الغراف,NAS2877
+2878,NAS,zeeqar,الناصرية ذي قار,الجبايش,NAS2878
+2879,NAS,zeeqar,الناصرية ذي قار,الفهود,NAS2879
+2880,NAS,zeeqar,الناصرية ذي قار,الاصلاح,NAS2880
+2881,NAS,zeeqar,الناصرية ذي قار,المنار,NAS2881
+2882,NAS,zeeqar,الناصرية ذي قار,الحمار,NAS2882
+2883,NAS,zeeqar,الناصرية ذي قار,السجن الاصلاحي,NAS2883
+2884,NAS,zeeqar,الناصرية ذي قار,سيد دخيل,NAS2884
+2885,NAS,zeeqar,الناصرية ذي قار,سوق الشيوخ,NAS2885
+2886,NAS,zeeqar,الناصرية ذي قار,كرمة بني سعيد,NAS2886
+2887,NAS,zeeqar,الناصرية ذي قار,الكعيكة,NAS2887
+2888,NAS,zeeqar,الناصرية ذي قار,الطار,NAS2888
+2889,NAS,zeeqar,الناصرية ذي قار,الفضلية,NAS2889
+2890,NAS,zeeqar,الناصرية ذي قار,البطحة,NAS2890
+2891,NAS,zeeqar,الناصرية ذي قار,الحبوبي,NAS2891
+2892,NAS,zeeqar,الناصرية ذي قار,الادارة المحلية,NAS2892
+2893,NAS,zeeqar,الناصرية ذي قار,حي سومر,NAS2893
+2894,NAS,zeeqar,الناصرية ذي قار,منطقة 400 دار,NAS2894
+2895,NAS,zeeqar,الناصرية ذي قار,حي اريدو,NAS2895
+2896,NAS,zeeqar,الناصرية ذي قار,حي التضحية,NAS2896
+2897,NAS,zeeqar,الناصرية ذي قار,حي الفداء,NAS2897
+2898,NAS,zeeqar,الناصرية ذي قار,حي الرحمة,NAS2898
+2899,NAS,zeeqar,الناصرية ذي قار,الحي العسكري,NAS2899
+2900,NAS,zeeqar,الناصرية ذي قار,الشرقية,NAS2900
+2901,NAS,zeeqar,الناصرية ذي قار,الزهراء,NAS2901
+2902,NAS,zeeqar,الناصرية ذي قار,الموحية,NAS2902
+2903,NAS,zeeqar,الناصرية ذي قار,الشيباني,NAS2903
+2904,NAS,zeeqar,الناصرية ذي قار,صوب الشامية,NAS2904
+2905,NAS,zeeqar,الناصرية ذي قار,حي المتنزه,NAS2905
+2906,NAS,zeeqar,الناصرية ذي قار,المنصورية,NAS2906
+2907,NAS,zeeqar,الناصرية ذي قار,الشموخ,NAS2907
+2908,NAS,zeeqar,الناصرية ذي قار,الاسكان القديم,NAS2908
+2909,NAS,zeeqar,الناصرية ذي قار,الاسكان الصناعي,NAS2909
+2910,NAS,zeeqar,الناصرية ذي قار,السكك,NAS2910
+2911,NAS,zeeqar,الناصرية ذي قار,العمارات السكنية,NAS2911
+2912,NAS,zeeqar,الناصرية ذي قار,حي الرسول,NAS2912
+2913,NAS,zeeqar,الناصرية ذي قار,حي الروسي,NAS2913
+2914,NAS,zeeqar,الناصرية ذي قار,الطاقة,NAS2914
+2915,NAS,zeeqar,الناصرية ذي قار,قاعدة الامام علي,NAS2915
+2916,NAS,zeeqar,الناصرية ذي قار,حي الامير,NAS2916
+2917,NAS,zeeqar,الناصرية ذي قار,العكر,NAS2917
+2918,NAS,zeeqar,الناصرية ذي قار,الثورة,NAS2918
+2919,NAS,zeeqar,الناصرية ذي قار,العرجة,NAS2919
+2920,NAS,zeeqar,الناصرية ذي قار,المهيدية,NAS2920
+2921,NAS,zeeqar,الناصرية ذي قار,حي اور,NAS2921
+2922,NAS,zeeqar,الناصرية ذي قار,المدينة,NAS2922
+2923,NAS,zeeqar,الناصرية ذي قار,شارع 30,NAS2923
+2924,NAS,zeeqar,الناصرية ذي قار,التضحية,NAS2924
+2925,NAS,zeeqar,الناصرية ذي قار,الفداء,NAS2925
+2926,NAS,zeeqar,الناصرية ذي قار,السيدناوية,NAS2926
+2927,NAS,zeeqar,الناصرية ذي قار,ناحية اور,NAS2927
+2928,NAS,zeeqar,الناصرية ذي قار,حي الزهراء,NAS2928
+2929,NAS,zeeqar,الناصرية ذي قار,حي الحكيم,NAS2929
+2930,NAS,zeeqar,الناصرية ذي قار,قرب العلوة,NAS2930
+2931,NAS,zeeqar,الناصرية ذي قار,الصالحية,NAS2931
+2932,NAS,zeeqar,الناصرية ذي قار,ابراهيم الخليل,NAS2932
+2933,NAS,zeeqar,الناصرية ذي قار,شارع 20,NAS2933
+2934,NAS,zeeqar,الناصرية ذي قار,حي الجامعة,NAS2934
+2935,NAS,zeeqar,الناصرية ذي قار,جامعة ذي قار,NAS2935
+2936,NAS,zeeqar,الناصرية ذي قار,الشهداء,NAS2936
+2937,NAS,zeeqar,الناصرية ذي قار,سومر,NAS2937
+2938,NAS,zeeqar,الناصرية ذي قار,حي الرافدين,NAS2938
+2939,NAS,zeeqar,الناصرية ذي قار,حي الحسين,NAS2939
+2940,NAS,zeeqar,الناصرية ذي قار,شركة اور,NAS2940
+2941,NAS,zeeqar,الناصرية ذي قار,دور الالمنيوم,NAS2941
+2942,NAS,zeeqar,الناصرية ذي قار,القابلوات,NAS2942
+2943,NAS,zeeqar,الناصرية ذي قار,شارع بغداد,NAS2943
+2944,NAS,zeeqar,الناصرية ذي قار,الشعلة,NAS2944
+2945,NAS,zeeqar,الناصرية ذي قار,مدينة الصدر,NAS2945
+2946,NAS,zeeqar,الناصرية ذي قار,حي المعلمين,NAS2946
+2947,NAS,zeeqar,الناصرية ذي قار,الناصرية,NAS2947
+2948,NAS,zeeqar,الناصرية ذي قار,طريق الناصرية غراف,NAS2948
+2949,NAS,zeeqar,الناصرية ذي قار,الطليعة,NAS2949
+2950,NAS,zeeqar,الناصرية ذي قار,حي البشائر,NAS2950
+2951,NAS,zeeqar,الناصرية ذي قار,ناحية النصر,NAS2951
+2952,NAS,zeeqar,الناصرية ذي قار,النصر,NAS2952
+2953,NAS,zeeqar,الناصرية ذي قار,مدخل الفضائية,NAS2953
+2954,NAS,zeeqar,الناصرية ذي قار,الشمامرة,NAS2954
+2955,NAS,zeeqar,الناصرية ذي قار,منطقة الزاوية,NAS2955
+2956,NAS,zeeqar,الناصرية ذي قار,حي الشهداء,NAS2956
+2957,NAS,zeeqar,الناصرية ذي قار,الزيرج البحوالة,NAS2957
+2958,NAS,zeeqar,الناصرية ذي قار,البطحاء,NAS2958
+2959,NAS,zeeqar,الناصرية ذي قار,الحسينية,NAS2959
+2960,NAS,zeeqar,الناصرية ذي قار,حي البكر,NAS2960
+2961,NAS,zeeqar,الناصرية ذي قار,شارع النبي ابراهيم,NAS2961
+2962,NAS,zeeqar,الناصرية ذي قار,شارع السفينة,NAS2962
+2963,NAS,zeeqar,الناصرية ذي قار,منطقة الصابئة,NAS2963
+2964,NAS,zeeqar,الناصرية ذي قار,الفريحي,NAS2964
+2965,NAS,zeeqar,الناصرية ذي قار,الشوفة,NAS2965
+2966,NAS,zeeqar,الناصرية ذي قار,شارع المحكمة الجديدة,NAS2966
+2967,NAS,zeeqar,الناصرية ذي قار,الحي الصناعي,NAS2967
+2968,NAS,zeeqar,الناصرية ذي قار,السايح,NAS2968
+2969,NAS,zeeqar,الناصرية ذي قار,حي التحرير,NAS2969
+2970,NAS,zeeqar,الناصرية ذي قار,الطلاحبة,NAS2970
+2971,NAS,zeeqar,الناصرية ذي قار,القرية العصرية,NAS2971
+2972,NAS,zeeqar,الناصرية ذي قار,الامام شريف,NAS2972
+2973,NAS,zeeqar,الناصرية ذي قار,غير محدد,other
+2974,NAS,zeeqar,الناصرية ذي قار,شارع السبيس,NAS2974
+2975,NAS,zeeqar,الناصرية ذي قار,شارع الاخلاص,NAS2975
+2976,NAS,zeeqar,الناصرية ذي قار,مجلس المحافظة القديم,NAS2976
+2977,NAS,zeeqar,الناصرية ذي قار,مؤسسة السجناء,NAS2977
+2978,NAS,zeeqar,الناصرية ذي قار,شارع البريد,NAS2978
+2979,NAS,zeeqar,الناصرية ذي قار,الاخلاص,NAS2979
+2980,KOT,koot,الكوت واسط,النعمانية,KOT2980
+2981,KOT,koot,الكوت واسط,العزيزية,KOT2981
+2982,KOT,koot,الكوت واسط,الصويرة,KOT2982
+2983,KOT,koot,الكوت واسط,الزبيدية,KOT2983
+2984,KOT,koot,الكوت واسط,الكوت,KOT2984
+2985,KOT,koot,الكوت واسط,بدرة,KOT2985
+2986,KOT,koot,الكوت واسط,الحي,KOT2986
+2987,KOT,koot,الكوت واسط,الانوار,KOT2987
+2988,KOT,koot,الكوت واسط,الهورة,KOT2988
+2989,KOT,koot,الكوت واسط,المشروع,KOT2989
+2990,KOT,koot,الكوت واسط,الحوراء,KOT2990
+2991,KOT,koot,الكوت واسط,السوق,KOT2991
+2992,KOT,koot,الكوت واسط,الفلاحية,KOT2992
+2993,KOT,koot,الكوت واسط,الحسين الاولى,KOT2993
+2994,KOT,koot,الكوت واسط,الحسين الثانية,KOT2994
+2995,KOT,koot,الكوت واسط,السلام,KOT2995
+2996,KOT,koot,الكوت واسط,الخليج,KOT2996
+2997,KOT,koot,الكوت واسط,الحيدرية,KOT2997
+2998,KOT,koot,الكوت واسط,الكريمية,KOT2998
+2999,KOT,koot,الكوت واسط,الجهاد الاولى,KOT2999
+3000,KOT,koot,الكوت واسط,الجهاد الثانية,KOT3000
+3001,KOT,koot,الكوت واسط,دور الشؤون,KOT3001
+3002,KOT,koot,الكوت واسط,دور العمال,KOT3002
+3003,KOT,koot,الكوت واسط,دور المعلمين,KOT3003
+3004,KOT,koot,الكوت واسط,المعلمين الاولى,KOT3004
+3005,KOT,koot,الكوت واسط,المعلمين الثانية,KOT3005
+3006,KOT,koot,الكوت واسط,الربيع,KOT3006
+3007,KOT,koot,الكوت واسط,تموز,KOT3007
+3008,KOT,koot,الكوت واسط,الكفاءات,KOT3008
+3009,KOT,koot,الكوت واسط,الفيصلية,KOT3009
+3010,KOT,koot,الكوت واسط,الشهداء,KOT3010
+3011,KOT,koot,الكوت واسط,الحكيم الاولى,KOT3011
+3012,KOT,koot,الكوت واسط,الحكيم الثانية,KOT3012
+3013,KOT,koot,الكوت واسط,الصناعي,KOT3013
+3014,KOT,koot,الكوت واسط,الميمونة,KOT3014
+3015,KOT,koot,الكوت واسط,السفحة,KOT3015
+3016,KOT,koot,الكوت واسط,الحقوقيين,KOT3016
+3017,KOT,koot,الكوت واسط,الضابط,KOT3017
+3018,KOT,koot,الكوت واسط,العزة القديم,KOT3018
+3019,KOT,koot,الكوت واسط,العزة الجديد,KOT3019
+3020,KOT,koot,الكوت واسط,الخاجية الشمالي,KOT3020
+3021,KOT,koot,الكوت واسط,البشائر,KOT3021
+3022,KOT,koot,الكوت واسط,الحفرية,KOT3022
+3023,KOT,koot,الكوت واسط,الدبوني,KOT3023
+3024,KOT,koot,الكوت واسط,الشيخ سعد,KOT3024
+3025,KOT,koot,الكوت واسط,جصان,KOT3025
+3026,KOT,koot,الكوت واسط,زرباطية,KOT3026
+3027,KOT,koot,الكوت واسط,الاحرار,KOT3027
+3028,KOT,koot,الكوت واسط,المزركة,KOT3028
+3029,KOT,koot,الكوت واسط,نعماتية,KOT3029
+3030,KOT,koot,الكوت واسط,بتار,KOT3030
+3031,KOT,koot,الكوت واسط,الدجيلي,KOT3031
+3032,KOT,koot,الكوت واسط,الكوت الجديد,KOT3032
+3033,KOT,koot,الكوت واسط,الزهراء,KOT3033
+3034,KOT,koot,الكوت واسط,دور كمال,KOT3034
+3035,KOT,koot,الكوت واسط,الحكيم,KOT3035
+3036,KOT,koot,الكوت واسط,الطشاش,KOT3036
+3037,KOT,koot,الكوت واسط,دور الضباط,KOT3037
+3038,KOT,koot,الكوت واسط,العباسية,KOT3038
+3039,KOT,koot,الكوت واسط,الشرقية,KOT3039
+3040,KOT,koot,الكوت واسط,الجعفرية,KOT3040
+3041,KOT,koot,الكوت واسط,دور القاعدة,KOT3041
+3042,KOT,koot,الكوت واسط,حي الجامعة,KOT3042
+3043,KOT,koot,الكوت واسط,السياسيين,KOT3043
+3044,KOT,koot,الكوت واسط,شارع النفط,KOT3044
+3045,KOT,koot,الكوت واسط,الحسينية,KOT3045
+3046,KOT,koot,الكوت واسط,القادسية,KOT3046
+3047,KOT,koot,الكوت واسط,الفلاحات,KOT3047
+3048,KOT,koot,الكوت واسط,الحرية,KOT3048
+3049,KOT,koot,الكوت واسط,الجوادين,KOT3049
+3050,KOT,koot,الكوت واسط,الموفقية,KOT3050
+3051,KOT,koot,الكوت واسط,كميت,KOT3051
+3052,KOT,koot,الكوت واسط,الوافدين,KOT3052
+3053,KOT,koot,الكوت واسط,زويرجات,KOT3053
+3054,KOT,koot,الكوت واسط,العمارات السكنية,KOT3054
+3055,KOT,koot,الكوت واسط,حي الجهاد,KOT3055
+3056,KOT,koot,الكوت واسط,سوق الشيشان,KOT3056
+3057,KOT,koot,الكوت واسط,ناحية واسط,KOT3057
+3058,KOT,koot,الكوت واسط,الدجيلة,KOT3058
+3059,KOT,koot,الكوت واسط,العروبة,KOT3059
+3060,KOT,koot,الكوت واسط,طريق الحي,KOT3060
+3061,KOT,koot,الكوت واسط,الحولي,KOT3061
+3062,KOT,koot,الكوت واسط,سويدي,KOT3062
+3063,KOT,koot,الكوت واسط,منطقة الوافدين,KOT3063
+3064,KOT,koot,الكوت واسط,الشحيمية,KOT3064
+3065,KOT,koot,الكوت واسط,زين القوس,KOT3065
+3066,KOT,koot,الكوت واسط,سدة الغراف,KOT3066
+3067,KOT,koot,الكوت واسط,داموك,KOT3067
+3068,KOT,koot,الكوت واسط,البسروكية,KOT3068
+3069,KOT,koot,الكوت واسط,حي الخضراء,KOT3069
+3070,KOT,koot,الكوت واسط,كوت الحي,KOT3070
+3071,KOT,koot,الكوت واسط,الخاجية,KOT3071
+3072,KOT,koot,الكوت واسط,المزاك,KOT3072
+3073,KOT,koot,الكوت واسط,قضاء تاج الدين,KOT3073
+3074,KOT,koot,الكوت واسط,الزنابرة,KOT3074
+3075,KOT,koot,الكوت واسط,غير محدد,other
+3076,KOT,koot,الكوت واسط,حي الحكيم,KOT3076
+3077,KOT,koot,الكوت واسط,السبيليات,KOT3077
+3078,SAM,simawa,السماوة المثنى,السماوة,SAM3078
+3079,SAM,simawa,السماوة المثنى,السوير,SAM3079
+3080,SAM,simawa,السماوة المثنى,الرميثة,SAM3080
+3081,SAM,simawa,السماوة المثنى,الهلال,SAM3081
+3082,SAM,simawa,السماوة المثنى,النجمي,SAM3082
+3083,SAM,simawa,السماوة المثنى,المجد,SAM3083
+3084,SAM,simawa,السماوة المثنى,السلمان,SAM3084
+3085,SAM,simawa,السماوة المثنى,بصية,SAM3085
+3086,SAM,simawa,السماوة المثنى,الخضر,SAM3086
+3087,SAM,simawa,السماوة المثنى,الدراجي,SAM3087
+3088,SAM,simawa,السماوة المثنى,الوركاء,SAM3088
+3089,SAM,simawa,السماوة المثنى,ال عبس,SAM3089
+3090,SAM,simawa,السماوة المثنى,البيضة,SAM3090
+3091,SAM,simawa,السماوة المثنى,جسر جروخي,SAM3091
+3092,SAM,simawa,السماوة المثنى,الهويشي,SAM3092
+3093,SAM,simawa,السماوة المثنى,قرية سيد هادي,SAM3093
+3094,SAM,simawa,السماوة المثنى,الخط السريع,SAM3094
+3095,SAM,simawa,السماوة المثنى,دبيس,SAM3095
+3096,SAM,simawa,السماوة المثنى,ابو شويريب,SAM3096
+3097,SAM,simawa,السماوة المثنى,اليقة,SAM3097
+3098,SAM,simawa,السماوة المثنى,الحيدرية,SAM3098
+3099,SAM,simawa,السماوة المثنى,حي الصدر,SAM3099
+3100,SAM,simawa,السماوة المثنى,آل باني,SAM3100
+3101,SAM,simawa,السماوة المثنى,حي الحكيم,SAM3101
+3102,SAM,simawa,السماوة المثنى,حي العسكري,SAM3102
+3103,SAM,simawa,السماوة المثنى,حي الشهداء,SAM3103
+3104,SAM,simawa,السماوة المثنى,حي الرسالة,SAM3104
+3105,SAM,simawa,السماوة المثنى,حي التاميم,SAM3105
+3106,SAM,simawa,السماوة المثنى,المعلمين,SAM3106
+3107,SAM,simawa,السماوة المثنى,حي 9 نيسان,SAM3107
+3108,SAM,simawa,السماوة المثنى,حي الجامعة,SAM3108
+3109,SAM,simawa,السماوة المثنى,الاسكان,SAM3109
+3110,SAM,simawa,السماوة المثنى,حي الضباط,SAM3110
+3111,SAM,simawa,السماوة المثنى,حي الصناعي,SAM3111
+3112,SAM,simawa,السماوة المثنى,حي السكك,SAM3112
+3113,SAM,simawa,السماوة المثنى,حي الحسين,SAM3113
+3114,SAM,simawa,السماوة المثنى,المملحة,SAM3114
+3115,SAM,simawa,السماوة المثنى,حي المعلمين,SAM3115
+3116,SAM,simawa,السماوة المثنى,مجمع الجوادين,SAM3116
+3117,SAM,simawa,السماوة المثنى,الجربوعية,SAM3117
+3118,SAM,simawa,السماوة المثنى,ناحية القشلة,SAM3118
+3119,SAM,simawa,السماوة المثنى,270 دار,SAM3119
+3120,SAM,simawa,السماوة المثنى,حي القاسم,SAM3120
+3121,SAM,simawa,السماوة المثنى,شارع باتا,SAM3121
+3122,SAM,simawa,السماوة المثنى,الشرجي,SAM3122
+3123,SAM,simawa,السماوة المثنى,الصوب الصغير,SAM3123
+3124,SAM,simawa,السماوة المثنى,حي 7 نيسان,SAM3124
+3125,SAM,simawa,السماوة المثنى,حي الامير,SAM3125
+3126,SAM,simawa,السماوة المثنى,الصوب الكبير,SAM3126
+3127,SAM,simawa,السماوة المثنى,ام العكف,SAM3127
+3128,SAM,simawa,السماوة المثنى,حي الجمهوري,SAM3128
+3129,SAM,simawa,السماوة المثنى,سيد جبار,SAM3129
+3130,SAM,simawa,السماوة المثنى,حي الكرامة,SAM3130
+3131,SAM,simawa,السماوة المثنى,حي النفط,SAM3131
+3132,SAM,simawa,السماوة المثنى,حي العزل,SAM3132
+3133,SAM,simawa,السماوة المثنى,الغربي الثانية,SAM3133
+3134,SAM,simawa,السماوة المثنى,الشراكية,SAM3134
+3135,SAM,simawa,السماوة المثنى,العطشان,SAM3135
+3136,SAM,simawa,السماوة المثنى,ام العصافير,SAM3136
+3137,SAM,simawa,السماوة المثنى,الصباغ,SAM3137
+3138,SAM,simawa,السماوة المثنى,حي الزهور,SAM3138
+3139,SAM,simawa,السماوة المثنى,غير محدد,other
+3140,SAM,simawa,السماوة المثنى,حي السياسين,SAM3140
+3141,KRK,karkok,كركوك,داقوق,KRK3141
+3142,KRK,karkok,كركوك,الدبس,KRK3142
+3143,KRK,karkok,كركوك,الحويجة,KRK3143
+3144,KRK,karkok,كركوك,قورية,KRK3144
+3145,KRK,karkok,كركوك,بريادي,KRK3145
+3146,KRK,karkok,كركوك,الشورجة,KRK3146
+3147,KRK,karkok,كركوك,احمد اغا,KRK3147
+3148,KRK,karkok,كركوك,شاطرلو,KRK3148
+3149,KRK,karkok,كركوك,امام قاسم,KRK3149
+3150,KRK,karkok,كركوك,الماس,KRK3150
+3151,KRK,karkok,كركوك,القلعة,KRK3151
+3152,KRK,karkok,كركوك,المصلى,KRK3152
+3153,KRK,karkok,كركوك,تسعين,KRK3153
+3154,KRK,karkok,كركوك,عرفة,KRK3154
+3155,KRK,karkok,كركوك,ساحة الطيران,KRK3155
+3156,KRK,karkok,كركوك,حمزة لي,KRK3156
+3157,KRK,karkok,كركوك,ئازادي,KRK3157
+3158,KRK,karkok,كركوك,رحيم ئاوة,KRK3158
+3159,KRK,karkok,كركوك,الحديديين,KRK3159
+3160,KRK,karkok,كركوك,حي البعث,KRK3160
+3161,KRK,karkok,كركوك,حي الواسطي,KRK3161
+3162,KRK,karkok,كركوك,غرناطة,KRK3162
+3163,KRK,karkok,كركوك,دوميز,KRK3163
+3164,KRK,karkok,كركوك,واحد اذار,KRK3164
+3165,KRK,karkok,كركوك,حي النصر,KRK3165
+3166,KRK,karkok,كركوك,العسكري,KRK3166
+3167,KRK,karkok,كركوك,العروبة,KRK3167
+3168,KRK,karkok,كركوك,حي النور,KRK3168
+3169,KRK,karkok,كركوك,حي المنتوجات,KRK3169
+3170,KRK,karkok,كركوك,حي الشهداء,KRK3170
+3171,KRK,karkok,كركوك,حي الوحدة,KRK3171
+3172,KRK,karkok,كركوك,الاسرى والمفقودين,KRK3172
+3173,KRK,karkok,كركوك,المعلمين,KRK3173
+3174,KRK,karkok,كركوك,الضباط,KRK3174
+3175,KRK,karkok,كركوك,1 حزيران,KRK3175
+3176,KRK,karkok,كركوك,الخضراء,KRK3176
+3177,KRK,karkok,كركوك,طوزخرماتو,KRK3177
+3178,KRK,karkok,كركوك,الدوز,KRK3178
+3179,KRK,karkok,كركوك,شوراو,KRK3179
+3180,KRK,karkok,كركوك,الحرية,KRK3180
+3181,KRK,karkok,كركوك,شارع المحافظة,KRK3181
+3182,KRK,karkok,كركوك,ناحية الزاب,KRK3182
+3183,KRK,karkok,كركوك,طريق المطار,KRK3183
+3184,KRK,karkok,كركوك,كي وان,KRK3184
+3185,KRK,karkok,كركوك,الحجاج,KRK3185
+3186,KRK,karkok,كركوك,ناحية تازة,KRK3186
+3187,KRK,karkok,كركوك,العمل الشعبي,KRK3187
+3188,KRK,karkok,كركوك,يايجي,KRK3188
+3189,KRK,karkok,كركوك,حي القادسية,KRK3189
+3190,KRK,karkok,كركوك,حي العسكري,KRK3190
+3191,KRK,karkok,كركوك,شارع طريق بغداد,KRK3191
+3192,KRK,karkok,كركوك,شقق بنجة علي السكني,KRK3192
+3193,KRK,karkok,كركوك,حي عدن,KRK3193
+3194,KRK,karkok,كركوك,حي النداء,KRK3194
+3195,KRK,karkok,كركوك,حي واحد اذار,KRK3195
+3196,KRK,karkok,كركوك,دروازة,KRK3196
+3197,KRK,karkok,كركوك,القادسية الاولى,KRK3197
+3198,KRK,karkok,كركوك,سيكانيان,KRK3198
+3199,KRK,karkok,كركوك,القادسية الثانية,KRK3199
+3200,KRK,karkok,كركوك,فرق معارض حي الخضراء,KRK3200
+3201,KRK,karkok,كركوك,الرشاد,KRK3201
+3202,KRK,karkok,كركوك,حي الحجاج,KRK3202
+3203,KRK,karkok,كركوك,دور السكك,KRK3203
+3204,KRK,karkok,كركوك,حي الضباط,KRK3204
+3205,KRK,karkok,كركوك,كوبري,KRK3205
+3206,KRK,karkok,كركوك,امرلي,KRK3206
+3207,KRK,karkok,كركوك,قرية حسار,KRK3207
+3208,KRK,karkok,كركوك,منطقة مكتب خالد,KRK3208
+3209,KRK,karkok,كركوك,الفيلق,KRK3209
+3210,KRK,karkok,كركوك,حي الصناعي,KRK3210
+3211,KRK,karkok,كركوك,حي حزيران,KRK3211
+3212,KRK,karkok,كركوك,منطقة روناكي,KRK3212
+3213,KRK,karkok,كركوك,سليمان بيك,KRK3213
+3214,KRK,karkok,كركوك,بنجة,KRK3214
+3215,KRK,karkok,كركوك,ليلان,KRK3215
+3216,KRK,karkok,كركوك,شركة طارق,KRK3216
+3217,KRK,karkok,كركوك,كلية القانون,KRK3217
+3218,KRK,karkok,كركوك,ساحة الاحتفالات,KRK3218
+3219,KRK,karkok,كركوك,قاعدة كيوان الجوية,KRK3219
+3220,KRK,karkok,كركوك,ناحية الرياض,KRK3220
+3221,KRK,karkok,كركوك,شارع الحاسبات,KRK3221
+3222,KRK,karkok,كركوك,حي الزوراء,KRK3222
+3223,KRK,karkok,كركوك,ناحية العباسي,KRK3223
+3224,KRK,karkok,كركوك,تقاطع الحجاج,KRK3224
+3225,KRK,karkok,كركوك,حي الشرطة,KRK3225
+3226,KRK,karkok,كركوك,قره هنجير,KRK3226
+3227,KRK,karkok,كركوك,المندودة,KRK3227
+3228,KRK,karkok,كركوك,تل علي,KRK3228
+3229,KRK,karkok,كركوك,منطقة الصياده,KRK3229
+3230,KRK,karkok,كركوك,الماس تبة,KRK3230
+3231,KRK,karkok,كركوك,شارع القدس,KRK3231
+3232,KRK,karkok,كركوك,الصالحي,KRK3232
+3233,KRK,karkok,كركوك,حي بدر,KRK3233
+3234,KRK,karkok,كركوك,شارع اطلس,KRK3234
+3235,KRK,karkok,كركوك,راس الجسر,KRK3235
+3236,KRK,karkok,كركوك,مريم بيك,KRK3236
+3237,KRK,karkok,كركوك,شارع الجمهورية,KRK3237
+3238,KRK,karkok,كركوك,كوباني,KRK3238
+3239,KRK,karkok,كركوك,بنجا علي,KRK3239
+3240,KRK,karkok,كركوك,قصاب خانة,KRK3240
+3241,KRK,karkok,كركوك,شقق حي الحسين,KRK3241
+3242,KRK,karkok,كركوك,حي الاسكان,KRK3242
+3243,KRK,karkok,كركوك,الكرامة,KRK3243
+3244,KRK,karkok,كركوك,مجمع كركوك ستي,KRK3244
+3245,KRK,karkok,كركوك,سونه كولى,KRK3245
+3246,KRK,karkok,كركوك,الكورنيش,KRK3246
+3247,KRK,karkok,كركوك,مفرق شوان,KRK3247
+3248,KRK,karkok,كركوك,باجوان,KRK3248
+3249,KRK,karkok,كركوك,باروت خانة,KRK3249
+3250,KRK,karkok,كركوك,واحد حزيران,KRK3250
+3251,KRK,karkok,كركوك,دور الري,KRK3251
+3252,KRK,karkok,كركوك,حي العلماء,KRK3252
+3253,KRK,karkok,كركوك,قرية جيمن,KRK3253
+3254,KRK,karkok,كركوك,قرية النبي ياور,KRK3254
+3255,KRK,karkok,كركوك,حي الزهراء,KRK3255
+3256,KRK,karkok,كركوك,عراصات,KRK3256
+3257,KRK,karkok,كركوك,حي الارتقاء,KRK3257
+3258,KRK,karkok,كركوك,دارمان,KRK3258
+3259,KRK,karkok,كركوك,ناحية طقطق,KRK3259
+3260,KRK,karkok,كركوك,الفين دار / 2000 دار,KRK3260
+3261,KRK,karkok,كركوك,الصياده الجديدة,KRK3261
+3262,KRK,karkok,كركوك,الممدودة,KRK3262
+3263,KRK,karkok,كركوك,تركلان,KRK3263
+3264,KRK,karkok,كركوك,كوركه جال,KRK3264
+3265,KRK,karkok,كركوك,طوبزاوه,KRK3265
+3266,KRK,karkok,كركوك,الحمزلي,KRK3266
+3267,KRK,karkok,كركوك,المعارض,KRK3267
+3268,KRK,karkok,كركوك,طريق اربيل,KRK3268
+3269,KRK,karkok,كركوك,سكانيان,KRK3269
+3270,KRK,karkok,كركوك,طريق السليمانية / الجيمه,KRK3270
+3271,KRK,karkok,كركوك,ناحية الملتقى,KRK3271
+3272,KRK,karkok,كركوك,منطقة 55,KRK3272
+3273,KRK,karkok,كركوك,الحورة,KRK3273
+3274,KRK,karkok,كركوك,حطين,KRK3274
+3275,KRK,karkok,كركوك,مجمع مدينتي,KRK3275
+3276,KRK,karkok,كركوك,التسعين,KRK3276
+3277,KRK,karkok,كركوك,حصير,KRK3277
+3278,KRK,karkok,كركوك,ساقزلي,KRK3278
+3279,KRK,karkok,كركوك,تل الورد,KRK3279
+3280,KRK,karkok,كركوك,حقول خباز,KRK3280
+3281,KRK,karkok,كركوك,قرية ملا عبدالله,KRK3281
+3282,KRK,karkok,كركوك,افان ستي,KRK3282
+3283,KRK,karkok,كركوك,حي بدر,KRK3283
+3284,KRK,karkok,كركوك,رأس دومير,KRK3284
+3285,KRK,karkok,كركوك,شارع القدس,KRK3285
+3286,KRK,karkok,كركوك,شقق الغاز,KRK3286
+3287,KRK,karkok,كركوك,شقق حي الحسين,KRK3287
+3288,KRK,karkok,كركوك,شقق صدام,KRK3288
+3289,KRK,karkok,كركوك,شقق صيادة,KRK3289
+3290,KRK,karkok,كركوك,فلكة تكريت,KRK3290
+3291,KRK,karkok,كركوك,كاردن ستي,KRK3291
+3292,KRK,karkok,كركوك,كراج بغداد,KRK3292
+3293,KRK,karkok,كركوك,كركوك ستي1.2.3,KRK3293
+3294,KRK,karkok,كركوك,كركوك ستي4,KRK3294
+3295,KRK,karkok,كركوك,مجمع الجوهرة,KRK3295
+3296,KRK,karkok,كركوك,مجمع سوما ستي,KRK3296
+3297,KRK,karkok,كركوك,مجمع لاملي لاند,KRK3297
+3298,KRK,karkok,كركوك,مرجان ستي,KRK3298
+3299,KRK,karkok,كركوك,مطعم صمد,KRK3299
+3300,KRK,karkok,كركوك,مودرن ستي,KRK3300
+3301,KRK,karkok,كركوك,ناحية بشير,KRK3301
+3302,KRK,karkok,كركوك,ناحية سليمان بيك,KRK3302
+3303,KRK,karkok,كركوك,نور ستي1,KRK3303
+3304,KRK,karkok,كركوك,نور ستي2,KRK3304
+3305,KRK,karkok,كركوك,غير محدد,other
+3306,KRK,karkok,كركوك,الحسابات,KRK3306
+3307,KRK,karkok,كركوك,نور ستي,KRK3307
+3308,KRK,karkok,كركوك,شارع الاطباء,KRK3308
+3309,KRK,karkok,كركوك,مستشفى الطفل,KRK3309
+3310,KRK,karkok,كركوك,فلكة الاخوان,KRK3310
+3311,KRK,karkok,كركوك,سايدين,KRK3311
+3312,KRK,karkok,كركوك,سوق العصري,KRK3312
+3313,SMH,solaimania,السليمانيه,بكره جو,SMH3313
+3314,SMH,solaimania,السليمانيه,بازيان,SMH3314
+3315,SMH,solaimania,السليمانيه,تانجرو,SMH3315
+3316,SMH,solaimania,السليمانيه,قراداغ,SMH3316
+3317,SMH,solaimania,السليمانيه,سيه سيتان,SMH3317
+3318,SMH,solaimania,السليمانيه,شهرزور,SMH3318
+3319,SMH,solaimania,السليمانيه,حلبجة تازة,SMH3319
+3320,SMH,solaimania,السليمانيه,وارماوا,SMH3320
+3321,SMH,solaimania,السليمانيه,سيد صادق,SMH3321
+3322,SMH,solaimania,السليمانيه,سرجوك,SMH3322
+3323,SMH,solaimania,السليمانيه,حلبجة,SMH3323
+3324,SMH,solaimania,السليمانيه,سيروان,SMH3324
+3325,SMH,solaimania,السليمانيه,خورمال,SMH3325
+3326,SMH,solaimania,السليمانيه,بيارا,SMH3326
+3327,SMH,solaimania,السليمانيه,بنجوين,SMH3327
+3328,SMH,solaimania,السليمانيه,كرمك,SMH3328
+3329,SMH,solaimania,السليمانيه,نالباريز,SMH3329
+3330,SMH,solaimania,السليمانيه,شهرباجير,SMH3330
+3331,SMH,solaimania,السليمانيه,جوارته,SMH3331
+3332,SMH,solaimania,السليمانيه,سيوتيل,SMH3332
+3333,SMH,solaimania,السليمانيه,سيتك,SMH3333
+3334,SMH,solaimania,السليمانيه,زلان,SMH3334
+3335,SMH,solaimania,السليمانيه,كابيلون,SMH3335
+3336,SMH,solaimania,السليمانيه,ماوت,SMH3336
+3337,SMH,solaimania,السليمانيه,بشدر,SMH3337
+3338,SMH,solaimania,السليمانيه,قلعة دزا,SMH3338
+3339,SMH,solaimania,السليمانيه,هيرو,SMH3339
+3340,SMH,solaimania,السليمانيه,هلشو,SMH3340
+3341,SMH,solaimania,السليمانيه,ذاراو,SMH3341
+3342,SMH,solaimania,السليمانيه,ناوه دشت,SMH3342
+3343,SMH,solaimania,السليمانيه,عيسوي,SMH3343
+3344,SMH,solaimania,السليمانيه,رانية,SMH3344
+3345,SMH,solaimania,السليمانيه,جوار قورنة,SMH3345
+3346,SMH,solaimania,السليمانيه,حاجي اوا,SMH3346
+3347,SMH,solaimania,السليمانيه,بيتواتة,SMH3347
+3348,SMH,solaimania,السليمانيه,سركسبان,SMH3348
+3349,SMH,solaimania,السليمانيه,دوكان,SMH3349
+3350,SMH,solaimania,السليمانيه,سورداش,SMH3350
+3351,SMH,solaimania,السليمانيه,بيرة مكرون,SMH3351
+3352,SMH,solaimania,السليمانيه,خلكان,SMH3352
+3353,SMH,solaimania,السليمانيه,خدران,SMH3353
+3354,SMH,solaimania,السليمانيه,بنكرد,SMH3354
+3355,SMH,solaimania,السليمانيه,دربندخان,SMH3355
+3356,SMH,solaimania,السليمانيه,باو خوشين,SMH3356
+3357,SMH,solaimania,السليمانيه,رزكاري,SMH3357
+3358,SMH,solaimania,السليمانيه,بيباز,SMH3358
+3359,SMH,solaimania,السليمانيه,شيخ طويل,SMH3359
+3360,SMH,solaimania,السليمانيه,كفري,SMH3360
+3361,SMH,solaimania,السليمانيه,آوة سبي,SMH3361
+3362,SMH,solaimania,السليمانيه,سر قلعة,SMH3362
+3363,SMH,solaimania,السليمانيه,نوجول,SMH3363
+3364,SMH,solaimania,السليمانيه,كوكس,SMH3364
+3365,SMH,solaimania,السليمانيه,جمجمال,SMH3365
+3366,SMH,solaimania,السليمانيه,شورش,SMH3366
+3367,SMH,solaimania,السليمانيه,سنكاو,SMH3367
+3368,SMH,solaimania,السليمانيه,تكية,SMH3368
+3369,SMH,solaimania,السليمانيه,اغجلر,SMH3369
+3370,SMH,solaimania,السليمانيه,قادر كرم,SMH3370
+3371,SMH,solaimania,السليمانيه,تكية جباري,SMH3371
+3372,SMH,solaimania,السليمانيه,الجامع الكبير,SMH3372
+3373,SMH,solaimania,السليمانيه,رابرين,SMH3373
+3374,SMH,solaimania,السليمانيه,تافكه,SMH3374
+3375,SMH,solaimania,السليمانيه,ابراهيم باشا,SMH3375
+3376,SMH,solaimania,السليمانيه,سرجنار,SMH3376
+3377,SMH,solaimania,السليمانيه,قركة,SMH3377
+3378,SMH,solaimania,السليمانيه,داروكا,SMH3378
+3379,SMH,solaimania,السليمانيه,ديه ستي,SMH3379
+3380,SMH,solaimania,السليمانيه,الرعاية,SMH3380
+3381,SMH,solaimania,السليمانيه,شهيدان,SMH3381
+3382,SMH,solaimania,السليمانيه,شارع 60,SMH3382
+3383,SMH,solaimania,السليمانيه,جسر قالاوة,SMH3383
+3384,SMH,solaimania,السليمانيه,المستشفى التعليمي,SMH3384
+3385,SMH,solaimania,السليمانيه,المطار الدولي,SMH3385
+3386,SMH,solaimania,السليمانيه,فلكة ماما ريشة,SMH3386
+3387,SMH,solaimania,السليمانيه,خابات شيخ لقمان,SMH3387
+3388,SMH,solaimania,السليمانيه,حي المعلمين,SMH3388
+3389,SMH,solaimania,السليمانيه,هوارة تازة,SMH3389
+3390,SMH,solaimania,السليمانيه,شارع كاوة,SMH3390
+3391,SMH,solaimania,السليمانيه,شارع سالم,SMH3391
+3392,SMH,solaimania,السليمانيه,شكركة,SMH3392
+3393,SMH,solaimania,السليمانيه,تو مليك,SMH3393
+3394,SMH,solaimania,السليمانيه,السوق الكبير,SMH3394
+3395,SMH,solaimania,السليمانيه,جبل ازمر,SMH3395
+3396,SMH,solaimania,السليمانيه,ناحية عربت,SMH3396
+3397,SMH,solaimania,السليمانيه,شارع قره توغان,SMH3397
+3398,SMH,solaimania,السليمانيه,كاني كوردة,SMH3398
+3399,SMH,solaimania,السليمانيه,طاسلوجة,SMH3399
+3400,SMH,solaimania,السليمانيه,دار ستاوكه,SMH3400
+3401,SMH,solaimania,السليمانيه,هواري شار,SMH3401
+3402,SMH,solaimania,السليمانيه,السليمانية الجديدة,SMH3402
+3403,SMH,solaimania,السليمانيه,كردي سرجنار,SMH3403
+3404,SMH,solaimania,السليمانيه,ماموستيان,SMH3404
+3405,SMH,solaimania,السليمانيه,كورد ستي 2,SMH3405
+3406,SMH,solaimania,السليمانيه,اشتي,SMH3406
+3407,SMH,solaimania,السليمانيه,حي سردار اوا,SMH3407
+3408,SMH,solaimania,السليمانيه,اللاي,SMH3408
+3409,SMH,solaimania,السليمانيه,بختياري,SMH3409
+3410,SMH,solaimania,السليمانيه,كورسات,SMH3410
+3411,SMH,solaimania,السليمانيه,كاني سكان,SMH3411
+3412,SMH,solaimania,السليمانيه,ازادي,SMH3412
+3413,SMH,solaimania,السليمانيه,جوار باخ,SMH3413
+3414,SMH,solaimania,السليمانيه,كنه كوة,SMH3414
+3415,SMH,solaimania,السليمانيه,قركه شاري سبي,SMH3415
+3416,SMH,solaimania,السليمانيه,قوله ريسي,SMH3416
+3417,SMH,solaimania,السليمانيه,ابراهيم احمد,SMH3417
+3418,SMH,solaimania,السليمانيه,كاري زوشك,SMH3418
+3419,SMH,solaimania,السليمانيه,اوباره,SMH3419
+3420,SMH,solaimania,السليمانيه,اصحابي سبي,SMH3420
+3421,SMH,solaimania,السليمانيه,سركاريز,SMH3421
+3422,SMH,solaimania,السليمانيه,كويجه,SMH3422
+3423,SMH,solaimania,السليمانيه,باشا ستي,SMH3423
+3424,SMH,solaimania,السليمانيه,جوار جرا,SMH3424
+3425,SMH,solaimania,السليمانيه,شيخ محي الدين,SMH3425
+3426,SMH,solaimania,السليمانيه,فلكة دستكه,SMH3426
+3427,SMH,solaimania,السليمانيه,قيوان ستي,SMH3427
+3428,SMH,solaimania,السليمانيه,شارع القناة,SMH3428
+3429,SMH,solaimania,السليمانيه,كوباني نوزاد,SMH3429
+3430,SMH,solaimania,السليمانيه,كان الشيطان,SMH3430
+3431,SMH,solaimania,السليمانيه,برانان,SMH3431
+3432,SMH,solaimania,السليمانيه,شارواني,SMH3432
+3433,SMH,solaimania,السليمانيه,كاني سبيكه,SMH3433
+3434,SMH,solaimania,السليمانيه,ولوبة,SMH3434
+3435,SMH,solaimania,السليمانيه,كولي شار,SMH3435
+3436,SMH,solaimania,السليمانيه,المنطقة الصناعية,SMH3436
+3437,SMH,solaimania,السليمانيه,سيتوان,SMH3437
+3438,SMH,solaimania,السليمانيه,باينجان,SMH3438
+3439,SMH,solaimania,السليمانيه,سه روه رى,SMH3439
+3440,SMH,solaimania,السليمانيه,فرمان باران,SMH3440
+3441,SMH,solaimania,السليمانيه,كرده براوكه,SMH3441
+3442,SMH,solaimania,السليمانيه,الاسكان,SMH3442
+3443,SMH,solaimania,السليمانيه,جوارباخ,SMH3443
+3444,SMH,solaimania,السليمانيه,مجيد بيك,SMH3444
+3445,SMH,solaimania,السليمانيه,صابون بران,SMH3445
+3446,SMH,solaimania,السليمانيه,طريق كركوك,SMH3446
+3447,SMH,solaimania,السليمانيه,كاريزه وشك,SMH3447
+3448,SMH,solaimania,السليمانيه,اندزيران,SMH3448
+3449,SMH,solaimania,السليمانيه,شارع الاورزدي,SMH3449
+3450,SMH,solaimania,السليمانيه,زركته,SMH3450
+3451,SMH,solaimania,السليمانيه,قرنجيل,SMH3451
+3452,SMH,solaimania,السليمانيه,علي ناجي,SMH3452
+3453,SMH,solaimania,السليمانيه,شارع كوران,SMH3453
+3454,SMH,solaimania,السليمانيه,به رزاييه كاني,SMH3454
+3455,SMH,solaimania,السليمانيه,زيرينوك,SMH3455
+3456,SMH,solaimania,السليمانيه,هواري برزه,SMH3456
+3457,SMH,solaimania,السليمانيه,سروري,SMH3457
+3458,SMH,solaimania,السليمانيه,شقق نوروز,SMH3458
+3459,SMH,solaimania,السليمانيه,عوال,SMH3459
+3460,SMH,solaimania,السليمانيه,شيخ عباس,SMH3460
+3461,SMH,solaimania,السليمانيه,مجمع كولي شار,SMH3461
+3462,SMH,solaimania,السليمانيه,كانيبه,SMH3462
+3463,SMH,solaimania,السليمانيه,كورد ستي 1,SMH3463
+3464,SMH,solaimania,السليمانيه,باركي ازادي,SMH3464
+3465,SMH,solaimania,السليمانيه,بەرزایەکانی سلیماني,SMH3465
+3466,SMH,solaimania,السليمانيه,بەرزایەکانی قیوان,SMH3466
+3467,SMH,solaimania,السليمانيه,جامعة الامريكي,SMH3467
+3468,SMH,solaimania,السليمانيه,خسروخال,SMH3468
+3469,SMH,solaimania,السليمانيه,دانيا ستي,SMH3469
+3470,SMH,solaimania,السليمانيه,زارا مول,SMH3470
+3471,SMH,solaimania,السليمانيه,ستي سنتر,SMH3471
+3472,SMH,solaimania,السليمانيه,سەروەري,SMH3472
+3473,SMH,solaimania,السليمانيه,شارع كانسكا,SMH3473
+3474,SMH,solaimania,السليمانيه,شارع مليك,SMH3474
+3475,SMH,solaimania,السليمانيه,كومبانياي نوزاد,SMH3475
+3476,SMH,solaimania,السليمانيه,لازو مول,SMH3476
+3477,SMH,solaimania,السليمانيه,ماجدي مول,SMH3477
+3478,SMH,solaimania,السليمانيه,مام قاسم,SMH3478
+3479,SMH,solaimania,السليمانيه,مجمع صائب ستي,SMH3479
+3480,SMH,solaimania,السليمانيه,مستشفى شورش,SMH3480
+3481,SMH,solaimania,السليمانيه,مسجد خانقا,SMH3481
+3482,SMH,solaimania,السليمانيه,نقليات سليمانية,SMH3482
+3483,SMH,solaimania,السليمانيه,ولوبة,SMH3483
+3484,SMH,solaimania,السليمانيه,گراند بازار,SMH3484
+3485,SMH,solaimania,السليمانيه,گولي شار,SMH3485
+3486,SMH,solaimania,السليمانيه,گوندي الماني,SMH3486
+3487,SMH,solaimania,السليمانيه,گويژه ستي,SMH3487
+3488,SMH,solaimania,السليمانيه,غير محدد,other
+3489,SMH,solaimania,السليمانيه,كاردن ستي,SMH3489
+3490,SMH,solaimania,السليمانيه,دروازة,SMH3490
+3491,SMH,solaimania,السليمانيه,امباير,SMH3491
+3492,SMH,solaimania,السليمانيه,كلار,SMH3492
+3493,SMH,solaimania,السليمانيه,كنده سوره,SMH3493
+3494,ARB,arbeel,اربيل,كويه,ARB3494
+3495,ARB,arbeel,اربيل,كويسنجق,ARB3495
+3496,ARB,arbeel,اربيل,طقطق,ARB3496
+3497,ARB,arbeel,اربيل,ديكة لة,ARB3497
+3498,ARB,arbeel,اربيل,ئاشتي,ARB3498
+3499,ARB,arbeel,اربيل,سيكردان,ARB3499
+3500,ARB,arbeel,اربيل,رواندز,ARB3500
+3501,ARB,arbeel,اربيل,سوران,ARB3501
+3502,ARB,arbeel,اربيل,دياناو سيدكان,ARB3502
+3503,ARB,arbeel,اربيل,شقلاوة,ARB3503
+3504,ARB,arbeel,اربيل,سربن,ARB3504
+3505,ARB,arbeel,اربيل,صلاح الدين,ARB3505
+3506,ARB,arbeel,اربيل,خليفان,ARB3506
+3507,ARB,arbeel,اربيل,حرير,ARB3507
+3508,ARB,arbeel,اربيل,ميركه سور,ARB3508
+3509,ARB,arbeel,اربيل,بارزان,ARB3509
+3510,ARB,arbeel,اربيل,شيروان,ARB3510
+3511,ARB,arbeel,اربيل,الكلك,ARB3511
+3512,ARB,arbeel,اربيل,رزكاري,ARB3512
+3513,ARB,arbeel,اربيل,هنجيروك,ARB3513
+3514,ARB,arbeel,اربيل,سهل اربيل,ARB3514
+3515,ARB,arbeel,اربيل,قصبة بنصلاوة,ARB3515
+3516,ARB,arbeel,اربيل,كسنزان,ARB3516
+3517,ARB,arbeel,اربيل,دارة تو,ARB3517
+3518,ARB,arbeel,اربيل,شارع 100,ARB3518
+3519,ARB,arbeel,اربيل,امام داوة,ARB3519
+3520,ARB,arbeel,اربيل,هفلان,ARB3520
+3521,ARB,arbeel,اربيل,زانياري,ARB3521
+3522,ARB,arbeel,اربيل,طريق كويه,ARB3522
+3523,ARB,arbeel,اربيل,طريق كسنزان,ARB3523
+3524,ARB,arbeel,اربيل,عينكاوا,ARB3524
+3525,ARB,arbeel,اربيل,شارع 120,ARB3525
+3526,ARB,arbeel,اربيل,فرمان بران,ARB3526
+3527,ARB,arbeel,اربيل,مام زاوة,ARB3527
+3528,ARB,arbeel,اربيل,الصناعة الجنوبية,ARB3528
+3529,ARB,arbeel,اربيل,سوق الموبايلات,ARB3529
+3530,ARB,arbeel,اربيل,معارض سيارات اربيل,ARB3530
+3531,ARB,arbeel,اربيل,شارع 20,ARB3531
+3532,ARB,arbeel,اربيل,بهاري نوي,ARB3532
+3533,ARB,arbeel,اربيل,حي اري,ARB3533
+3534,ARB,arbeel,اربيل,كولان,ARB3534
+3535,ARB,arbeel,اربيل,دريم ستي,ARB3535
+3536,ARB,arbeel,اربيل,نصلاوة,ARB3536
+3537,ARB,arbeel,اربيل,سايدين منارة,ARB3537
+3538,ARB,arbeel,اربيل,دوار حي الشرطة,ARB3538
+3539,ARB,arbeel,اربيل,قرية تورق,ARB3539
+3540,ARB,arbeel,اربيل,حي العدالة,ARB3540
+3541,ARB,arbeel,اربيل,شورش,ARB3541
+3542,ARB,arbeel,اربيل,باداوة,ARB3542
+3543,ARB,arbeel,اربيل,زانكو ماموستيان,ARB3543
+3544,ARB,arbeel,اربيل,حي الاساتذة,ARB3544
+3545,ARB,arbeel,اربيل,بختياري,ARB3545
+3546,ARB,arbeel,اربيل,قيروا,ARB3546
+3547,ARB,arbeel,اربيل,شارع 60,ARB3547
+3548,ARB,arbeel,اربيل,زنياري,ARB3548
+3549,ARB,arbeel,اربيل,سري بلند,ARB3549
+3550,ARB,arbeel,اربيل,القلعة,ARB3550
+3551,ARB,arbeel,اربيل,خبات,ARB3551
+3552,ARB,arbeel,اربيل,قريتاق,ARB3552
+3553,ARB,arbeel,اربيل,شاويس,ARB3553
+3554,ARB,arbeel,اربيل,قوشتبة,ARB3554
+3555,ARB,arbeel,اربيل,ملا عمر,ARB3555
+3556,ARB,arbeel,اربيل,حي الزيتون,ARB3556
+3557,ARB,arbeel,اربيل,صناعة الشمالية,ARB3557
+3558,ARB,arbeel,اربيل,كلوبال ستي,ARB3558
+3559,ARB,arbeel,اربيل,طريق زيره فاني,ARB3559
+3560,ARB,arbeel,اربيل,شقق شيهان ستي,ARB3560
+3561,ARB,arbeel,اربيل,هاوكاري,ARB3561
+3562,ARB,arbeel,اربيل,شارع برتي,ARB3562
+3563,ARB,arbeel,اربيل,شاهان ستي,ARB3563
+3564,ARB,arbeel,اربيل,كزنزان,ARB3564
+3565,ARB,arbeel,اربيل,شاري باجكر,ARB3565
+3566,ARB,arbeel,اربيل,بحركة,ARB3566
+3567,ARB,arbeel,اربيل,حي ازاري,ARB3567
+3568,ARB,arbeel,اربيل,القرية الايطالية الثانية,ARB3568
+3569,ARB,arbeel,اربيل,القرية الايطالية الاولى,ARB3569
+3570,ARB,arbeel,اربيل,هيران ستي,ARB3570
+3571,ARB,arbeel,اربيل,هوليري نوى,ARB3571
+3572,ARB,arbeel,اربيل,ناحية شمامك,ARB3572
+3573,ARB,arbeel,اربيل,منطقة برايتي,ARB3573
+3574,ARB,arbeel,اربيل,مجمع الزيتون,ARB3574
+3575,ARB,arbeel,اربيل,ناحية قوشتبة,ARB3575
+3576,ARB,arbeel,اربيل,ديبكة,ARB3576
+3577,ARB,arbeel,اربيل,كلجين,ARB3577
+3578,ARB,arbeel,اربيل,تيراوه,ARB3578
+3579,ARB,arbeel,اربيل,الكوير,ARB3579
+3580,ARB,arbeel,اربيل,طوبزاوا,ARB3580
+3581,ARB,arbeel,اربيل,كاريزان,ARB3581
+3582,ARB,arbeel,اربيل,شارع باتا,ARB3582
+3583,ARB,arbeel,اربيل,المفتي,ARB3583
+3584,ARB,arbeel,اربيل,ماموستيان,ARB3584
+3585,ARB,arbeel,اربيل,زانكو,ARB3585
+3586,ARB,arbeel,اربيل,كوران الجديدة,ARB3586
+3587,ARB,arbeel,اربيل,كنجان ستي,ARB3587
+3588,ARB,arbeel,اربيل,امباير,ARB3588
+3589,ARB,arbeel,اربيل,ناز ناز,ARB3589
+3590,ARB,arbeel,اربيل,هولير نوي / اربيل الجديدة,ARB3590
+3591,ARB,arbeel,اربيل,زيلان ستي,ARB3591
+3592,ARB,arbeel,اربيل,كوركوسك,ARB3592
+3593,ARB,arbeel,اربيل,حي الاسكان,ARB3593
+3594,ARB,arbeel,اربيل,سايدين لاوان,ARB3594
+3595,ARB,arbeel,اربيل,خةبات,ARB3595
+3596,ARB,arbeel,اربيل,كرده رش,ARB3596
+3597,ARB,arbeel,اربيل,حي الشرطة,ARB3597
+3598,ARB,arbeel,اربيل,ماردين,ARB3598
+3599,ARB,arbeel,اربيل,خمسة حصاروك / بنج حساروك,ARB3599
+3600,ARB,arbeel,اربيل,العسكري / نوروز,ARB3600
+3601,ARB,arbeel,اربيل,زيان,ARB3601
+3602,ARB,arbeel,اربيل,شارع 40,ARB3602
+3603,ARB,arbeel,اربيل,سيبردان,ARB3603
+3604,ARB,arbeel,اربيل,كاني قرزاله,ARB3604
+3605,ARB,arbeel,اربيل,وزيران,ARB3605
+3606,ARB,arbeel,اربيل,شارع 30,ARB3606
+3607,ARB,arbeel,اربيل,علوة اربيل,ARB3607
+3608,ARB,arbeel,اربيل,ازادي,ARB3608
+3609,ARB,arbeel,اربيل,شيخ احمد,ARB3609
+3610,ARB,arbeel,اربيل,بيرزين,ARB3610
+3611,ARB,arbeel,اربيل,نازماوه,ARB3611
+3612,ARB,arbeel,اربيل,شاخكي,ARB3612
+3613,ARB,arbeel,اربيل,خاشكي,ARB3613
+3614,ARB,arbeel,اربيل,جومان,ARB3614
+3615,ARB,arbeel,اربيل,خرائب جبر,ARB3615
+3616,ARB,arbeel,اربيل,باسرمه,ARB3616
+3617,ARB,arbeel,اربيل,حي المهندسين,ARB3617
+3618,ARB,arbeel,اربيل,سربستي / 32 بارك / سي ودو بارك,ARB3618
+3619,ARB,arbeel,اربيل,روشمبيري,ARB3619
+3620,ARB,arbeel,اربيل,حي شارواني,ARB3620
+3621,ARB,arbeel,اربيل,الصناعة الشمالية,ARB3621
+3622,ARB,arbeel,اربيل,طريق مصيف صلاح الدين,ARB3622
+3623,ARB,arbeel,اربيل,القرية اللبنانية,ARB3623
+3624,ARB,arbeel,اربيل,كلاويز,ARB3624
+3625,ARB,arbeel,اربيل,شارع طريق كركوك,ARB3625
+3626,ARB,arbeel,اربيل,الخازر,ARB3626
+3627,ARB,arbeel,اربيل,قوريتان,ARB3627
+3628,ARB,arbeel,اربيل,منتكاوة,ARB3628
+3629,ARB,arbeel,اربيل,مخمور,ARB3629
+3630,ARB,arbeel,اربيل,راوندوز,ARB3630
+3631,ARB,arbeel,اربيل,حي كردستان,ARB3631
+3632,ARB,arbeel,اربيل,طريق مخمور,ARB3632
+3633,ARB,arbeel,اربيل,شيخ جولي,ARB3633
+3634,ARB,arbeel,اربيل,روناكي,ARB3634
+3635,ARB,arbeel,اربيل,حي العلماء,ARB3635
+3636,ARB,arbeel,اربيل,طريق بنصلاوة,ARB3636
+3637,ARB,arbeel,اربيل,رابرين,ARB3637
+3638,ARB,arbeel,اربيل,طورق,ARB3638
+3639,ARB,arbeel,اربيل,كولان ١٢١,ARB3639
+3640,ARB,arbeel,اربيل,قرية تل بزن,ARB3640
+3641,ARB,arbeel,اربيل,قرية ماسطاوه,ARB3641
+3642,ARB,arbeel,اربيل,كلاكان,ARB3642
+3643,ARB,arbeel,اربيل,نوسه ران,ARB3643
+3644,ARB,arbeel,اربيل,سيداوة,ARB3644
+3645,ARB,arbeel,اربيل,خانزاد,ARB3645
+3646,ARB,arbeel,اربيل,اوينه شار,ARB3646
+3647,ARB,arbeel,اربيل,طريق الموصل,ARB3647
+3648,ARB,arbeel,اربيل,حي كويستان,ARB3648
+3649,ARB,arbeel,اربيل,شيخ الله,ARB3649
+3650,ARB,arbeel,اربيل,اتلانتك,ARB3650
+3651,ARB,arbeel,اربيل,اشتي 1,ARB3651
+3652,ARB,arbeel,اربيل,اشتي 2,ARB3652
+3653,ARB,arbeel,اربيل,اوزال سيتي,ARB3653
+3654,ARB,arbeel,اربيل,بلاس لايف,ARB3654
+3655,ARB,arbeel,اربيل,بيابان سيتي,ARB3655
+3656,ARB,arbeel,اربيل,بيره ش,ARB3656
+3657,ARB,arbeel,اربيل,جامع خديجة الكبرى,ARB3657
+3658,ARB,arbeel,اربيل,رانية,ARB3658
+3659,ARB,arbeel,اربيل,زيان سيتي,ARB3659
+3660,ARB,arbeel,اربيل,ستار تاور,ARB3660
+3661,ARB,arbeel,اربيل,سفين 1/2,ARB3661
+3662,ARB,arbeel,اربيل,شاري ئارام,ARB3662
+3663,ARB,arbeel,اربيل,شاري زه رين,ARB3663
+3664,ARB,arbeel,اربيل,شقق شهيدان طريق كركوك,ARB3664
+3665,ARB,arbeel,اربيل,شقق شهيدان ناز ناز,ARB3665
+3666,ARB,arbeel,اربيل,فاملي مول,ARB3666
+3667,ARB,arbeel,اربيل,فندق ديدمان,ARB3667
+3668,ARB,arbeel,اربيل,فندق ديفان,ARB3668
+3669,ARB,arbeel,اربيل,فندق روتانا /رمادا,ARB3669
+3670,ARB,arbeel,اربيل,فيوجر ستي,ARB3670
+3671,ARB,arbeel,اربيل,قرية فيتال,ARB3671
+3672,ARB,arbeel,اربيل,ماس سيتي,ARB3672
+3673,ARB,arbeel,اربيل,مجدي مول,ARB3673
+3674,ARB,arbeel,اربيل,مخيم هرشم,ARB3674
+3675,ARB,arbeel,اربيل,مستشفى cmc,ARB3675
+3676,ARB,arbeel,اربيل,مستشفى الولادة,ARB3676
+3677,ARB,arbeel,اربيل,مناره,ARB3677
+3678,ARB,arbeel,اربيل,هولير سيتي,ARB3678
+3679,ARB,arbeel,اربيل,هيوا سيتي,ARB3679
+3680,ARB,arbeel,اربيل,ويفي افيو,ARB3680
+3681,ARB,arbeel,اربيل,غير محدد,other
+3682,ARB,arbeel,اربيل,جيهان ستي,ARB3682
+3683,ARB,arbeel,اربيل,بنجلاوة,ARB3683
+3684,ARB,arbeel,اربيل,نيو اسكان,ARB3684
+3685,ARB,arbeel,اربيل,رويا تاور,ARB3685
+3686,ARB,arbeel,اربيل,لانه ستي,ARB3686
+3687,ARB,arbeel,اربيل,محطة كار,ARB3687
+3688,ARB,arbeel,اربيل,انكونز,ARB3688
+3689,ARB,arbeel,اربيل,فانزاد,ARB3689
+3690,ARB,arbeel,اربيل,كوتري سلام,ARB3690
+3691,ARB,arbeel,اربيل,كورك,ARB3691
+3692,ARB,arbeel,اربيل,بانك ستي,ARB3692
+3693,ARB,arbeel,اربيل,كوية,ARB3693
+3694,ARB,arbeel,اربيل,رانية,ARB3694
+3695,ARB,arbeel,اربيل,طقطق,ARB3695
+3696,ARB,arbeel,اربيل,حاجياوا,ARB3696
+3697,ARB,arbeel,اربيل,قلادزه,ARB3697
+3698,ARB,arbeel,اربيل,سنكه سر,ARB3698
+3699,ARB,arbeel,اربيل,كويسنجق,ARB3699
+3700,ARB,arbeel,اربيل,شارع 150,ARB3700
+3701,DOH,dihok,دهوك,ناحية زاويتة,DOH3701
+3702,DOH,dihok,دهوك,ناحية مانكيش,DOH3702
+3703,DOH,dihok,دهوك,زاخو,DOH3703
+3704,DOH,dihok,دهوك,سميل,DOH3704
+3705,DOH,dihok,دهوك,عمادية,DOH3705
+3706,DOH,dihok,دهوك,بردرش,DOH3706
+3707,DOH,dihok,دهوك,عقرة,DOH3707
+3708,DOH,dihok,دهوك,شيخان,DOH3708
+3709,DOH,dihok,دهوك,بامرني,DOH3709
+3710,DOH,dihok,دهوك,تلسقف,DOH3710
+3711,DOH,dihok,دهوك,القوش,DOH3711
+3712,DOH,dihok,دهوك,كلكجي,DOH3712
+3713,DOH,dihok,دهوك,جرة,DOH3713
+3714,DOH,dihok,دهوك,مالطا خارج,DOH3714
+3715,DOH,dihok,دهوك,حي العسكري,DOH3715
+3716,DOH,dihok,دهوك,دوميز,DOH3716
+3717,DOH,dihok,دهوك,سرسنك,DOH3717
+3718,DOH,dihok,دهوك,كمبة دوميز,DOH3718
+3719,DOH,dihok,دهوك,شيلة,DOH3719
+3720,DOH,dihok,دهوك,باع عذرة,DOH3720
+3721,DOH,dihok,دهوك,كفركي,DOH3721
+3722,DOH,dihok,دهوك,مجمع شاريا,DOH3722
+3723,DOH,dihok,دهوك,شارع الصياغة,DOH3723
+3724,DOH,dihok,دهوك,تناهي,DOH3724
+3725,DOH,dihok,دهوك,كبرتو,DOH3725
+3726,DOH,dihok,دهوك,ناحية قسروك,DOH3726
+3727,DOH,dihok,دهوك,افرز ستي,DOH3727
+3728,DOH,dihok,دهوك,حي ماسيك,DOH3728
+3729,DOH,dihok,دهوك,شارية,DOH3729
+3730,DOH,dihok,دهوك,كيارو,DOH3730
+3731,DOH,dihok,دهوك,حي الملايين,DOH3731
+3732,DOH,dihok,دهوك,كيفلا,DOH3732
+3733,DOH,dihok,دهوك,شارع ماكسي مول,DOH3733
+3734,DOH,dihok,دهوك,تداركي,DOH3734
+3735,DOH,dihok,دهوك,معارض السيارات,DOH3735
+3736,DOH,dihok,دهوك,افرو ستي,DOH3736
+3737,DOH,dihok,دهوك,سوق القصابين,DOH3737
+3738,DOH,dihok,دهوك,كري باصي,DOH3738
+3739,DOH,dihok,دهوك,مخيم كبر تو,DOH3739
+3740,DOH,dihok,دهوك,زري لاند,DOH3740
+3741,DOH,dihok,دهوك,بروشكي,DOH3741
+3742,DOH,dihok,دهوك,مخيم كويلان,DOH3742
+3743,DOH,dihok,دهوك,حي الجمعية,DOH3743
+3744,DOH,dihok,دهوك,صناعة دهوك الجديدة,DOH3744
+3745,DOH,dihok,دهوك,شارع زركا,DOH3745
+3746,DOH,dihok,دهوك,مالطا,DOH3746
+3747,DOH,dihok,دهوك,ايتيت,DOH3747
+3748,DOH,dihok,دهوك,روفيا,DOH3748
+3749,DOH,dihok,دهوك,باروشكي,DOH3749
+3750,DOH,dihok,دهوك,خانك,DOH3750
+3751,DOH,dihok,دهوك,حي مهابت,DOH3751
+3752,DOH,dihok,دهوك,نزاركي,DOH3752
+3753,DOH,dihok,دهوك,سجن زركا,DOH3753
+3754,DOH,dihok,دهوك,ماسيكا,DOH3754
+3755,DOH,dihok,دهوك,خبات,DOH3755
+3756,DOH,dihok,دهوك,شندوخا,DOH3756
+3757,DOH,dihok,دهوك,خاشكي,DOH3757
+3758,DOH,dihok,دهوك,شاخكي,DOH3758
+3759,DOH,dihok,دهوك,القرية الفرنسية,DOH3759
+3760,DOH,dihok,دهوك,فايدة,DOH3760
+3761,DOH,dihok,دهوك,باجيرا / شيلادزي,DOH3761
+3762,DOH,dihok,دهوك,كوشيك,DOH3762
+3763,DOH,dihok,دهوك,بانوراما,DOH3763
+3764,DOH,dihok,دهوك,بارك ازادي,DOH3764
+3765,DOH,dihok,دهوك,شقق كايار,DOH3765
+3766,DOH,dihok,دهوك,حي الشرطة,DOH3766
+3767,DOH,dihok,دهوك,قسارا,DOH3767
+3768,DOH,dihok,دهوك,سد دهوك,DOH3768
+3769,DOH,dihok,دهوك,قرية هتارة,DOH3769
+3770,DOH,dihok,دهوك,كلي,DOH3770
+3771,DOH,dihok,دهوك,قصروك,DOH3771
+3772,DOH,dihok,دهوك,شارع بارزان,DOH3772
+3773,DOH,dihok,دهوك,حي كوجر,DOH3773
+3774,DOH,dihok,دهوك,كراج دهوك الرئيسي,DOH3774
+3775,DOH,dihok,دهوك,دابين,DOH3775
+3776,DOH,dihok,دهوك,كاوا,DOH3776
+3777,DOH,dihok,دهوك,بدرية,DOH3777
+3778,DOH,dihok,دهوك,ناعورا,DOH3778
+3779,DOH,dihok,دهوك,ناحية منكيش,DOH3779
+3780,DOH,dihok,دهوك,منصورية,DOH3780
+3781,DOH,dihok,دهوك,حوشكئ,DOH3781
+3782,DOH,dihok,دهوك,شارع نوهدرا,DOH3782
+3783,DOH,dihok,دهوك,افريكي,DOH3783
+3784,DOH,dihok,دهوك,كارا باسي,DOH3784
+3785,DOH,dihok,دهوك,شارع السينما,DOH3785
+3786,DOH,dihok,دهوك,شيلى,DOH3786
+3787,DOH,dihok,دهوك,كيار ستي,DOH3787
+3788,DOH,dihok,دهوك,دورة كورك,DOH3788
+3789,DOH,dihok,دهوك,سوق السجائر,DOH3789
+3790,DOH,dihok,دهوك,بازلان,DOH3790
+3791,DOH,dihok,دهوك,السوق العصري,DOH3791
+3792,DOH,dihok,دهوك,سوق الدولار,DOH3792
+3793,DOH,dihok,دهوك,قرية تلسين,DOH3793
+3794,DOH,dihok,دهوك,دلب,DOH3794
+3795,DOH,dihok,دهوك,ئيتيت شيلادزي,DOH3795
+3796,DOH,dihok,دهوك,باشا ستي,DOH3796
+3797,DOH,dihok,دهوك,بيتاسي .زاخو,DOH3797
+3798,DOH,dihok,دهوك,بيتاسي.دهوك,DOH3798
+3799,DOH,dihok,دهوك,بيسري,DOH3799
+3800,DOH,dihok,دهوك,جمبور,DOH3800
+3801,DOH,dihok,دهوك,دوميز,DOH3801
+3802,DOH,dihok,دهوك,رامي لاند,DOH3802
+3803,DOH,dihok,دهوك,زاوة,DOH3803
+3804,DOH,dihok,دهوك,سيجي,DOH3804
+3805,DOH,dihok,دهوك,شارع ميتران,DOH3805
+3806,DOH,dihok,دهوك,شقق سلفر ستار,DOH3806
+3807,DOH,dihok,دهوك,كري سور,DOH3807
+3808,DOH,dihok,دهوك,مخيم الداودية,DOH3808
+3809,DOH,dihok,دهوك,مخيم باجد كاندالا,DOH3809
+3810,DOH,dihok,دهوك,مخيم بيرسفي,DOH3810
+3811,DOH,dihok,دهوك,مخيم جم مشكو,DOH3811
+3812,DOH,dihok,دهوك,غير محدد,other
+3813,DOH,dihok,دهوك,KRO,DOH3813
+3814,DOH,dihok,دهوك,قرب جامع جودي,DOH3814
+3815,MOS,mosul,موصل,سومر,MOS3815
+3816,MOS,mosul,موصل,دوميز,MOS3816
+3817,MOS,mosul,موصل,شمسيات,MOS3817
+3818,MOS,mosul,موصل,يارمجة,MOS3818
+3819,MOS,mosul,موصل,يارمجة الشرقية,MOS3819
+3820,MOS,mosul,موصل,فلسطين,MOS3820
+3821,MOS,mosul,موصل,السلام,MOS3821
+3822,MOS,mosul,موصل,الساهرون,MOS3822
+3823,MOS,mosul,موصل,الانتصار,MOS3823
+3824,MOS,mosul,موصل,جليوخان,MOS3824
+3825,MOS,mosul,موصل,الشيماء,MOS3825
+3826,MOS,mosul,موصل,القدس,MOS3826
+3827,MOS,mosul,موصل,الكرامة,MOS3827
+3828,MOS,mosul,موصل,صناعة الايسر,MOS3828
+3829,MOS,mosul,موصل,زيونة,MOS3829
+3830,MOS,mosul,موصل,الايسر الصحة,MOS3830
+3831,MOS,mosul,موصل,بانزين خانة الحاصود,MOS3831
+3832,MOS,mosul,موصل,منطقة 95,MOS3832
+3833,MOS,mosul,موصل,منطقة 112,MOS3833
+3834,MOS,mosul,موصل,حي الوحدة,MOS3834
+3835,MOS,mosul,موصل,الميثاق,MOS3835
+3836,MOS,mosul,موصل,البعث,MOS3836
+3837,MOS,mosul,موصل,الضباط,MOS3837
+3838,MOS,mosul,موصل,الغفران,MOS3838
+3839,MOS,mosul,موصل,المالية,MOS3839
+3840,MOS,mosul,موصل,السبعاوي,MOS3840
+3841,MOS,mosul,موصل,النبي يونس,MOS3841
+3842,MOS,mosul,موصل,دورة الحمام,MOS3842
+3843,MOS,mosul,موصل,كراج الشمال,MOS3843
+3844,MOS,mosul,موصل,كراج الكوير,MOS3844
+3845,MOS,mosul,موصل,التربية,MOS3845
+3846,MOS,mosul,موصل,الدركزلية,MOS3846
+3847,MOS,mosul,موصل,شارع الزهور,MOS3847
+3848,MOS,mosul,موصل,شارع المركز,MOS3848
+3849,MOS,mosul,موصل,التاميم,MOS3849
+3850,MOS,mosul,موصل,المعارض,MOS3850
+3851,MOS,mosul,موصل,النور,MOS3851
+3852,MOS,mosul,موصل,الزهور,MOS3852
+3853,MOS,mosul,موصل,المثنى,MOS3853
+3854,MOS,mosul,موصل,المصارف,MOS3854
+3855,MOS,mosul,موصل,حي الجامعة,MOS3855
+3856,MOS,mosul,موصل,دورة العبادي,MOS3856
+3857,MOS,mosul,موصل,دورة النافورة,MOS3857
+3858,MOS,mosul,موصل,القاهرة,MOS3858
+3859,MOS,mosul,موصل,الفلاح الاولى,MOS3859
+3860,MOS,mosul,موصل,الفلاح الثانية,MOS3860
+3861,MOS,mosul,موصل,مزارع زيونة,MOS3861
+3862,MOS,mosul,موصل,المرور,MOS3862
+3863,MOS,mosul,موصل,الامن,MOS3863
+3864,MOS,mosul,موصل,المحافظة,MOS3864
+3865,MOS,mosul,موصل,المحاربين,MOS3865
+3866,MOS,mosul,موصل,البكر,MOS3866
+3867,MOS,mosul,موصل,الاخاء,MOS3867
+3868,MOS,mosul,موصل,شقق الخضراء,MOS3868
+3869,MOS,mosul,موصل,القادسية الاولى,MOS3869
+3870,MOS,mosul,موصل,القادسية الثانية,MOS3870
+3871,MOS,mosul,موصل,حي صدام,MOS3871
+3872,MOS,mosul,موصل,حي التحرير,MOS3872
+3873,MOS,mosul,موصل,حي الزهراء,MOS3873
+3874,MOS,mosul,موصل,جامع النعيمي,MOS3874
+3875,MOS,mosul,موصل,السماح,MOS3875
+3876,MOS,mosul,موصل,عدن,MOS3876
+3877,MOS,mosul,موصل,البريد,MOS3877
+3878,MOS,mosul,موصل,السكر,MOS3878
+3879,MOS,mosul,موصل,البلديات,MOS3879
+3880,MOS,mosul,موصل,الصديق,MOS3880
+3881,MOS,mosul,موصل,الكفاءات الاولى,MOS3881
+3882,MOS,mosul,موصل,الكفاءات الثانية,MOS3882
+3883,MOS,mosul,موصل,مرطبات البحرين,MOS3883
+3884,MOS,mosul,موصل,شقق الحدباء,MOS3884
+3885,MOS,mosul,موصل,الحدباء,MOS3885
+3886,MOS,mosul,موصل,سايدين الصورة,MOS3886
+3887,MOS,mosul,موصل,الكندي,MOS3887
+3888,MOS,mosul,موصل,مزارع الحدباء,MOS3888
+3889,MOS,mosul,موصل,حي الزراعي,MOS3889
+3890,MOS,mosul,موصل,المهندسين,MOS3890
+3891,MOS,mosul,موصل,المجموعة الثقافية,MOS3891
+3892,MOS,mosul,موصل,الاندلس,MOS3892
+3893,MOS,mosul,موصل,الشرطة,MOS3893
+3894,MOS,mosul,موصل,العربي,MOS3894
+3895,MOS,mosul,موصل,الرشيدية,MOS3895
+3896,MOS,mosul,موصل,القبة,MOS3896
+3897,MOS,mosul,موصل,القوسيات,MOS3897
+3898,MOS,mosul,موصل,بيسان,MOS3898
+3899,MOS,mosul,موصل,الغابات,MOS3899
+3900,MOS,mosul,موصل,فندق اوبراوي,MOS3900
+3901,MOS,mosul,موصل,تلكيف,MOS3901
+3902,MOS,mosul,موصل,سادة وبعويزة,MOS3902
+3903,MOS,mosul,موصل,الشلالات,MOS3903
+3904,MOS,mosul,موصل,مهت,MOS3904
+3905,MOS,mosul,موصل,باعذرا,MOS3905
+3906,MOS,mosul,موصل,العركوب,MOS3906
+3907,MOS,mosul,موصل,سهل نينوى,MOS3907
+3908,MOS,mosul,موصل,كوكجلي,MOS3908
+3909,MOS,mosul,موصل,بازويا,MOS3909
+3910,MOS,mosul,موصل,برطلة,MOS3910
+3911,MOS,mosul,موصل,الحمدانية,MOS3911
+3912,MOS,mosul,موصل,بعشيقة,MOS3912
+3913,MOS,mosul,موصل,مخيم حسن شام,MOS3913
+3914,MOS,mosul,موصل,ربيعة,MOS3914
+3915,MOS,mosul,موصل,تلعفر,MOS3915
+3916,MOS,mosul,موصل,حميدات,MOS3916
+3917,MOS,mosul,موصل,بادوش,MOS3917
+3918,MOS,mosul,موصل,الكسك,MOS3918
+3919,MOS,mosul,موصل,العياضية,MOS3919
+3920,MOS,mosul,موصل,زمار وقراها,MOS3920
+3921,MOS,mosul,موصل,سنجار,MOS3921
+3922,MOS,mosul,موصل,سنوني,MOS3922
+3923,MOS,mosul,موصل,ناحية الشمال,MOS3923
+3924,MOS,mosul,موصل,القيروان,MOS3924
+3925,MOS,mosul,موصل,الحضر,MOS3925
+3926,MOS,mosul,موصل,النمرود,MOS3926
+3927,MOS,mosul,موصل,السلامية,MOS3927
+3928,MOS,mosul,موصل,سيطرة العقرب,MOS3928
+3929,MOS,mosul,موصل,الشورى,MOS3929
+3930,MOS,mosul,موصل,حمام العليل,MOS3930
+3931,MOS,mosul,موصل,القيارة,MOS3931
+3932,MOS,mosul,موصل,جنوب الموصل,MOS3932
+3933,MOS,mosul,موصل,مخمور,MOS3933
+3934,MOS,mosul,موصل,القراج,MOS3934
+3935,MOS,mosul,موصل,سد الموصل,MOS3935
+3936,MOS,mosul,موصل,وانة,MOS3936
+3937,MOS,mosul,موصل,فائدة,MOS3937
+3938,MOS,mosul,موصل,17 تموز,MOS3938
+3939,MOS,mosul,موصل,حي التنك,MOS3939
+3940,MOS,mosul,موصل,حي السماح,MOS3940
+3941,MOS,mosul,موصل,الصناعة القديمة,MOS3941
+3942,MOS,mosul,موصل,الموصل الجديدة,MOS3942
+3943,MOS,mosul,موصل,حي الانتصار,MOS3943
+3944,MOS,mosul,موصل,كويجلي,MOS3944
+3945,MOS,mosul,موصل,حي الاخاء,MOS3945
+3946,MOS,mosul,موصل,حي الرسالة,MOS3946
+3947,MOS,mosul,موصل,دورة الرسالة,MOS3947
+3948,MOS,mosul,موصل,شارع الكهرباء,MOS3948
+3949,MOS,mosul,موصل,عوينات,MOS3949
+3950,MOS,mosul,موصل,دور محطة السكك,MOS3950
+3951,MOS,mosul,موصل,دواسة خارج,MOS3951
+3952,MOS,mosul,موصل,حي القاهرة,MOS3952
+3953,MOS,mosul,موصل,حي سومر,MOS3953
+3954,MOS,mosul,موصل,تل عبطة,MOS3954
+3955,MOS,mosul,موصل,دورة بغداد,MOS3955
+3956,MOS,mosul,موصل,الجانب الايمن,MOS3956
+3957,MOS,mosul,موصل,الجانب الايسر,MOS3957
+3958,MOS,mosul,موصل,تل الرمان,MOS3958
+3959,MOS,mosul,موصل,حي الطاحن,MOS3959
+3960,MOS,mosul,موصل,الرفاعي,MOS3960
+3961,MOS,mosul,موصل,الهرمان,MOS3961
+3962,MOS,mosul,موصل,الدواسة,MOS3962
+3963,MOS,mosul,موصل,النبي شيت,MOS3963
+3964,MOS,mosul,موصل,حي الصديق,MOS3964
+3965,MOS,mosul,موصل,قرية الكنهش,MOS3965
+3966,MOS,mosul,موصل,الفيصلية,MOS3966
+3967,MOS,mosul,موصل,منطقة الامام,MOS3967
+3968,MOS,mosul,موصل,حي العربي,MOS3968
+3969,MOS,mosul,موصل,تموز,MOS3969
+3970,MOS,mosul,موصل,مشيرفة,MOS3970
+3971,MOS,mosul,موصل,هرمات,MOS3971
+3972,MOS,mosul,موصل,حاوي,MOS3972
+3973,MOS,mosul,موصل,الصناعة,MOS3973
+3974,MOS,mosul,موصل,وادي عكاب,MOS3974
+3975,MOS,mosul,موصل,حي الكلوات,MOS3975
+3976,MOS,mosul,موصل,حي العبور,MOS3976
+3977,MOS,mosul,موصل,باب سنجار,MOS3977
+3978,MOS,mosul,موصل,قضاء البعاج,MOS3978
+3979,MOS,mosul,موصل,حي المامون,MOS3979
+3980,MOS,mosul,موصل,حي المنصور,MOS3980
+3981,MOS,mosul,موصل,حي البكر,MOS3981
+3982,MOS,mosul,موصل,سوق النبي,MOS3982
+3983,MOS,mosul,موصل,البعاج,MOS3983
+3984,MOS,mosul,موصل,حي الزهور,MOS3984
+3985,MOS,mosul,موصل,جسر القيارة,MOS3985
+3986,MOS,mosul,موصل,حي المهندسين,MOS3986
+3987,MOS,mosul,موصل,حي اليرموك,MOS3987
+3988,MOS,mosul,موصل,حي الاعلام,MOS3988
+3989,MOS,mosul,موصل,زمار,MOS3989
+3990,MOS,mosul,موصل,الزنجيلي,MOS3990
+3991,MOS,mosul,موصل,المحلبية,MOS3991
+3992,MOS,mosul,موصل,بقشية,MOS3992
+3993,MOS,mosul,موصل,القصور الرئاسية,MOS3993
+3994,MOS,mosul,موصل,حسن شام,MOS3994
+3995,MOS,mosul,موصل,الاقتصاديين,MOS3995
+3996,MOS,mosul,موصل,جسر الحرية,MOS3996
+3997,MOS,mosul,موصل,الاصلاح الزراعي,MOS3997
+3998,MOS,mosul,موصل,حي الكرامة,MOS3998
+3999,MOS,mosul,موصل,حي النهروان,MOS3999
+4000,MOS,mosul,موصل,حي الثورة,MOS4000
+4001,MOS,mosul,موصل,حي السلام,MOS4001
+4002,MOS,mosul,موصل,قرقوش,MOS4002
+4003,MOS,mosul,موصل,الهرمات,MOS4003
+4004,MOS,mosul,موصل,حي الورشان,MOS4004
+4005,MOS,mosul,موصل,حي نابلس,MOS4005
+4006,MOS,mosul,موصل,وادي حجر,MOS4006
+4007,MOS,mosul,موصل,حي النجار,MOS4007
+4008,MOS,mosul,موصل,منطقة الساعة / الايمن,MOS4008
+4009,MOS,mosul,موصل,حي الوليد,MOS4009
+4010,MOS,mosul,موصل,حي الاتفاق,MOS4010
+4011,MOS,mosul,موصل,حي المشاهدة,MOS4011
+4012,MOS,mosul,موصل,حي الجزائر,MOS4012
+4013,MOS,mosul,موصل,حي الشهداء / الايمن,MOS4013
+4014,MOS,mosul,موصل,حي النور,MOS4014
+4015,MOS,mosul,موصل,العباسية,MOS4015
+4016,MOS,mosul,موصل,حي المشراك,MOS4016
+4017,MOS,mosul,موصل,الرفاق,MOS4017
+4018,MOS,mosul,موصل,حي القدس,MOS4018
+4019,MOS,mosul,موصل,حي حمو,MOS4019
+4020,MOS,mosul,موصل,الرافدين,MOS4020
+4021,MOS,mosul,موصل,الزنازل,MOS4021
+4022,MOS,mosul,موصل,عين الجحش,MOS4022
+4023,MOS,mosul,موصل,حي المغرب,MOS4023
+4024,MOS,mosul,موصل,المزارع,MOS4024
+4025,MOS,mosul,موصل,الجوسق,MOS4025
+4026,MOS,mosul,موصل,قرية احليلة والهرمات,MOS4026
+4027,MOS,mosul,موصل,اسكي,MOS4027
+4028,MOS,mosul,موصل,دورة اليرموك,MOS4028
+4029,MOS,mosul,موصل,العكيدات,MOS4029
+4030,MOS,mosul,موصل,شريخان,MOS4030
+4031,MOS,mosul,موصل,شارع الجمهورية,MOS4031
+4032,MOS,mosul,موصل,حي الميثاق,MOS4032
+4033,MOS,mosul,موصل,حي الملايين,MOS4033
+4034,MOS,mosul,موصل,حي العامل,MOS4034
+4035,MOS,mosul,موصل,حي نركال,MOS4035
+4036,MOS,mosul,موصل,حي اللايح,MOS4036
+4037,MOS,mosul,موصل,طوبزواء,MOS4037
+4038,MOS,mosul,موصل,الملحبية,MOS4038
+4039,MOS,mosul,موصل,منطقة الفاروق,MOS4039
+4040,MOS,mosul,موصل,نوران,MOS4040
+4041,MOS,mosul,موصل,طريق دهوك,MOS4041
+4042,MOS,mosul,موصل,طريق بغداد,MOS4042
+4043,MOS,mosul,موصل,تلسقف,MOS4043
+4044,MOS,mosul,موصل,قرية المثلث,MOS4044
+4045,MOS,mosul,موصل,ناحية بورقلة,MOS4045
+4046,MOS,mosul,موصل,الشفاء,MOS4046
+4047,MOS,mosul,موصل,قرية الموالي,MOS4047
+4048,MOS,mosul,موصل,حي الاعلام,MOS4048
+4049,MOS,mosul,موصل,حي المثنى الثانيه,MOS4049
+4050,MOS,mosul,موصل,كوبكليه الرياضين,MOS4050
+4051,MOS,mosul,موصل,غير محدد,other
+4052,MOS,mosul,موصل,القوش,MOS4052
+4053,MOS,mosul,موصل,حي البريد,MOS4053
+4054,MOS,mosul,موصل,ساحة الطيران,MOS4054
+4055,MOS,mosul,موصل,الغزلاني,MOS4055
+4056,MOS,mosul,موصل,حي جابر بن حيان,MOS4056
+4057,DYL,diyala,ديالى,خانقين,DYL4057
+4058,DYL,diyala,ديالى,جلولاء,DYL4058
+4059,DYL,diyala,ديالى,السعدية,DYL4059
+4060,DYL,diyala,ديالى,مجمع سد حمرين,DYL4060
+4061,DYL,diyala,ديالى,قرة تبة,DYL4061
+4062,DYL,diyala,ديالى,نفط خانة,DYL4062
+4063,DYL,diyala,ديالى,المنذرية,DYL4063
+4064,DYL,diyala,ديالى,بعقوبة,DYL4064
+4065,DYL,diyala,ديالى,التحرير,DYL4065
+4066,DYL,diyala,ديالى,بهرز,DYL4066
+4067,DYL,diyala,ديالى,شارع المحافظة,DYL4067
+4068,DYL,diyala,ديالى,فلكة الامين,DYL4068
+4069,DYL,diyala,ديالى,ام كرفس,DYL4069
+4070,DYL,diyala,ديالى,تقاطع البلدة,DYL4070
+4071,DYL,diyala,ديالى,شفتة,DYL4071
+4072,DYL,diyala,ديالى,الفلاحة,DYL4072
+4073,DYL,diyala,ديالى,شارع الطابوة,DYL4073
+4074,DYL,diyala,ديالى,نهر الحجية,DYL4074
+4075,DYL,diyala,ديالى,حي المصطفى,DYL4075
+4076,DYL,diyala,ديالى,المفرق,DYL4076
+4077,DYL,diyala,ديالى,حي المعلمين,DYL4077
+4078,DYL,diyala,ديالى,مجمع الصناعي,DYL4078
+4079,DYL,diyala,ديالى,كاطون,DYL4079
+4080,DYL,diyala,ديالى,الرحمة,DYL4080
+4081,DYL,diyala,ديالى,مجمع الرحمة,DYL4081
+4082,DYL,diyala,ديالى,مجمع السكني الرحمة,DYL4082
+4083,DYL,diyala,ديالى,تقاطع القدس,DYL4083
+4084,DYL,diyala,ديالى,الهويدر,DYL4084
+4085,DYL,diyala,ديالى,شارع ابو رباح,DYL4085
+4086,DYL,diyala,ديالى,الرازي,DYL4086
+4087,DYL,diyala,ديالى,كنعان,DYL4087
+4088,DYL,diyala,ديالى,البدعة,DYL4088
+4089,DYL,diyala,ديالى,نهر ابراهيم,DYL4089
+4090,DYL,diyala,ديالى,حي الخضراء,DYL4090
+4091,DYL,diyala,ديالى,دور مندلي,DYL4091
+4092,DYL,diyala,ديالى,بلدروز,DYL4092
+4093,DYL,diyala,ديالى,حي العصري,DYL4093
+4094,DYL,diyala,ديالى,امام عسكر,DYL4094
+4095,DYL,diyala,ديالى,حي الحشد,DYL4095
+4096,DYL,diyala,ديالى,كيلو 21,DYL4096
+4097,DYL,diyala,ديالى,امام المنصور,DYL4097
+4098,DYL,diyala,ديالى,سيد سبانة,DYL4098
+4099,DYL,diyala,ديالى,مندلي,DYL4099
+4100,DYL,diyala,ديالى,جسر النفط,DYL4100
+4101,DYL,diyala,ديالى,قزانية,DYL4101
+4102,DYL,diyala,ديالى,الامام الحاج يوسف,DYL4102
+4103,DYL,diyala,ديالى,كرز الدين,DYL4103
+4104,DYL,diyala,ديالى,قرية الندى,DYL4104
+4105,DYL,diyala,ديالى,خرنابات,DYL4105
+4106,DYL,diyala,ديالى,الحد الاخضر,DYL4106
+4107,DYL,diyala,ديالى,تقاطع السادة,DYL4107
+4108,DYL,diyala,ديالى,العبارة,DYL4108
+4109,DYL,diyala,ديالى,حد مكسر,DYL4109
+4110,DYL,diyala,ديالى,زاغنية,DYL4110
+4111,DYL,diyala,ديالى,ركة الحاج سهيل,DYL4111
+4112,DYL,diyala,ديالى,الكبة,DYL4112
+4113,DYL,diyala,ديالى,منطقة الحديد,DYL4113
+4114,DYL,diyala,ديالى,الهاشميات,DYL4114
+4115,DYL,diyala,ديالى,هبهب,DYL4115
+4116,DYL,diyala,ديالى,جديدة الشط,DYL4116
+4117,DYL,diyala,ديالى,منصورية الشط,DYL4117
+4118,DYL,diyala,ديالى,القصيرين,DYL4118
+4119,DYL,diyala,ديالى,الغالبية,DYL4119
+4120,DYL,diyala,ديالى,جسر الغالبية,DYL4120
+4121,DYL,diyala,ديالى,سعدية الشط,DYL4121
+4122,DYL,diyala,ديالى,جيزاني الامام,DYL4122
+4123,DYL,diyala,ديالى,شهربان,DYL4123
+4124,DYL,diyala,ديالى,حي العسكري,DYL4124
+4125,DYL,diyala,ديالى,حي المعلمين شهربان,DYL4125
+4126,DYL,diyala,ديالى,حي العصري شهربان,DYL4126
+4127,DYL,diyala,ديالى,جسر مهروت,DYL4127
+4128,DYL,diyala,ديالى,تقاطع برشته,DYL4128
+4129,DYL,diyala,ديالى,قرية سلامة,DYL4129
+4130,DYL,diyala,ديالى,الهارونية,DYL4130
+4131,DYL,diyala,ديالى,العزي,DYL4131
+4132,DYL,diyala,ديالى,بروانة,DYL4132
+4133,DYL,diyala,ديالى,كيلو 13,DYL4133
+4134,DYL,diyala,ديالى,امام ويس,DYL4134
+4135,DYL,diyala,ديالى,منقطة نوفل,DYL4135
+4136,DYL,diyala,ديالى,زهيرات,DYL4136
+4137,DYL,diyala,ديالى,ابو صيدا,DYL4137
+4138,DYL,diyala,ديالى,الوجيهية,DYL4138
+4139,DYL,diyala,ديالى,تقاطع الجيزاني,DYL4139
+4140,DYL,diyala,ديالى,فلكة مصطفى الجواد,DYL4140
+4141,DYL,diyala,ديالى,عليبات,DYL4141
+4142,DYL,diyala,ديالى,كوبات,DYL4142
+4143,DYL,diyala,ديالى,السندية,DYL4143
+4144,DYL,diyala,ديالى,مدرسة عشتار,DYL4144
+4145,DYL,diyala,ديالى,مدخل سيد يوسف,DYL4145
+4146,DYL,diyala,ديالى,مقام الخضر,DYL4146
+4147,DYL,diyala,ديالى,منقطة الدوجمة,DYL4147
+4148,DYL,diyala,ديالى,جزاني الجول,DYL4148
+4149,DYL,diyala,ديالى,النايل,DYL4149
+4150,DYL,diyala,ديالى,العظيم,DYL4150
+4151,DYL,diyala,ديالى,منطقة التحويلة,DYL4151
+4152,DYL,diyala,ديالى,منطقة الاسود,DYL4152
+4153,DYL,diyala,ديالى,سيطرة كصب,DYL4153
+4154,DYL,diyala,ديالى,ابو تمر,DYL4154
+4155,DYL,diyala,ديالى,دلي عباس,DYL4155
+4156,DYL,diyala,ديالى,ناحية السلام,DYL4156
+4157,DYL,diyala,ديالى,منصورة الجبل,DYL4157
+4158,DYL,diyala,ديالى,شروين,DYL4158
+4159,DYL,diyala,ديالى,العنبكية,DYL4159
+4160,DYL,diyala,ديالى,الوندية,DYL4160
+4161,DYL,diyala,ديالى,السراجق,DYL4161
+4162,DYL,diyala,ديالى,النقيب,DYL4162
+4163,DYL,diyala,ديالى,الماجدية,DYL4163
+4164,DYL,diyala,ديالى,منطقة الكراج,DYL4164
+4165,DYL,diyala,ديالى,السوق,DYL4165
+4166,DYL,diyala,ديالى,المتنزه,DYL4166
+4167,DYL,diyala,ديالى,جامع عمار بن ياسر,DYL4167
+4168,DYL,diyala,ديالى,بني سعد,DYL4168
+4169,DYL,diyala,ديالى,ناحية محمد سكران,DYL4169
+4170,DYL,diyala,ديالى,التاميم,DYL4170
+4171,DYL,diyala,ديالى,قرية خلوف,DYL4171
+4172,DYL,diyala,ديالى,حي العسكري / خان بني سعد,DYL4172
+4173,DYL,diyala,ديالى,المرادية,DYL4173
+4174,DYL,diyala,ديالى,17 تموز,DYL4174
+4175,DYL,diyala,ديالى,دور الضباط,DYL4175
+4176,DYL,diyala,ديالى,قرية ابو سير,DYL4176
+4177,DYL,diyala,ديالى,حي الشهداء,DYL4177
+4178,DYL,diyala,ديالى,الخالص,DYL4178
+4179,DYL,diyala,ديالى,الحويش,DYL4179
+4180,DYL,diyala,ديالى,المقدادية,DYL4180
+4181,DYL,diyala,ديالى,خان بني سعد,DYL4181
+4182,DYL,diyala,ديالى,منطقة الحكيم,DYL4182
+4183,DYL,diyala,ديالى,جرف الملح,DYL4183
+4184,DYL,diyala,ديالى,بعقوبة الجديدة,DYL4184
+4185,DYL,diyala,ديالى,ناحية جبارة,DYL4185
+4186,DYL,diyala,ديالى,حي اليرموك,DYL4186
+4187,DYL,diyala,ديالى,سد حمرين,DYL4187
+4188,DYL,diyala,ديالى,الحديد,DYL4188
+4189,DYL,diyala,ديالى,الناي,DYL4189
+4190,DYL,diyala,ديالى,حي المهندسين,DYL4190
+4191,DYL,diyala,ديالى,المنصورية,DYL4191
+4192,DYL,diyala,ديالى,الباوية,DYL4192
+4193,DYL,diyala,ديالى,ضباب,DYL4193
+4194,DYL,diyala,ديالى,الحساويه,DYL4194
+4195,DYL,diyala,ديالى,قرية العكر,DYL4195
+4196,DYL,diyala,ديالى,الأمين أسواق الشمري,DYL4196
+4197,DYL,diyala,ديالى,الأمين مدرسه المساعي,DYL4197
+4198,DYL,diyala,ديالى,الأمين معهد اعداد المعلمات,DYL4198
+4199,DYL,diyala,ديالى,التحرير الأشغال اليدوية,DYL4199
+4200,DYL,diyala,ديالى,التحرير الجمله,DYL4200
+4201,DYL,diyala,ديالى,التحرير الحسينيه,DYL4201
+4202,DYL,diyala,ديالى,التحرير الحولي,DYL4202
+4203,DYL,diyala,ديالى,التحرير الشقق,DYL4203
+4204,DYL,diyala,ديالى,التحرير الغذائية,DYL4204
+4205,DYL,diyala,ديالى,التحرير الكهرباء,DYL4205
+4206,DYL,diyala,ديالى,التحرير المستوصف الجديد,DYL4206
+4207,DYL,diyala,ديالى,التحرير المستوصف القديم,DYL4207
+4208,DYL,diyala,ديالى,التحرير المعهد الفني,DYL4208
+4209,DYL,diyala,ديالى,التحرير جامع احمد بن حمبل,DYL4209
+4210,DYL,diyala,ديالى,التحرير جامع الانفال,DYL4210
+4211,DYL,diyala,ديالى,التحرير جامع الصديق,DYL4211
+4212,DYL,diyala,ديالى,التحرير زيوت الزهيري,DYL4212
+4213,DYL,diyala,ديالى,التحرير سيد صادق,DYL4213
+4214,DYL,diyala,ديالى,التحرير سيطره حجي بطل,DYL4214
+4215,DYL,diyala,ديالى,التحرير شارع الشبكه,DYL4215
+4216,DYL,diyala,ديالى,التحرير شارع ٤٠,DYL4216
+4217,DYL,diyala,ديالى,التحرير كمبش,DYL4217
+4218,DYL,diyala,ديالى,التحرير مدرسه الميناء,DYL4218
+4219,DYL,diyala,ديالى,التحرير مدرسه كلكامش,DYL4219
+4220,DYL,diyala,ديالى,التحرير معرض الشرقيه,DYL4220
+4221,DYL,diyala,ديالى,التحرير معهد الفنرن,DYL4221
+4222,DYL,diyala,ديالى,الجاهزه صيدليه دانيا,DYL4222
+4223,DYL,diyala,ديالى,الجاهزه مشروع الماء,DYL4223
+4224,DYL,diyala,ديالى,الحجيه مصطفى غني,DYL4224
+4225,DYL,diyala,ديالى,الحديد,DYL4225
+4226,DYL,diyala,ديالى,الحديد جامع الإمام علي,DYL4226
+4227,DYL,diyala,ديالى,الحديد دحيله,DYL4227
+4228,DYL,diyala,ديالى,الحديد شارع ٤٠,DYL4228
+4229,DYL,diyala,ديالى,الحي الشارع العريض,DYL4229
+4230,DYL,diyala,ديالى,الحي العدنانيه,DYL4230
+4231,DYL,diyala,ديالى,الحي القطعه الخضره,DYL4231
+4232,DYL,diyala,ديالى,الحي جامع الشهيد وضاح,DYL4232
+4233,DYL,diyala,ديالى,الحي جامع مالك بن انس,DYL4233
+4234,DYL,diyala,ديالى,الحي عماره سلوان,DYL4234
+4235,DYL,diyala,ديالى,الحي فلكه الشهداء,DYL4235
+4236,DYL,diyala,ديالى,الحي مطعم الوان,DYL4236
+4237,DYL,diyala,ديالى,الحي معمل معجون,DYL4237
+4238,DYL,diyala,ديالى,الخالص مهعد سما,DYL4238
+4239,DYL,diyala,ديالى,الديري مدرسه الفضيله,DYL4239
+4240,DYL,diyala,ديالى,الرازي ابو أيوب الانصاري,DYL4240
+4241,DYL,diyala,ديالى,الرازي الحولي,DYL4241
+4242,DYL,diyala,ديالى,الرازي جامع سعد بن معاذ,DYL4242
+4243,DYL,diyala,ديالى,الرازي مرطبات البلور,DYL4243
+4244,DYL,diyala,ديالى,الرحمه الشقق,DYL4244
+4245,DYL,diyala,ديالى,الرحمه المجمع الصناعي,DYL4245
+4246,DYL,diyala,ديالى,الرحمه المنتدى,DYL4246
+4247,DYL,diyala,ديالى,الرحمه المنتزه,DYL4247
+4248,DYL,diyala,ديالى,الرحمه جامع الصديق,DYL4248
+4249,DYL,diyala,ديالى,الرحمه جامع ذو النورين,DYL4249
+4250,DYL,diyala,ديالى,الرحمه جامع صهيب الرومي,DYL4250
+4251,DYL,diyala,ديالى,الرحمه جامع عباد الرحمن,DYL4251
+4252,DYL,diyala,ديالى,الرحمه دور الاساتذه,DYL4252
+4253,DYL,diyala,ديالى,السبتيه,DYL4253
+4254,DYL,diyala,ديالى,السراي أسواق فريش,DYL4254
+4255,DYL,diyala,ديالى,السراي الاطفاء,DYL4255
+4256,DYL,diyala,ديالى,السراي الدفاع المدني,DYL4256
+4257,DYL,diyala,ديالى,السراي جامع الزهراء,DYL4257
+4258,DYL,diyala,ديالى,السراي معرض دبي,DYL4258
+4259,DYL,diyala,ديالى,السراي نقابه المعلمين,DYL4259
+4260,DYL,diyala,ديالى,الطابو الدفاع المدني,DYL4260
+4261,DYL,diyala,ديالى,الطابو العقار,DYL4261
+4262,DYL,diyala,ديالى,الطابو الكهرباء,DYL4262
+4263,DYL,diyala,ديالى,الطابو دور النزاهه,DYL4263
+4264,DYL,diyala,ديالى,الطابو شراع مول,DYL4264
+4265,DYL,diyala,ديالى,الطابو صحه ديالى,DYL4265
+4266,DYL,diyala,ديالى,الطابو مول الساعه,DYL4266
+4267,DYL,diyala,ديالى,العباره,DYL4267
+4268,DYL,diyala,ديالى,العباره عبد الحميد,DYL4268
+4269,DYL,diyala,ديالى,العزات أسواق طيبه,DYL4269
+4270,DYL,diyala,ديالى,العزات محطه فؤاد,DYL4270
+4271,DYL,diyala,ديالى,العنافصه البلديه,DYL4271
+4272,DYL,diyala,ديالى,العنافصه التخصصي,DYL4272
+4273,DYL,diyala,ديالى,العنافصه شارع الاوقاف,DYL4273
+4274,DYL,diyala,ديالى,القدس بلاد الرافدين,DYL4274
+4275,DYL,diyala,ديالى,القدس حي الربيع,DYL4275
+4276,DYL,diyala,ديالى,القدس دور الاساتذه,DYL4276
+4277,DYL,diyala,ديالى,القدس دور الزراعه,DYL4277
+4278,DYL,diyala,ديالى,القدس قريه عداي,DYL4278
+4279,DYL,diyala,ديالى,القدس كليه القانون,DYL4279
+4280,DYL,diyala,ديالى,القدس كليه الهندسه,DYL4280
+4281,DYL,diyala,ديالى,القدس منشأه القادسية,DYL4281
+4282,DYL,diyala,ديالى,الكاطون,DYL4282
+4283,DYL,diyala,ديالى,المحافظه الاتصالات,DYL4283
+4284,DYL,diyala,ديالى,المحافظه شؤون المرءه,DYL4284
+4285,DYL,diyala,ديالى,المفرك الشارع العريض,DYL4285
+4286,DYL,diyala,ديالى,المفرك جامع اسماء الله الحسنى,DYL4286
+4287,DYL,diyala,ديالى,المفرك جامع الشافعي,DYL4287
+4288,DYL,diyala,ديالى,المفرك جامع حجي ناصر,DYL4288
+4289,DYL,diyala,ديالى,المفرك شارع الحسينيه,DYL4289
+4290,DYL,diyala,ديالى,المفرك مركز الوحده,DYL4290
+4291,DYL,diyala,ديالى,المفرك مكتب بيروت,DYL4291
+4292,DYL,diyala,ديالى,المنجره نزله الحمام,DYL4292
+4293,DYL,diyala,ديالى,المنذريه,DYL4293
+4294,DYL,diyala,ديالى,الهويدر,DYL4294
+4295,DYL,diyala,ديالى,الوثبه,DYL4295
+4296,DYL,diyala,ديالى,الوثبه السيراميك,DYL4296
+4297,DYL,diyala,ديالى,ام الكرفس,DYL4297
+4298,DYL,diyala,ديالى,باب الدرب,DYL4298
+4299,DYL,diyala,ديالى,بعقوبة ام العظام,DYL4299
+4300,DYL,diyala,ديالى,بعقوبه الأقسام الداخليه,DYL4300
+4301,DYL,diyala,ديالى,بعقوبه الاكاديميه,DYL4301
+4302,DYL,diyala,ديالى,بعقوبه الباويه,DYL4302
+4303,DYL,diyala,ديالى,بعقوبه البتول,DYL4303
+4304,DYL,diyala,ديالى,بعقوبه التربيه,DYL4304
+4305,DYL,diyala,ديالى,بعقوبه الجامعه,DYL4305
+4306,DYL,diyala,ديالى,بعقوبه الجواهري,DYL4306
+4307,DYL,diyala,ديالى,بعقوبه الحي العماره الزركه,DYL4307
+4308,DYL,diyala,ديالى,بعقوبه الحي مطعم جنه بغداد,DYL4308
+4309,DYL,diyala,ديالى,بعقوبه الرازي,DYL4309
+4310,DYL,diyala,ديالى,بعقوبه الرحمه,DYL4310
+4311,DYL,diyala,ديالى,بعقوبه السايلو,DYL4311
+4312,DYL,diyala,ديالى,بعقوبه السجن الاصلاحي,DYL4312
+4313,DYL,diyala,ديالى,بعقوبه السراي,DYL4313
+4314,DYL,diyala,ديالى,بعقوبه السوق,DYL4314
+4315,DYL,diyala,ديالى,بعقوبه السينما,DYL4315
+4316,DYL,diyala,ديالى,بعقوبه الصدريه,DYL4316
+4317,DYL,diyala,ديالى,بعقوبه الصناعه الأولى,DYL4317
+4318,DYL,diyala,ديالى,بعقوبه الطابو,DYL4318
+4319,DYL,diyala,ديالى,بعقوبه الطب العدلي,DYL4319
+4320,DYL,diyala,ديالى,بعقوبه الطرق والجسور,DYL4320
+4321,DYL,diyala,ديالى,بعقوبه العزات,DYL4321
+4322,DYL,diyala,ديالى,بعقوبه العنافصه,DYL4322
+4323,DYL,diyala,ديالى,بعقوبه الغذائية,DYL4323
+4324,DYL,diyala,ديالى,بعقوبه الغيبي,DYL4324
+4325,DYL,diyala,ديالى,بعقوبه الفروسيه,DYL4325
+4326,DYL,diyala,ديالى,بعقوبه الفلاحه,DYL4326
+4327,DYL,diyala,ديالى,بعقوبه القطاع الخاص,DYL4327
+4328,DYL,diyala,ديالى,بعقوبه القياده,DYL4328
+4329,DYL,diyala,ديالى,بعقوبه الكوثر,DYL4329
+4330,DYL,diyala,ديالى,بعقوبه المجسر,DYL4330
+4331,DYL,diyala,ديالى,بعقوبه المخازن,DYL4331
+4332,DYL,diyala,ديالى,بعقوبه المركز التخصصي للاسنان,DYL4332
+4333,DYL,diyala,ديالى,بعقوبه المرور,DYL4333
+4334,DYL,diyala,ديالى,بعقوبه المفرك,DYL4334
+4335,DYL,diyala,ديالى,بعقوبه المنجره,DYL4335
+4336,DYL,diyala,ديالى,بعقوبه بلادي مول,DYL4336
+4337,DYL,diyala,ديالى,بعقوبه تقاطع البلده,DYL4337
+4338,DYL,diyala,ديالى,بعقوبه تقاطع الجوبه,DYL4338
+4339,DYL,diyala,ديالى,بعقوبه جامع الزيتوني,DYL4339
+4340,DYL,diyala,ديالى,بعقوبه جامع ساريه,DYL4340
+4341,DYL,diyala,ديالى,بعقوبه جرف الملح,DYL4341
+4342,DYL,diyala,ديالى,بعقوبه جسر الشريف,DYL4342
+4343,DYL,diyala,ديالى,بعقوبه حي المصطفى,DYL4343
+4344,DYL,diyala,ديالى,بعقوبه حي المعلمين,DYL4344
+4345,DYL,diyala,ديالى,بعقوبه خان اللوالوه,DYL4345
+4346,DYL,diyala,ديالى,بعقوبه خريسان الشعبيه,DYL4346
+4347,DYL,diyala,ديالى,بعقوبه خلف المحافظه,DYL4347
+4348,DYL,diyala,ديالى,بعقوبه دور الزراعه,DYL4348
+4349,DYL,diyala,ديالى,بعقوبه سوق الذهب,DYL4349
+4350,DYL,diyala,ديالى,بعقوبه شارع ابو رباح,DYL4350
+4351,DYL,diyala,ديالى,بعقوبه شارع الجمله,DYL4351
+4352,DYL,diyala,ديالى,بعقوبه شارع الدهلكي,DYL4352
+4353,DYL,diyala,ديالى,بعقوبه شارع الديري,DYL4353
+4354,DYL,diyala,ديالى,بعقوبه شارع المحافظه,DYL4354
+4355,DYL,diyala,ديالى,بعقوبه شارع المستشفى,DYL4355
+4356,DYL,diyala,ديالى,بعقوبه شارع المعارض,DYL4356
+4357,DYL,diyala,ديالى,بعقوبه شتال,DYL4357
+4358,DYL,diyala,ديالى,بعقوبه صيدليه بغداد,DYL4358
+4359,DYL,diyala,ديالى,بعقوبه قاعه شهرزاد,DYL4359
+4360,DYL,diyala,ديالى,بعقوبه قاعه فينوس,DYL4360
+4361,DYL,diyala,ديالى,بعقوبه قريه مندلي,DYL4361
+4362,DYL,diyala,ديالى,بعقوبه كاتب عدل,DYL4362
+4363,DYL,diyala,ديالى,بعقوبه كراج البحيره,DYL4363
+4364,DYL,diyala,ديالى,بعقوبه كراج الهويدر,DYL4364
+4365,DYL,diyala,ديالى,بعقوبه كراج الوسط,DYL4365
+4366,DYL,diyala,ديالى,بعقوبه كراج بغداد,DYL4366
+4367,DYL,diyala,ديالى,بعقوبه كليه الاساسيه,DYL4367
+4368,DYL,diyala,ديالى,بعقوبه كليه الفنون,DYL4368
+4369,DYL,diyala,ديالى,بعقوبه كنطره المختار,DYL4369
+4370,DYL,diyala,ديالى,بعقوبه كنطره خليل باشا,DYL4370
+4371,DYL,diyala,ديالى,بعقوبه كوكو كجن,DYL4371
+4372,DYL,diyala,ديالى,بعقوبه مجلس المحافظه,DYL4372
+4373,DYL,diyala,ديالى,بعقوبه مجمع مكي السكني,DYL4373
+4374,DYL,diyala,ديالى,بعقوبه محلات الوسام,DYL4374
+4375,DYL,diyala,ديالى,بعقوبه محمد الجوراني,DYL4375
+4376,DYL,diyala,ديالى,بعقوبه مدرسه الخمائل,DYL4376
+4377,DYL,diyala,ديالى,بعقوبه مستشفى العام,DYL4377
+4378,DYL,diyala,ديالى,بعقوبه مصرف اشنونا,DYL4378
+4379,DYL,diyala,ديالى,بعقوبه مصرف البحيره,DYL4379
+4380,DYL,diyala,ديالى,بعقوبه مطعم خطار,DYL4380
+4381,DYL,diyala,ديالى,بعقوبه مطعم زوبه,DYL4381
+4382,DYL,diyala,ديالى,بعقوبه معرض الجزيره,DYL4382
+4383,DYL,diyala,ديالى,بعقوبه معرض قصي ولؤي,DYL4383
+4384,DYL,diyala,ديالى,بعقوبه معسكر سعد,DYL4384
+4385,DYL,diyala,ديالى,بعقوبه مول النخبه,DYL4385
+4386,DYL,diyala,ديالى,بعقوبه نهر الحجيه,DYL4386
+4387,DYL,diyala,ديالى,بعقوبه ٧ نيسان,DYL4387
+4388,DYL,diyala,ديالى,بلدروز أمام عسكر,DYL4388
+4389,DYL,diyala,ديالى,بلدروز الحواش القلعه,DYL4389
+4390,DYL,diyala,ديالى,بلدروز الحي الصناعي,DYL4390
+4391,DYL,diyala,ديالى,بلدروز السواعد,DYL4391
+4392,DYL,diyala,ديالى,بلدروز السوق,DYL4392
+4393,DYL,diyala,ديالى,بلدروز العزيه,DYL4393
+4394,DYL,diyala,ديالى,بلدروز المسعوديه,DYL4394
+4395,DYL,diyala,ديالى,بلدروز حي الحشد,DYL4395
+4396,DYL,diyala,ديالى,بلدروز حي العسكري,DYL4396
+4397,DYL,diyala,ديالى,بلدروز حي العصري,DYL4397
+4398,DYL,diyala,ديالى,بلدروز دور مندلي,DYL4398
+4399,DYL,diyala,ديالى,بلدروز شارع السجاد,DYL4399
+4400,DYL,diyala,ديالى,بلدروز عتبه,DYL4400
+4401,DYL,diyala,ديالى,بلدروز كسيرات,DYL4401
+4402,DYL,diyala,ديالى,بلدروز كيلو ٢١,DYL4402
+4403,DYL,diyala,ديالى,بلدورز يم الكراج,DYL4403
+4404,DYL,diyala,ديالى,بني سعد ابن خلدون,DYL4404
+4405,DYL,diyala,ديالى,بني سعد ابوسير,DYL4405
+4406,DYL,diyala,ديالى,بني سعد الاتحاد,DYL4406
+4407,DYL,diyala,ديالى,بني سعد الانتصار,DYL4407
+4408,DYL,diyala,ديالى,بني سعد التأميم,DYL4408
+4409,DYL,diyala,ديالى,بني سعد الجنسيه,DYL4409
+4410,DYL,diyala,ديالى,بني سعد الحي العسكري,DYL4410
+4411,DYL,diyala,ديالى,بني سعد الحي العصري,DYL4411
+4412,DYL,diyala,ديالى,بني سعد الربيع,DYL4412
+4413,DYL,diyala,ديالى,بني سعد الرسول,DYL4413
+4414,DYL,diyala,ديالى,بني سعد الزبيدي,DYL4414
+4415,DYL,diyala,ديالى,بني سعد السميه,DYL4415
+4416,DYL,diyala,ديالى,بني سعد السوق,DYL4416
+4417,DYL,diyala,ديالى,بني سعد السيح,DYL4417
+4418,DYL,diyala,ديالى,بني سعد الشاكرين,DYL4418
+4419,DYL,diyala,ديالى,بني سعد الشيماء,DYL4419
+4420,DYL,diyala,ديالى,بني سعد الصناعه,DYL4420
+4421,DYL,diyala,ديالى,بني سعد الفلكه,DYL4421
+4422,DYL,diyala,ديالى,بني سعد الفوج,DYL4422
+4423,DYL,diyala,ديالى,بني سعد القادسيه,DYL4423
+4424,DYL,diyala,ديالى,بني سعد الكليه العسكريه,DYL4424
+4425,DYL,diyala,ديالى,بني سعد المديريه,DYL4425
+4426,DYL,diyala,ديالى,بني سعد المستوصف,DYL4426
+4427,DYL,diyala,ديالى,بني سعد المعسكر,DYL4427
+4428,DYL,diyala,ديالى,بني سعد حولي القائد,DYL4428
+4429,DYL,diyala,ديالى,بني سعد حي ابو سالم,DYL4429
+4430,DYL,diyala,ديالى,بني سعد خديدان,DYL4430
+4431,DYL,diyala,ديالى,بني سعد خلرف,DYL4431
+4432,DYL,diyala,ديالى,بني سعد شارع الدمن,DYL4432
+4433,DYL,diyala,ديالى,بني سعد عرب جبار,DYL4433
+4434,DYL,diyala,ديالى,بني سعد م المراديه,DYL4434
+4435,DYL,diyala,ديالى,بني سعد محطه الوقود,DYL4435
+4436,DYL,diyala,ديالى,بني سعد مراديه الزهاوي,DYL4436
+4437,DYL,diyala,ديالى,بني سعد مركز الشرطه,DYL4437
+4438,DYL,diyala,ديالى,بني سعد مركز سويد,DYL4438
+4439,DYL,diyala,ديالى,بني سعد نهر البستان,DYL4439
+4440,DYL,diyala,ديالى,بني سعد ١٧ تموز,DYL4440
+4441,DYL,diyala,ديالى,بهرز التكيه,DYL4441
+4442,DYL,diyala,ديالى,بهرز الجامع الكبير,DYL4442
+4443,DYL,diyala,ديالى,بهرز الخشالات,DYL4443
+4444,DYL,diyala,ديالى,بهرز الدواسر,DYL4444
+4445,DYL,diyala,ديالى,بهرز السوك,DYL4445
+4446,DYL,diyala,ديالى,بهرز السيطره الشماليه,DYL4446
+4447,DYL,diyala,ديالى,بهرز القادسيه,DYL4447
+4448,DYL,diyala,ديالى,بهرز المدرسه المحمديه,DYL4448
+4449,DYL,diyala,ديالى,بهرز المركز الصحي الجديد,DYL4449
+4450,DYL,diyala,ديالى,بهرز المركز الصحي القديم,DYL4450
+4451,DYL,diyala,ديالى,بهرز برغه,DYL4451
+4452,DYL,diyala,ديالى,بهرز تكيه الشيخ هاشم,DYL4452
+4453,DYL,diyala,ديالى,بهرز حي الفارس,DYL4453
+4454,DYL,diyala,ديالى,بهرز حي صدام,DYL4454
+4455,DYL,diyala,ديالى,بهرز قاعه النقاء,DYL4455
+4456,DYL,diyala,ديالى,بهزر السيطره الجنوبيه,DYL4456
+4457,DYL,diyala,ديالى,بهزر ٧نيسان,DYL4457
+4458,DYL,diyala,ديالى,تقاطع التربيه,DYL4458
+4459,DYL,diyala,ديالى,تقاطع الساده,DYL4459
+4460,DYL,diyala,ديالى,تقاطع القدس,DYL4460
+4461,DYL,diyala,ديالى,تقاطع عبدالله بن علي,DYL4461
+4462,DYL,diyala,ديالى,جباره,DYL4462
+4463,DYL,diyala,ديالى,جسر الجورجيه,DYL4463
+4464,DYL,diyala,ديالى,جلولاء,DYL4464
+4465,DYL,diyala,ديالى,جلولاء الإصلاح,DYL4465
+4466,DYL,diyala,ديالى,جميله جلولاء,DYL4466
+4467,DYL,diyala,ديالى,حد مكسر,DYL4467
+4468,DYL,diyala,ديالى,حمرين,DYL4468
+4469,DYL,diyala,ديالى,حي العبور,DYL4469
+4470,DYL,diyala,ديالى,خالص الكمانيه,DYL4470
+4471,DYL,diyala,ديالى,خالص الكوبات,DYL4471
+4472,DYL,diyala,ديالى,خالص المحموديه,DYL4472
+4473,DYL,diyala,ديالى,خالص تتن,DYL4473
+4474,DYL,diyala,ديالى,خالص سفيط,DYL4474
+4475,DYL,diyala,ديالى,خالص سيطره مدرع,DYL4475
+4476,DYL,diyala,ديالى,خالص طريق كركوك,DYL4476
+4477,DYL,diyala,ديالى,خالص عرب شوكه,DYL4477
+4478,DYL,diyala,ديالى,خالص محطه عين الشمس,DYL4478
+4479,DYL,diyala,ديالى,خالص مرطبات علاوي,DYL4479
+4480,DYL,diyala,ديالى,خانقين,DYL4480
+4481,DYL,diyala,ديالى,خانقين السعديه,DYL4481
+4482,DYL,diyala,ديالى,خانقين كلي,DYL4482
+4483,DYL,diyala,ديالى,خرنابات,DYL4483
+4484,DYL,diyala,ديالى,خريسان,DYL4484
+4485,DYL,diyala,ديالى,خريسان الشابندر,DYL4485
+4486,DYL,diyala,ديالى,خريسان صيرفه المندلاوي,DYL4486
+4487,DYL,diyala,ديالى,خريسان مرطبات الامير,DYL4487
+4488,DYL,diyala,ديالى,خريسان مصرف الرافدين,DYL4488
+4489,DYL,diyala,ديالى,خريسان نوتلا,DYL4489
+4490,DYL,diyala,ديالى,دلي عباس جامع عمار بن ياسر,DYL4490
+4491,DYL,diyala,ديالى,دلي عباس محطه الوقود,DYL4491
+4492,DYL,diyala,ديالى,ركه حجي سهيل,DYL4492
+4493,DYL,diyala,ديالى,زاغنيه,DYL4493
+4494,DYL,diyala,ديالى,شارع المحافظه الوقف الشيعي,DYL4494
+4495,DYL,diyala,ديالى,شارع المحافظه مصرف الثقه,DYL4495
+4496,DYL,diyala,ديالى,شارع المستشفى الجوازات,DYL4496
+4497,DYL,diyala,ديالى,شفته,DYL4497
+4498,DYL,diyala,ديالى,شهربان أمام ويس,DYL4498
+4499,DYL,diyala,ديالى,شهربان ابو صيدا,DYL4499
+4500,DYL,diyala,ديالى,شهربان الجزائر,DYL4500
+4501,DYL,diyala,ديالى,شهربان العمرانيه,DYL4501
+4502,DYL,diyala,ديالى,شهربان العواره,DYL4502
+4503,DYL,diyala,ديالى,شهربان ذيابه,DYL4503
+4504,DYL,diyala,ديالى,شهربان سنيجه,DYL4504
+4505,DYL,diyala,ديالى,شهربان قريه ضباب,DYL4505
+4506,DYL,diyala,ديالى,شهربان ملا جواد,DYL4506
+4507,DYL,diyala,ديالى,شيخ بابا,DYL4507
+4508,DYL,diyala,ديالى,صناعه حطين,DYL4508
+4509,DYL,diyala,ديالى,فلكه الامين,DYL4509
+4510,DYL,diyala,ديالى,قره تبه,DYL4510
+4511,DYL,diyala,ديالى,قريه زهره,DYL4511
+4512,DYL,diyala,ديالى,كاطون الرازي,DYL4512
+4513,DYL,diyala,ديالى,كاطون الرحمه,DYL4513
+4514,DYL,diyala,ديالى,كلجو,DYL4514
+4515,DYL,diyala,ديالى,كليه اليرموك,DYL4515
+4516,DYL,diyala,ديالى,كنعان ابو حلاوه,DYL4516
+4517,DYL,diyala,ديالى,كنعان البدعه,DYL4517
+4518,DYL,diyala,ديالى,كنعان دور مندلي,DYL4518
+4519,DYL,diyala,ديالى,كنعان سكوك,DYL4519
+4520,DYL,diyala,ديالى,كنعان سيسبانه,DYL4520
+4521,DYL,diyala,ديالى,كنعان عرب جاري,DYL4521
+4522,DYL,diyala,ديالى,كنعان قريه الفارس,DYL4522
+4523,DYL,diyala,ديالى,كنعان نهر ابراهيم,DYL4523
+4524,DYL,diyala,ديالى,مندلي قريه الندى,DYL4524
+4525,DYL,diyala,ديالى,منطقه الحكيم,DYL4525
+4526,DYL,diyala,ديالى,نهر الحجيه مركز الاورام,DYL4526
+4527,DYL,diyala,ديالى,نهر الحجيه مصرف الدم,DYL4527
+4528,DYL,diyala,ديالى,٧ نيسان جامع خديجه,DYL4528
+4529,DYL,diyala,ديالى,٧ نيسان قاعه احمد جاسب,DYL4529
+4530,DYL,diyala,ديالى,٧نيسان المدخل الجديد,DYL4530
+4531,DYL,diyala,ديالى,٧نيسان جامع الشهيد فرحان,DYL4531
+4532,DYL,diyala,ديالى,غير محدد,other
+4533,DYL,diyala,ديالى,كفري,DYL4533
